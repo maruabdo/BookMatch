@@ -1,30 +1,42 @@
-📚 BookMatch 📚
+# 📚 BookMatch
 
-Proyecto Integrador — Estructuras de Datos (UNaB) 
-Comisión: 2 — Ing. Maximiliano Zorzoli  
-Integrante: María Eugenia Abdo y Rossi  
+¡Hola! Este es mi proyecto integrador para la materia **Estructura de Datos** de la UNaB (Comisión 2, con el Ing. Zorzoli). 
 
-Descripción del Proyecto
-BookMatch es un sistema de recomendación y gestión de libros orientado a lectores apasionados de géneros específicos (como el *Thriller psicológico*). Su objetivo principal es resolver la problemática de encontrar la siguiente lectura ideal a partir de los gustos previos del usuario, evitando catálogos desordenados.
+## 💡 ¿De qué trata el proyecto?
+BookMatch surge como un sistema de gestión y recomendación de libros pensado para lectores apasionados por géneros específicos, como el thriller psicológico. La idea principal es resolver la dificultad de encontrar lecturas afines mediante un catálogo ordenado y accesible. 
+En esta primera versión (TP 1), el proyecto se enfoca en implementar la arquitectura base en Python utilizando Programación Orientada a Objetos (POO), encapsulamiento, carga de datos estructurados desde un archivo JSON y operaciones básicas interactivas por consola.
 
-Este repositorio corresponde al TP 01, enfocado en la implementación de la arquitectura modular, programación orientada a objetos con encapsulamiento, carga de datos mediante archivos estructurados y operaciones básicas en terminal.
+---
 
-Estructura del Proyecto
-El proyecto está organizado de forma modular para separar responsabilidades:
+## 📂 Estructura del proyecto
+Organicé el código de forma modular para que quede prolijo y respete las buenas prácticas de arquitectura:
+- `Modelos/`: Acá vive la clase `Libro` con sus respectivos atributos protegidos y getters.
+- `Datos/`: Guarda el archivo `libros.json` con la información inicial de prueba.
+- `Servicios/`: Contiene la lógica del gestor que procesa los datos y arma las operaciones de búsqueda y filtrado.
+- `main.py`: Es la interfaz de terminal interactiva para correr el programa.
 
-bookmatch/
-│
-├── Modelos/
-│   └── libro.py        # Define la clase Libro con atributos encapsulados (@property)
-│
-├── Datos/
-│   └── libros.json     # Base de datos local en formato JSON con los títulos de prueba
-│
-├── Servicios/
-│   └── gestor.py       # Lógica de negocio (Carga de datos, Búsqueda, Listado y Filtrado)
-│
-├── main.py             # Interfaz de usuario por consola (Menú interactivo)
-└── README.md           # Documentación del proyecto
+---
 
+## 🧪 Datos de prueba
+Para probar que todo funcione bien, dejé cargado un archivo `libros.json` en la carpeta `Datos/` con algunas novelas de prueba (como *La asistenta*, *La paciente silenciosa*, entre otras) que incluyen su ISBN, título, autor, género y rating.
 
-INSTRUCCIONES DE EJECUCIÓN
+---
+
+## 🚀 ¿Cómo ejecutarlo?
+Si querés probar el programa en tu compu, seguí estos pasos sencillos desde la terminal:
+
+1. Cloná o descargá este repositorio.
+2. Parate en la carpeta principal del proyecto (`BookMatch`):
+    ```bash
+    cd ruta/a/tu/carpeta/BookMatch
+    ```
+3. Ejecutá el archivo principal con: 
+    ```bash
+    python3 main.py
+    ```
+
+## 🖥️ Demo de la V1
+Al ejecutar el script, se abre un menú en la consola que permite hacer las tres operaciones obligatorias del TP1:
+* Listar todos los libros: Muestra el catálogo completo disponible.
+* Buscar por título: Permite ingresar el nombre de un libro para encontrarlo rápido.
+* Filtrar por género: Muestra una lista filtrada con los títulos que coincidan con el género ingresado.
