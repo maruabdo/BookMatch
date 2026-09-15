@@ -1,0 +1,22 @@
+[{
+    "isbn": "978-9877392227",
+    "titulo": "La asistenta",
+    "autor": "Freida McFadden",
+    "genero": "Thriller psicológico",
+    "rating": 9.2
+  },
+  {
+    "isbn": "978-9877388534",
+    "titulo": "La paciente silenciosa",
+    "autor": "Alex Michaelides",
+    "genero": "Suspense psicológico",
+    "rating": 9.4
+  },
+  {
+    "isbn": "978-9878222813",
+    "titulo": "Verity",
+    "autor": "Colleen Hoover",
+    "genero": "Thriller psicológico",
+    "rating": 9.0
+  }
+]
