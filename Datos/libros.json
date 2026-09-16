@@ -1,22 +1,142 @@
-[{
-    "isbn": "978-9877392227",
+[
+  {
+    "isbn": "978-950-644-231-1",
     "titulo": "La asistenta",
     "autor": "Freida McFadden",
     "genero": "Thriller psicológico",
-    "rating": 9.2
+    "rating": 4.6
   },
   {
-    "isbn": "978-9877388534",
+    "isbn": "978-950-02-1234-5",
     "titulo": "La paciente silenciosa",
     "autor": "Alex Michaelides",
-    "genero": "Suspense psicológico",
-    "rating": 9.4
+    "genero": "Thriller psicológico",
+    "rating": 4.5
   },
   {
-    "isbn": "978-9878222813",
-    "titulo": "Verity",
-    "autor": "Colleen Hoover",
+    "isbn": "978-987-566-892-3",
+    "titulo": "Detrás de sus ojos",
+    "autor": "Sarah Pinborough",
     "genero": "Thriller psicológico",
-    "rating": 9.0
+    "rating": 4.2
+  },
+  {
+    "isbn": "978-950-49-7112-8",
+    "titulo": "La chica del tren",
+    "autor": "Paula Hawkins",
+    "genero": "Thriller psicológico",
+    "rating": 4.0
+  },
+  {
+    "isbn": "978-987-725-341-0",
+    "titulo": "Perdida",
+    "autor": "Gillian Flynn",
+    "genero": "Thriller psicológico",
+    "rating": 4.4
+  },
+  {
+    "isbn": "978-950-15-2458-9",
+    "titulo": "El psicoanalista",
+    "autor": "John Katzenbach",
+    "genero": "Thriller psicológico",
+    "rating": 4.7
+  },
+  {
+    "isbn": "978-987-627-915-4",
+    "titulo": "La llamada de la bruja",
+    "autor": "John Katzenbach",
+    "genero": "Thriller psicológico",
+    "rating": 4.1
+  },
+  {
+    "isbn": "978-950-49-6523-3",
+    "titulo": "La pareja de al lado",
+    "autor": "Shari Lapena",
+    "genero": "Thriller psicológico",
+    "rating": 4.3
+  },
+  {
+    "isbn": "978-987-566-733-9",
+    "titulo": "Un extraño en casa",
+    "autor": "Shari Lapena",
+    "genero": "Thriller psicológico",
+    "rating": 4.0
+  },
+  {
+    "isbn": "978-950-02-0988-1",
+    "titulo": "En la oscuridad",
+    "autor": "Paula Hawkins",
+    "genero": "Thriller psicológico",
+    "rating": 3.9
+  },
+  {
+    "isbn": "978-987-725-110-2",
+    "titulo": "Los asesinos de la luna",
+    "autor": "David Grann",
+    "genero": "Novela negra",
+    "rating": 4.5
+  },
+  {
+    "isbn": "978-950-644-119-2",
+    "titulo": "El misterio de Salem's Lot",
+    "autor": "Stephen King",
+    "genero": "Terror y Misterio",
+    "rating": 4.4
+  },
+  {
+    "isbn": "978-987-627-440-1",
+    "titulo": "Misery",
+    "autor": "Stephen King",
+    "genero": "Thriller psicológico",
+    "rating": 4.8
+  },
+  {
+    "isbn": "978-950-15-2889-1",
+    "titulo": "El visitante",
+    "autor": "Stephen King",
+    "genero": "Misterio",
+    "rating": 4.3
+  },
+  {
+    "isbn": "978-950-49-5991-6",
+    "titulo": "La viuda",
+    "autor": "Fiona Barton",
+    "genero": "Thriller psicológico",
+    "rating": 3.8
+  },
+  {
+    "isbn": "978-987-566-999-9",
+    "titulo": "La madrastra",
+    "autor": "Fiona Barton",
+    "genero": "Thriller psicológico",
+    "rating": 3.9
+  },
+  {
+    "isbn": "978-987-725-500-1",
+    "titulo": "Nunca te encuentres",
+    "autor": "Harlan Coben",
+    "genero": "Suspenso",
+    "rating": 4.2
+  },
+  {
+    "isbn": "978-950-02-1500-1",
+    "titulo": "El inocente",
+    "autor": "Harlan Coben",
+    "genero": "Suspenso",
+    "rating": 4.5
+  },
+  {
+    "isbn": "978-950-644-350-9",
+    "titulo": "No hables con extraños",
+    "autor": "Harlan Coben",
+    "genero": "Suspenso",
+    "rating": 4.3
+  },
+  {
+    "isbn": "978-987-627-111-0",
+    "titulo": "La chica antes de empezar",
+    "autor": "JP Delaney",
+    "genero": "Thriller psicológico",
+    "rating": 4.1
   }
 ]
