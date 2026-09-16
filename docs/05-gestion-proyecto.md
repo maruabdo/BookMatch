@@ -28,3 +28,8 @@ Para el desarrollo del proyecto se implementa un enfoque ágil adaptado a los Sp
 - **Criterios de aceptación:**
   - Permite ingresar cadenas de texto para buscar coincidencias en los títulos.
   - Permite filtrar el catálogo devolviendo únicamente los libros del género seleccionado.
+
+  # Gestión del Proyecto (Tablero y Metodología) — BookMatch
+
+## Tablero de Trello
+- **Enlace al tablero:** https://trello.com/invite/b/6aaa967471e6dd0e61bb6c31/ATTI15f9e23aac28f47e0982efbc40b9294c56EAEFEF/bookmatch
