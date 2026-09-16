@@ -2,6 +2,11 @@
 
 ¡Hola! Este es mi proyecto integrador para la materia **Estructura de Datos** de la UNaB (Comisión 2, con el Ing. Zorzoli). 
 
+## 👥 Integrantes
+- **María Eugenia Abdo y Rossi** 
+
+---
+
 ## 💡 ¿De qué trata el proyecto?
 BookMatch surge como un sistema de gestión y recomendación de libros pensado para lectores apasionados por géneros específicos, como el thriller psicológico. La idea principal es resolver la dificultad de encontrar lecturas afines mediante un catálogo ordenado y accesible. 
 En esta primera versión (TP 1), el proyecto se enfoca en implementar la arquitectura base en Python utilizando Programación Orientada a Objetos (POO), encapsulamiento, carga de datos estructurados desde un archivo JSON y operaciones básicas interactivas por consola.
@@ -35,8 +40,20 @@ Si querés probar el programa en tu compu, seguí estos pasos sencillos desde la
     python3 main.py
     ```
 
+---
+
 ## 🖥️ Demo de la V1
 Al ejecutar el script, se abre un menú en la consola que permite hacer las tres operaciones obligatorias del TP1:
 * Listar todos los libros: Muestra el catálogo completo disponible.
 * Buscar por título: Permite ingresar el nombre de un libro para encontrarlo rápido.
 * Filtrar por género: Muestra una lista filtrada con los títulos que coincidan con el género ingresado.
+
+---
+
+## 📄 Documentación del Proyecto
+Toda la documentación formal correspondiente al TP 1 se encuentra en la carpeta `docs/`:
+- [01 - Requerimientos](docs/01-requerimientos.md)
+- [02 - Casos de Uso](docs/02-casos-de-uso.md)
+- [03 - Diagrama de Clases](docs/03-diagrama-clases.md)
+- [04 - Diagrama de Datos](docs/04-diagrama-datos.md)
+- [05 - Gestión del Proyecto (Trello)](docs/05-gestion-proyecto.md)
