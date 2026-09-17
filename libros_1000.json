@@ -1,0 +1,7002 @@
+[
+    {
+        "isbn": "978-987-4316-55-3",
+        "titulo": "Libro de Prueba 1",
+        "autor": "Shari Lapena",
+        "genero": "Suspenso",
+        "rating": 3.3
+    },
+    {
+        "isbn": "978-987-2960-39-9",
+        "titulo": "Libro de Prueba 2",
+        "autor": "Stephen King",
+        "genero": "Novela negra",
+        "rating": 3.6
+    },
+    {
+        "isbn": "978-987-6068-37-0",
+        "titulo": "Libro de Prueba 3",
+        "autor": "Harlan Coben",
+        "genero": "Suspenso",
+        "rating": 3.9
+    },
+    {
+        "isbn": "978-987-7354-25-3",
+        "titulo": "Libro de Prueba 4",
+        "autor": "Paula Hawkins",
+        "genero": "Misterio",
+        "rating": 4.0
+    },
+    {
+        "isbn": "978-987-4826-54-0",
+        "titulo": "Libro de Prueba 5",
+        "autor": "Freida McFadden",
+        "genero": "Suspenso",
+        "rating": 3.4
+    },
+    {
+        "isbn": "978-987-5493-30-8",
+        "titulo": "Libro de Prueba 6",
+        "autor": "Shari Lapena",
+        "genero": "Terror",
+        "rating": 4.7
+    },
+    {
+        "isbn": "978-987-8467-60-5",
+        "titulo": "Libro de Prueba 7",
+        "autor": "Freida McFadden",
+        "genero": "Terror",
+        "rating": 3.1
+    },
+    {
+        "isbn": "978-987-6649-35-8",
+        "titulo": "Libro de Prueba 8",
+        "autor": "Freida McFadden",
+        "genero": "Suspenso",
+        "rating": 4.3
+    },
+    {
+        "isbn": "978-987-3175-18-3",
+        "titulo": "Libro de Prueba 9",
+        "autor": "Shari Lapena",
+        "genero": "Thriller psicológico",
+        "rating": 3.8
+    },
+    {
+        "isbn": "978-987-4386-40-8",
+        "titulo": "Libro de Prueba 10",
+        "autor": "Harlan Coben",
+        "genero": "Misterio",
+        "rating": 3.0
+    },
+    {
+        "isbn": "978-987-7222-47-8",
+        "titulo": "Libro de Prueba 11",
+        "autor": "Stephen King",
+        "genero": "Novela negra",
+        "rating": 3.1
+    },
+    {
+        "isbn": "978-987-1755-72-2",
+        "titulo": "Libro de Prueba 12",
+        "autor": "Stephen King",
+        "genero": "Suspenso",
+        "rating": 5.0
+    },
+    {
+        "isbn": "978-987-5859-33-2",
+        "titulo": "Libro de Prueba 13",
+        "autor": "John Katzenbach",
+        "genero": "Novela negra",
+        "rating": 3.3
+    },
+    {
+        "isbn": "978-987-5264-84-7",
+        "titulo": "Libro de Prueba 14",
+        "autor": "Shari Lapena",
+        "genero": "Terror",
+        "rating": 4.9
+    },
+    {
+        "isbn": "978-987-4210-24-0",
+        "titulo": "Libro de Prueba 15",
+        "autor": "Freida McFadden",
+        "genero": "Misterio",
+        "rating": 3.9
+    },
+    {
+        "isbn": "978-987-3322-57-2",
+        "titulo": "Libro de Prueba 16",
+        "autor": "Alex Michaelides",
+        "genero": "Misterio",
+        "rating": 3.7
+    },
+    {
+        "isbn": "978-987-7163-60-2",
+        "titulo": "Libro de Prueba 17",
+        "autor": "Gillian Flynn",
+        "genero": "Terror",
+        "rating": 4.6
+    },
+    {
+        "isbn": "978-987-2304-84-2",
+        "titulo": "Libro de Prueba 18",
+        "autor": "Freida McFadden",
+        "genero": "Novela negra",
+        "rating": 3.3
+    },
+    {
+        "isbn": "978-987-3422-57-3",
+        "titulo": "Libro de Prueba 19",
+        "autor": "Paula Hawkins",
+        "genero": "Suspenso",
+        "rating": 4.0
+    },
+    {
+        "isbn": "978-987-8449-70-2",
+        "titulo": "Libro de Prueba 20",
+        "autor": "Alex Michaelides",
+        "genero": "Suspenso",
+        "rating": 5.0
+    },
+    {
+        "isbn": "978-987-4938-12-1",
+        "titulo": "Libro de Prueba 21",
+        "autor": "Gillian Flynn",
+        "genero": "Suspenso",
+        "rating": 4.0
+    },
+    {
+        "isbn": "978-987-6484-84-1",
+        "titulo": "Libro de Prueba 22",
+        "autor": "Harlan Coben",
+        "genero": "Misterio",
+        "rating": 3.9
+    },
+    {
+        "isbn": "978-987-7401-96-1",
+        "titulo": "Libro de Prueba 23",
+        "autor": "Harlan Coben",
+        "genero": "Thriller psicológico",
+        "rating": 4.9
+    },
+    {
+        "isbn": "978-987-5117-16-0",
+        "titulo": "Libro de Prueba 24",
+        "autor": "Gillian Flynn",
+        "genero": "Novela negra",
+        "rating": 4.7
+    },
+    {
+        "isbn": "978-987-2713-50-2",
+        "titulo": "Libro de Prueba 25",
+        "autor": "John Katzenbach",
+        "genero": "Novela negra",
+        "rating": 4.3
+    },
+    {
+        "isbn": "978-987-3302-75-0",
+        "titulo": "Libro de Prueba 26",
+        "autor": "John Katzenbach",
+        "genero": "Thriller psicológico",
+        "rating": 4.0
+    },
+    {
+        "isbn": "978-987-4270-20-0",
+        "titulo": "Libro de Prueba 27",
+        "autor": "John Katzenbach",
+        "genero": "Misterio",
+        "rating": 3.8
+    },
+    {
+        "isbn": "978-987-4893-16-8",
+        "titulo": "Libro de Prueba 28",
+        "autor": "Harlan Coben",
+        "genero": "Terror",
+        "rating": 3.5
+    },
+    {
+        "isbn": "978-987-6468-72-7",
+        "titulo": "Libro de Prueba 29",
+        "autor": "Shari Lapena",
+        "genero": "Misterio",
+        "rating": 4.9
+    },
+    {
+        "isbn": "978-987-9569-83-6",
+        "titulo": "Libro de Prueba 30",
+        "autor": "Gillian Flynn",
+        "genero": "Terror",
+        "rating": 3.0
+    },
+    {
+        "isbn": "978-987-6032-31-4",
+        "titulo": "Libro de Prueba 31",
+        "autor": "Gillian Flynn",
+        "genero": "Terror",
+        "rating": 3.8
+    },
+    {
+        "isbn": "978-987-6649-15-1",
+        "titulo": "Libro de Prueba 32",
+        "autor": "John Katzenbach",
+        "genero": "Terror",
+        "rating": 3.7
+    },
+    {
+        "isbn": "978-987-5012-65-0",
+        "titulo": "Libro de Prueba 33",
+        "autor": "Paula Hawkins",
+        "genero": "Terror",
+        "rating": 3.4
+    },
+    {
+        "isbn": "978-987-3519-45-0",
+        "titulo": "Libro de Prueba 34",
+        "autor": "Paula Hawkins",
+        "genero": "Novela negra",
+        "rating": 3.2
+    },
+    {
+        "isbn": "978-987-8912-76-1",
+        "titulo": "Libro de Prueba 35",
+        "autor": "John Katzenbach",
+        "genero": "Thriller psicológico",
+        "rating": 3.0
+    },
+    {
+        "isbn": "978-987-4237-13-6",
+        "titulo": "Libro de Prueba 36",
+        "autor": "Stephen King",
+        "genero": "Thriller psicológico",
+        "rating": 4.1
+    },
+    {
+        "isbn": "978-987-4122-24-6",
+        "titulo": "Libro de Prueba 37",
+        "autor": "John Katzenbach",
+        "genero": "Terror",
+        "rating": 3.4
+    },
+    {
+        "isbn": "978-987-8645-87-2",
+        "titulo": "Libro de Prueba 38",
+        "autor": "Freida McFadden",
+        "genero": "Novela negra",
+        "rating": 3.2
+    },
+    {
+        "isbn": "978-987-2855-66-3",
+        "titulo": "Libro de Prueba 39",
+        "autor": "Paula Hawkins",
+        "genero": "Terror",
+        "rating": 4.4
+    },
+    {
+        "isbn": "978-987-4219-64-6",
+        "titulo": "Libro de Prueba 40",
+        "autor": "Stephen King",
+        "genero": "Misterio",
+        "rating": 3.6
+    },
+    {
+        "isbn": "978-987-7703-85-7",
+        "titulo": "Libro de Prueba 41",
+        "autor": "Paula Hawkins",
+        "genero": "Suspenso",
+        "rating": 4.5
+    },
+    {
+        "isbn": "978-987-7048-97-8",
+        "titulo": "Libro de Prueba 42",
+        "autor": "Shari Lapena",
+        "genero": "Thriller psicológico",
+        "rating": 4.4
+    },
+    {
+        "isbn": "978-987-8252-63-6",
+        "titulo": "Libro de Prueba 43",
+        "autor": "Stephen King",
+        "genero": "Novela negra",
+        "rating": 3.0
+    },
+    {
+        "isbn": "978-987-7411-56-6",
+        "titulo": "Libro de Prueba 44",
+        "autor": "John Katzenbach",
+        "genero": "Terror",
+        "rating": 4.1
+    },
+    {
+        "isbn": "978-987-2775-27-8",
+        "titulo": "Libro de Prueba 45",
+        "autor": "Shari Lapena",
+        "genero": "Terror",
+        "rating": 3.4
+    },
+    {
+        "isbn": "978-987-1691-75-7",
+        "titulo": "Libro de Prueba 46",
+        "autor": "Harlan Coben",
+        "genero": "Novela negra",
+        "rating": 4.7
+    },
+    {
+        "isbn": "978-987-8619-74-0",
+        "titulo": "Libro de Prueba 47",
+        "autor": "John Katzenbach",
+        "genero": "Novela negra",
+        "rating": 3.6
+    },
+    {
+        "isbn": "978-987-9520-35-9",
+        "titulo": "Libro de Prueba 48",
+        "autor": "Freida McFadden",
+        "genero": "Terror",
+        "rating": 3.6
+    },
+    {
+        "isbn": "978-987-4430-54-1",
+        "titulo": "Libro de Prueba 49",
+        "autor": "Harlan Coben",
+        "genero": "Terror",
+        "rating": 3.7
+    },
+    {
+        "isbn": "978-987-6786-30-7",
+        "titulo": "Libro de Prueba 50",
+        "autor": "Gillian Flynn",
+        "genero": "Novela negra",
+        "rating": 4.6
+    },
+    {
+        "isbn": "978-987-5978-40-8",
+        "titulo": "Libro de Prueba 51",
+        "autor": "Freida McFadden",
+        "genero": "Suspenso",
+        "rating": 3.3
+    },
+    {
+        "isbn": "978-987-8650-41-2",
+        "titulo": "Libro de Prueba 52",
+        "autor": "Stephen King",
+        "genero": "Terror",
+        "rating": 3.9
+    },
+    {
+        "isbn": "978-987-3484-13-0",
+        "titulo": "Libro de Prueba 53",
+        "autor": "Gillian Flynn",
+        "genero": "Thriller psicológico",
+        "rating": 3.9
+    },
+    {
+        "isbn": "978-987-5275-21-5",
+        "titulo": "Libro de Prueba 54",
+        "autor": "Paula Hawkins",
+        "genero": "Novela negra",
+        "rating": 3.1
+    },
+    {
+        "isbn": "978-987-5709-59-7",
+        "titulo": "Libro de Prueba 55",
+        "autor": "Harlan Coben",
+        "genero": "Suspenso",
+        "rating": 3.3
+    },
+    {
+        "isbn": "978-987-6797-10-2",
+        "titulo": "Libro de Prueba 56",
+        "autor": "Paula Hawkins",
+        "genero": "Novela negra",
+        "rating": 3.2
+    },
+    {
+        "isbn": "978-987-3873-12-9",
+        "titulo": "Libro de Prueba 57",
+        "autor": "Gillian Flynn",
+        "genero": "Terror",
+        "rating": 3.2
+    },
+    {
+        "isbn": "978-987-1114-50-9",
+        "titulo": "Libro de Prueba 58",
+        "autor": "John Katzenbach",
+        "genero": "Suspenso",
+        "rating": 3.7
+    },
+    {
+        "isbn": "978-987-4325-98-2",
+        "titulo": "Libro de Prueba 59",
+        "autor": "Shari Lapena",
+        "genero": "Novela negra",
+        "rating": 3.1
+    },
+    {
+        "isbn": "978-987-7413-50-7",
+        "titulo": "Libro de Prueba 60",
+        "autor": "Freida McFadden",
+        "genero": "Misterio",
+        "rating": 3.8
+    },
+    {
+        "isbn": "978-987-2101-75-5",
+        "titulo": "Libro de Prueba 61",
+        "autor": "Alex Michaelides",
+        "genero": "Misterio",
+        "rating": 4.0
+    },
+    {
+        "isbn": "978-987-3739-36-1",
+        "titulo": "Libro de Prueba 62",
+        "autor": "Harlan Coben",
+        "genero": "Novela negra",
+        "rating": 4.6
+    },
+    {
+        "isbn": "978-987-7154-18-0",
+        "titulo": "Libro de Prueba 63",
+        "autor": "Shari Lapena",
+        "genero": "Misterio",
+        "rating": 3.2
+    },
+    {
+        "isbn": "978-987-4160-12-1",
+        "titulo": "Libro de Prueba 64",
+        "autor": "Alex Michaelides",
+        "genero": "Misterio",
+        "rating": 4.9
+    },
+    {
+        "isbn": "978-987-1729-30-6",
+        "titulo": "Libro de Prueba 65",
+        "autor": "Harlan Coben",
+        "genero": "Thriller psicológico",
+        "rating": 3.4
+    },
+    {
+        "isbn": "978-987-8777-17-6",
+        "titulo": "Libro de Prueba 66",
+        "autor": "Shari Lapena",
+        "genero": "Suspenso",
+        "rating": 4.6
+    },
+    {
+        "isbn": "978-987-3235-36-5",
+        "titulo": "Libro de Prueba 67",
+        "autor": "Paula Hawkins",
+        "genero": "Misterio",
+        "rating": 4.9
+    },
+    {
+        "isbn": "978-987-8083-40-8",
+        "titulo": "Libro de Prueba 68",
+        "autor": "Paula Hawkins",
+        "genero": "Terror",
+        "rating": 4.3
+    },
+    {
+        "isbn": "978-987-9820-35-6",
+        "titulo": "Libro de Prueba 69",
+        "autor": "Paula Hawkins",
+        "genero": "Misterio",
+        "rating": 3.9
+    },
+    {
+        "isbn": "978-987-4335-78-5",
+        "titulo": "Libro de Prueba 70",
+        "autor": "Shari Lapena",
+        "genero": "Terror",
+        "rating": 4.1
+    },
+    {
+        "isbn": "978-987-9664-30-5",
+        "titulo": "Libro de Prueba 71",
+        "autor": "Harlan Coben",
+        "genero": "Suspenso",
+        "rating": 4.9
+    },
+    {
+        "isbn": "978-987-1199-10-8",
+        "titulo": "Libro de Prueba 72",
+        "autor": "Gillian Flynn",
+        "genero": "Suspenso",
+        "rating": 3.3
+    },
+    {
+        "isbn": "978-987-9686-61-6",
+        "titulo": "Libro de Prueba 73",
+        "autor": "Harlan Coben",
+        "genero": "Terror",
+        "rating": 3.9
+    },
+    {
+        "isbn": "978-987-2911-55-4",
+        "titulo": "Libro de Prueba 74",
+        "autor": "Alex Michaelides",
+        "genero": "Misterio",
+        "rating": 4.1
+    },
+    {
+        "isbn": "978-987-9757-23-4",
+        "titulo": "Libro de Prueba 75",
+        "autor": "John Katzenbach",
+        "genero": "Suspenso",
+        "rating": 3.1
+    },
+    {
+        "isbn": "978-987-5735-42-2",
+        "titulo": "Libro de Prueba 76",
+        "autor": "Harlan Coben",
+        "genero": "Terror",
+        "rating": 5.0
+    },
+    {
+        "isbn": "978-987-8884-63-5",
+        "titulo": "Libro de Prueba 77",
+        "autor": "Stephen King",
+        "genero": "Terror",
+        "rating": 3.1
+    },
+    {
+        "isbn": "978-987-1438-30-5",
+        "titulo": "Libro de Prueba 78",
+        "autor": "Shari Lapena",
+        "genero": "Terror",
+        "rating": 4.1
+    },
+    {
+        "isbn": "978-987-6897-47-4",
+        "titulo": "Libro de Prueba 79",
+        "autor": "Alex Michaelides",
+        "genero": "Misterio",
+        "rating": 4.6
+    },
+    {
+        "isbn": "978-987-4617-96-1",
+        "titulo": "Libro de Prueba 80",
+        "autor": "Harlan Coben",
+        "genero": "Thriller psicológico",
+        "rating": 4.9
+    },
+    {
+        "isbn": "978-987-9937-86-5",
+        "titulo": "Libro de Prueba 81",
+        "autor": "John Katzenbach",
+        "genero": "Suspenso",
+        "rating": 4.0
+    },
+    {
+        "isbn": "978-987-6519-76-3",
+        "titulo": "Libro de Prueba 82",
+        "autor": "Paula Hawkins",
+        "genero": "Terror",
+        "rating": 3.3
+    },
+    {
+        "isbn": "978-987-7873-30-2",
+        "titulo": "Libro de Prueba 83",
+        "autor": "Freida McFadden",
+        "genero": "Novela negra",
+        "rating": 4.9
+    },
+    {
+        "isbn": "978-987-6252-52-6",
+        "titulo": "Libro de Prueba 84",
+        "autor": "Shari Lapena",
+        "genero": "Terror",
+        "rating": 4.1
+    },
+    {
+        "isbn": "978-987-3109-97-8",
+        "titulo": "Libro de Prueba 85",
+        "autor": "Paula Hawkins",
+        "genero": "Novela negra",
+        "rating": 4.9
+    },
+    {
+        "isbn": "978-987-5391-11-9",
+        "titulo": "Libro de Prueba 86",
+        "autor": "Gillian Flynn",
+        "genero": "Misterio",
+        "rating": 3.9
+    },
+    {
+        "isbn": "978-987-1347-62-5",
+        "titulo": "Libro de Prueba 87",
+        "autor": "Shari Lapena",
+        "genero": "Terror",
+        "rating": 4.0
+    },
+    {
+        "isbn": "978-987-2267-76-3",
+        "titulo": "Libro de Prueba 88",
+        "autor": "John Katzenbach",
+        "genero": "Suspenso",
+        "rating": 3.3
+    },
+    {
+        "isbn": "978-987-1770-71-5",
+        "titulo": "Libro de Prueba 89",
+        "autor": "Gillian Flynn",
+        "genero": "Suspenso",
+        "rating": 4.5
+    },
+    {
+        "isbn": "978-987-3241-27-4",
+        "titulo": "Libro de Prueba 90",
+        "autor": "Gillian Flynn",
+        "genero": "Suspenso",
+        "rating": 4.0
+    },
+    {
+        "isbn": "978-987-6732-31-8",
+        "titulo": "Libro de Prueba 91",
+        "autor": "Alex Michaelides",
+        "genero": "Misterio",
+        "rating": 4.7
+    },
+    {
+        "isbn": "978-987-4313-35-2",
+        "titulo": "Libro de Prueba 92",
+        "autor": "Stephen King",
+        "genero": "Suspenso",
+        "rating": 3.6
+    },
+    {
+        "isbn": "978-987-4730-98-3",
+        "titulo": "Libro de Prueba 93",
+        "autor": "Stephen King",
+        "genero": "Novela negra",
+        "rating": 3.0
+    },
+    {
+        "isbn": "978-987-9482-22-0",
+        "titulo": "Libro de Prueba 94",
+        "autor": "Paula Hawkins",
+        "genero": "Thriller psicológico",
+        "rating": 4.6
+    },
+    {
+        "isbn": "978-987-5038-79-9",
+        "titulo": "Libro de Prueba 95",
+        "autor": "Gillian Flynn",
+        "genero": "Misterio",
+        "rating": 3.2
+    },
+    {
+        "isbn": "978-987-8231-80-5",
+        "titulo": "Libro de Prueba 96",
+        "autor": "Alex Michaelides",
+        "genero": "Suspenso",
+        "rating": 5.0
+    },
+    {
+        "isbn": "978-987-9916-52-1",
+        "titulo": "Libro de Prueba 97",
+        "autor": "Harlan Coben",
+        "genero": "Misterio",
+        "rating": 5.0
+    },
+    {
+        "isbn": "978-987-2586-13-9",
+        "titulo": "Libro de Prueba 98",
+        "autor": "Alex Michaelides",
+        "genero": "Misterio",
+        "rating": 3.4
+    },
+    {
+        "isbn": "978-987-4205-23-9",
+        "titulo": "Libro de Prueba 99",
+        "autor": "Shari Lapena",
+        "genero": "Terror",
+        "rating": 3.8
+    },
+    {
+        "isbn": "978-987-3630-37-7",
+        "titulo": "Libro de Prueba 100",
+        "autor": "Freida McFadden",
+        "genero": "Suspenso",
+        "rating": 5.0
+    },
+    {
+        "isbn": "978-987-7035-12-3",
+        "titulo": "Libro de Prueba 101",
+        "autor": "Freida McFadden",
+        "genero": "Suspenso",
+        "rating": 4.4
+    },
+    {
+        "isbn": "978-987-9805-69-2",
+        "titulo": "Libro de Prueba 102",
+        "autor": "Alex Michaelides",
+        "genero": "Terror",
+        "rating": 3.9
+    },
+    {
+        "isbn": "978-987-7875-57-8",
+        "titulo": "Libro de Prueba 103",
+        "autor": "Shari Lapena",
+        "genero": "Misterio",
+        "rating": 4.6
+    },
+    {
+        "isbn": "978-987-2883-67-9",
+        "titulo": "Libro de Prueba 104",
+        "autor": "John Katzenbach",
+        "genero": "Novela negra",
+        "rating": 3.5
+    },
+    {
+        "isbn": "978-987-2771-73-2",
+        "titulo": "Libro de Prueba 105",
+        "autor": "Freida McFadden",
+        "genero": "Thriller psicológico",
+        "rating": 3.3
+    },
+    {
+        "isbn": "978-987-2268-64-9",
+        "titulo": "Libro de Prueba 106",
+        "autor": "John Katzenbach",
+        "genero": "Misterio",
+        "rating": 4.1
+    },
+    {
+        "isbn": "978-987-7991-34-0",
+        "titulo": "Libro de Prueba 107",
+        "autor": "Harlan Coben",
+        "genero": "Novela negra",
+        "rating": 4.0
+    },
+    {
+        "isbn": "978-987-1955-65-8",
+        "titulo": "Libro de Prueba 108",
+        "autor": "Paula Hawkins",
+        "genero": "Suspenso",
+        "rating": 4.3
+    },
+    {
+        "isbn": "978-987-8371-26-5",
+        "titulo": "Libro de Prueba 109",
+        "autor": "John Katzenbach",
+        "genero": "Novela negra",
+        "rating": 4.4
+    },
+    {
+        "isbn": "978-987-2992-39-8",
+        "titulo": "Libro de Prueba 110",
+        "autor": "Alex Michaelides",
+        "genero": "Novela negra",
+        "rating": 4.1
+    },
+    {
+        "isbn": "978-987-8616-97-9",
+        "titulo": "Libro de Prueba 111",
+        "autor": "Harlan Coben",
+        "genero": "Novela negra",
+        "rating": 3.7
+    },
+    {
+        "isbn": "978-987-5626-67-2",
+        "titulo": "Libro de Prueba 112",
+        "autor": "Harlan Coben",
+        "genero": "Thriller psicológico",
+        "rating": 3.6
+    },
+    {
+        "isbn": "978-987-9290-37-7",
+        "titulo": "Libro de Prueba 113",
+        "autor": "John Katzenbach",
+        "genero": "Terror",
+        "rating": 3.3
+    },
+    {
+        "isbn": "978-987-2092-87-4",
+        "titulo": "Libro de Prueba 114",
+        "autor": "Freida McFadden",
+        "genero": "Suspenso",
+        "rating": 4.7
+    },
+    {
+        "isbn": "978-987-8308-28-3",
+        "titulo": "Libro de Prueba 115",
+        "autor": "Freida McFadden",
+        "genero": "Misterio",
+        "rating": 3.5
+    },
+    {
+        "isbn": "978-987-7142-74-6",
+        "titulo": "Libro de Prueba 116",
+        "autor": "Paula Hawkins",
+        "genero": "Thriller psicológico",
+        "rating": 4.8
+    },
+    {
+        "isbn": "978-987-1571-53-4",
+        "titulo": "Libro de Prueba 117",
+        "autor": "Stephen King",
+        "genero": "Thriller psicológico",
+        "rating": 4.6
+    },
+    {
+        "isbn": "978-987-6216-91-0",
+        "titulo": "Libro de Prueba 118",
+        "autor": "John Katzenbach",
+        "genero": "Thriller psicológico",
+        "rating": 3.9
+    },
+    {
+        "isbn": "978-987-7623-67-8",
+        "titulo": "Libro de Prueba 119",
+        "autor": "Alex Michaelides",
+        "genero": "Suspenso",
+        "rating": 3.8
+    },
+    {
+        "isbn": "978-987-4071-75-6",
+        "titulo": "Libro de Prueba 120",
+        "autor": "Shari Lapena",
+        "genero": "Misterio",
+        "rating": 4.5
+    },
+    {
+        "isbn": "978-987-9297-98-2",
+        "titulo": "Libro de Prueba 121",
+        "autor": "Freida McFadden",
+        "genero": "Terror",
+        "rating": 3.5
+    },
+    {
+        "isbn": "978-987-6331-16-5",
+        "titulo": "Libro de Prueba 122",
+        "autor": "Alex Michaelides",
+        "genero": "Thriller psicológico",
+        "rating": 4.4
+    },
+    {
+        "isbn": "978-987-4475-95-7",
+        "titulo": "Libro de Prueba 123",
+        "autor": "Alex Michaelides",
+        "genero": "Thriller psicológico",
+        "rating": 4.6
+    },
+    {
+        "isbn": "978-987-1890-48-1",
+        "titulo": "Libro de Prueba 124",
+        "autor": "John Katzenbach",
+        "genero": "Suspenso",
+        "rating": 3.4
+    },
+    {
+        "isbn": "978-987-8946-50-0",
+        "titulo": "Libro de Prueba 125",
+        "autor": "Harlan Coben",
+        "genero": "Suspenso",
+        "rating": 4.6
+    },
+    {
+        "isbn": "978-987-4196-45-4",
+        "titulo": "Libro de Prueba 126",
+        "autor": "Shari Lapena",
+        "genero": "Thriller psicológico",
+        "rating": 4.4
+    },
+    {
+        "isbn": "978-987-6137-47-6",
+        "titulo": "Libro de Prueba 127",
+        "autor": "Harlan Coben",
+        "genero": "Misterio",
+        "rating": 3.4
+    },
+    {
+        "isbn": "978-987-3943-36-7",
+        "titulo": "Libro de Prueba 128",
+        "autor": "Alex Michaelides",
+        "genero": "Suspenso",
+        "rating": 3.0
+    },
+    {
+        "isbn": "978-987-9713-50-3",
+        "titulo": "Libro de Prueba 129",
+        "autor": "Shari Lapena",
+        "genero": "Misterio",
+        "rating": 4.7
+    },
+    {
+        "isbn": "978-987-4205-48-6",
+        "titulo": "Libro de Prueba 130",
+        "autor": "Gillian Flynn",
+        "genero": "Novela negra",
+        "rating": 4.7
+    },
+    {
+        "isbn": "978-987-8101-25-3",
+        "titulo": "Libro de Prueba 131",
+        "autor": "Freida McFadden",
+        "genero": "Misterio",
+        "rating": 4.5
+    },
+    {
+        "isbn": "978-987-8853-11-8",
+        "titulo": "Libro de Prueba 132",
+        "autor": "Shari Lapena",
+        "genero": "Novela negra",
+        "rating": 3.2
+    },
+    {
+        "isbn": "978-987-7797-91-2",
+        "titulo": "Libro de Prueba 133",
+        "autor": "Harlan Coben",
+        "genero": "Terror",
+        "rating": 3.2
+    },
+    {
+        "isbn": "978-987-7867-75-7",
+        "titulo": "Libro de Prueba 134",
+        "autor": "Stephen King",
+        "genero": "Suspenso",
+        "rating": 4.8
+    },
+    {
+        "isbn": "978-987-7030-43-6",
+        "titulo": "Libro de Prueba 135",
+        "autor": "Freida McFadden",
+        "genero": "Misterio",
+        "rating": 4.8
+    },
+    {
+        "isbn": "978-987-3483-50-0",
+        "titulo": "Libro de Prueba 136",
+        "autor": "Shari Lapena",
+        "genero": "Suspenso",
+        "rating": 3.2
+    },
+    {
+        "isbn": "978-987-4351-73-4",
+        "titulo": "Libro de Prueba 137",
+        "autor": "Harlan Coben",
+        "genero": "Thriller psicológico",
+        "rating": 3.5
+    },
+    {
+        "isbn": "978-987-6780-78-1",
+        "titulo": "Libro de Prueba 138",
+        "autor": "Shari Lapena",
+        "genero": "Thriller psicológico",
+        "rating": 4.8
+    },
+    {
+        "isbn": "978-987-6622-62-1",
+        "titulo": "Libro de Prueba 139",
+        "autor": "Stephen King",
+        "genero": "Terror",
+        "rating": 4.4
+    },
+    {
+        "isbn": "978-987-8475-63-4",
+        "titulo": "Libro de Prueba 140",
+        "autor": "Freida McFadden",
+        "genero": "Thriller psicológico",
+        "rating": 4.0
+    },
+    {
+        "isbn": "978-987-2805-20-3",
+        "titulo": "Libro de Prueba 141",
+        "autor": "Stephen King",
+        "genero": "Novela negra",
+        "rating": 4.9
+    },
+    {
+        "isbn": "978-987-9104-26-1",
+        "titulo": "Libro de Prueba 142",
+        "autor": "John Katzenbach",
+        "genero": "Misterio",
+        "rating": 3.0
+    },
+    {
+        "isbn": "978-987-3496-66-9",
+        "titulo": "Libro de Prueba 143",
+        "autor": "Gillian Flynn",
+        "genero": "Misterio",
+        "rating": 3.2
+    },
+    {
+        "isbn": "978-987-5076-16-0",
+        "titulo": "Libro de Prueba 144",
+        "autor": "Harlan Coben",
+        "genero": "Terror",
+        "rating": 3.2
+    },
+    {
+        "isbn": "978-987-7439-70-6",
+        "titulo": "Libro de Prueba 145",
+        "autor": "Alex Michaelides",
+        "genero": "Suspenso",
+        "rating": 4.7
+    },
+    {
+        "isbn": "978-987-6075-90-3",
+        "titulo": "Libro de Prueba 146",
+        "autor": "Shari Lapena",
+        "genero": "Novela negra",
+        "rating": 4.8
+    },
+    {
+        "isbn": "978-987-8456-46-7",
+        "titulo": "Libro de Prueba 147",
+        "autor": "Stephen King",
+        "genero": "Misterio",
+        "rating": 3.6
+    },
+    {
+        "isbn": "978-987-5977-90-8",
+        "titulo": "Libro de Prueba 148",
+        "autor": "Stephen King",
+        "genero": "Suspenso",
+        "rating": 3.4
+    },
+    {
+        "isbn": "978-987-6923-57-6",
+        "titulo": "Libro de Prueba 149",
+        "autor": "John Katzenbach",
+        "genero": "Terror",
+        "rating": 3.5
+    },
+    {
+        "isbn": "978-987-5753-67-8",
+        "titulo": "Libro de Prueba 150",
+        "autor": "Gillian Flynn",
+        "genero": "Suspenso",
+        "rating": 5.0
+    },
+    {
+        "isbn": "978-987-6740-81-9",
+        "titulo": "Libro de Prueba 151",
+        "autor": "Freida McFadden",
+        "genero": "Novela negra",
+        "rating": 4.7
+    },
+    {
+        "isbn": "978-987-2818-67-5",
+        "titulo": "Libro de Prueba 152",
+        "autor": "Shari Lapena",
+        "genero": "Novela negra",
+        "rating": 4.9
+    },
+    {
+        "isbn": "978-987-8251-91-0",
+        "titulo": "Libro de Prueba 153",
+        "autor": "Shari Lapena",
+        "genero": "Terror",
+        "rating": 3.5
+    },
+    {
+        "isbn": "978-987-2127-35-5",
+        "titulo": "Libro de Prueba 154",
+        "autor": "Stephen King",
+        "genero": "Misterio",
+        "rating": 3.2
+    },
+    {
+        "isbn": "978-987-3285-83-3",
+        "titulo": "Libro de Prueba 155",
+        "autor": "Harlan Coben",
+        "genero": "Thriller psicológico",
+        "rating": 4.7
+    },
+    {
+        "isbn": "978-987-3378-98-5",
+        "titulo": "Libro de Prueba 156",
+        "autor": "Paula Hawkins",
+        "genero": "Thriller psicológico",
+        "rating": 4.9
+    },
+    {
+        "isbn": "978-987-1879-54-2",
+        "titulo": "Libro de Prueba 157",
+        "autor": "Harlan Coben",
+        "genero": "Thriller psicológico",
+        "rating": 4.4
+    },
+    {
+        "isbn": "978-987-6774-64-6",
+        "titulo": "Libro de Prueba 158",
+        "autor": "Alex Michaelides",
+        "genero": "Terror",
+        "rating": 4.8
+    },
+    {
+        "isbn": "978-987-8796-98-8",
+        "titulo": "Libro de Prueba 159",
+        "autor": "Paula Hawkins",
+        "genero": "Misterio",
+        "rating": 3.7
+    },
+    {
+        "isbn": "978-987-1946-89-0",
+        "titulo": "Libro de Prueba 160",
+        "autor": "Alex Michaelides",
+        "genero": "Terror",
+        "rating": 3.5
+    },
+    {
+        "isbn": "978-987-5454-60-5",
+        "titulo": "Libro de Prueba 161",
+        "autor": "Alex Michaelides",
+        "genero": "Terror",
+        "rating": 4.0
+    },
+    {
+        "isbn": "978-987-8478-99-4",
+        "titulo": "Libro de Prueba 162",
+        "autor": "Alex Michaelides",
+        "genero": "Misterio",
+        "rating": 3.2
+    },
+    {
+        "isbn": "978-987-9506-29-0",
+        "titulo": "Libro de Prueba 163",
+        "autor": "Freida McFadden",
+        "genero": "Terror",
+        "rating": 4.4
+    },
+    {
+        "isbn": "978-987-4704-90-0",
+        "titulo": "Libro de Prueba 164",
+        "autor": "Gillian Flynn",
+        "genero": "Terror",
+        "rating": 3.4
+    },
+    {
+        "isbn": "978-987-4920-79-1",
+        "titulo": "Libro de Prueba 165",
+        "autor": "Stephen King",
+        "genero": "Thriller psicológico",
+        "rating": 4.6
+    },
+    {
+        "isbn": "978-987-1552-55-9",
+        "titulo": "Libro de Prueba 166",
+        "autor": "Paula Hawkins",
+        "genero": "Suspenso",
+        "rating": 3.7
+    },
+    {
+        "isbn": "978-987-8629-25-9",
+        "titulo": "Libro de Prueba 167",
+        "autor": "Alex Michaelides",
+        "genero": "Thriller psicológico",
+        "rating": 3.6
+    },
+    {
+        "isbn": "978-987-7176-34-3",
+        "titulo": "Libro de Prueba 168",
+        "autor": "Freida McFadden",
+        "genero": "Thriller psicológico",
+        "rating": 4.9
+    },
+    {
+        "isbn": "978-987-7099-26-8",
+        "titulo": "Libro de Prueba 169",
+        "autor": "Shari Lapena",
+        "genero": "Suspenso",
+        "rating": 3.5
+    },
+    {
+        "isbn": "978-987-2447-93-6",
+        "titulo": "Libro de Prueba 170",
+        "autor": "Shari Lapena",
+        "genero": "Terror",
+        "rating": 4.3
+    },
+    {
+        "isbn": "978-987-5941-59-4",
+        "titulo": "Libro de Prueba 171",
+        "autor": "Harlan Coben",
+        "genero": "Thriller psicológico",
+        "rating": 4.9
+    },
+    {
+        "isbn": "978-987-7760-93-6",
+        "titulo": "Libro de Prueba 172",
+        "autor": "John Katzenbach",
+        "genero": "Terror",
+        "rating": 4.0
+    },
+    {
+        "isbn": "978-987-6876-71-3",
+        "titulo": "Libro de Prueba 173",
+        "autor": "Alex Michaelides",
+        "genero": "Thriller psicológico",
+        "rating": 4.6
+    },
+    {
+        "isbn": "978-987-3021-24-5",
+        "titulo": "Libro de Prueba 174",
+        "autor": "Harlan Coben",
+        "genero": "Terror",
+        "rating": 4.9
+    },
+    {
+        "isbn": "978-987-8664-51-3",
+        "titulo": "Libro de Prueba 175",
+        "autor": "Gillian Flynn",
+        "genero": "Misterio",
+        "rating": 4.1
+    },
+    {
+        "isbn": "978-987-5126-88-5",
+        "titulo": "Libro de Prueba 176",
+        "autor": "Paula Hawkins",
+        "genero": "Misterio",
+        "rating": 4.8
+    },
+    {
+        "isbn": "978-987-8404-65-6",
+        "titulo": "Libro de Prueba 177",
+        "autor": "Shari Lapena",
+        "genero": "Suspenso",
+        "rating": 3.6
+    },
+    {
+        "isbn": "978-987-7384-62-6",
+        "titulo": "Libro de Prueba 178",
+        "autor": "Paula Hawkins",
+        "genero": "Misterio",
+        "rating": 4.3
+    },
+    {
+        "isbn": "978-987-5255-12-5",
+        "titulo": "Libro de Prueba 179",
+        "autor": "Stephen King",
+        "genero": "Novela negra",
+        "rating": 4.9
+    },
+    {
+        "isbn": "978-987-2286-46-4",
+        "titulo": "Libro de Prueba 180",
+        "autor": "Gillian Flynn",
+        "genero": "Novela negra",
+        "rating": 4.7
+    },
+    {
+        "isbn": "978-987-8758-15-8",
+        "titulo": "Libro de Prueba 181",
+        "autor": "John Katzenbach",
+        "genero": "Novela negra",
+        "rating": 3.8
+    },
+    {
+        "isbn": "978-987-4227-74-4",
+        "titulo": "Libro de Prueba 182",
+        "autor": "Freida McFadden",
+        "genero": "Terror",
+        "rating": 4.7
+    },
+    {
+        "isbn": "978-987-9090-88-0",
+        "titulo": "Libro de Prueba 183",
+        "autor": "Gillian Flynn",
+        "genero": "Misterio",
+        "rating": 3.1
+    },
+    {
+        "isbn": "978-987-3236-13-3",
+        "titulo": "Libro de Prueba 184",
+        "autor": "John Katzenbach",
+        "genero": "Terror",
+        "rating": 4.7
+    },
+    {
+        "isbn": "978-987-9751-63-8",
+        "titulo": "Libro de Prueba 185",
+        "autor": "John Katzenbach",
+        "genero": "Thriller psicológico",
+        "rating": 4.2
+    },
+    {
+        "isbn": "978-987-7418-21-5",
+        "titulo": "Libro de Prueba 186",
+        "autor": "John Katzenbach",
+        "genero": "Terror",
+        "rating": 4.1
+    },
+    {
+        "isbn": "978-987-6468-36-0",
+        "titulo": "Libro de Prueba 187",
+        "autor": "Harlan Coben",
+        "genero": "Thriller psicológico",
+        "rating": 3.7
+    },
+    {
+        "isbn": "978-987-9301-82-8",
+        "titulo": "Libro de Prueba 188",
+        "autor": "Alex Michaelides",
+        "genero": "Suspenso",
+        "rating": 4.9
+    },
+    {
+        "isbn": "978-987-8676-26-7",
+        "titulo": "Libro de Prueba 189",
+        "autor": "Stephen King",
+        "genero": "Thriller psicológico",
+        "rating": 4.9
+    },
+    {
+        "isbn": "978-987-8171-42-9",
+        "titulo": "Libro de Prueba 190",
+        "autor": "Alex Michaelides",
+        "genero": "Suspenso",
+        "rating": 3.6
+    },
+    {
+        "isbn": "978-987-5653-47-0",
+        "titulo": "Libro de Prueba 191",
+        "autor": "Paula Hawkins",
+        "genero": "Thriller psicológico",
+        "rating": 3.6
+    },
+    {
+        "isbn": "978-987-2777-18-2",
+        "titulo": "Libro de Prueba 192",
+        "autor": "John Katzenbach",
+        "genero": "Misterio",
+        "rating": 4.2
+    },
+    {
+        "isbn": "978-987-8092-84-9",
+        "titulo": "Libro de Prueba 193",
+        "autor": "John Katzenbach",
+        "genero": "Suspenso",
+        "rating": 3.3
+    },
+    {
+        "isbn": "978-987-4567-19-0",
+        "titulo": "Libro de Prueba 194",
+        "autor": "Harlan Coben",
+        "genero": "Suspenso",
+        "rating": 4.4
+    },
+    {
+        "isbn": "978-987-7115-57-7",
+        "titulo": "Libro de Prueba 195",
+        "autor": "Stephen King",
+        "genero": "Thriller psicológico",
+        "rating": 3.9
+    },
+    {
+        "isbn": "978-987-6759-56-1",
+        "titulo": "Libro de Prueba 196",
+        "autor": "John Katzenbach",
+        "genero": "Misterio",
+        "rating": 3.9
+    },
+    {
+        "isbn": "978-987-3843-42-5",
+        "titulo": "Libro de Prueba 197",
+        "autor": "Freida McFadden",
+        "genero": "Thriller psicológico",
+        "rating": 4.7
+    },
+    {
+        "isbn": "978-987-2185-18-3",
+        "titulo": "Libro de Prueba 198",
+        "autor": "Harlan Coben",
+        "genero": "Novela negra",
+        "rating": 4.0
+    },
+    {
+        "isbn": "978-987-1429-42-9",
+        "titulo": "Libro de Prueba 199",
+        "autor": "Stephen King",
+        "genero": "Thriller psicológico",
+        "rating": 3.3
+    },
+    {
+        "isbn": "978-987-4055-25-8",
+        "titulo": "Libro de Prueba 200",
+        "autor": "Harlan Coben",
+        "genero": "Terror",
+        "rating": 4.6
+    },
+    {
+        "isbn": "978-987-5099-76-0",
+        "titulo": "Libro de Prueba 201",
+        "autor": "Alex Michaelides",
+        "genero": "Suspenso",
+        "rating": 3.0
+    },
+    {
+        "isbn": "978-987-7645-89-8",
+        "titulo": "Libro de Prueba 202",
+        "autor": "Gillian Flynn",
+        "genero": "Novela negra",
+        "rating": 3.9
+    },
+    {
+        "isbn": "978-987-1384-78-5",
+        "titulo": "Libro de Prueba 203",
+        "autor": "John Katzenbach",
+        "genero": "Novela negra",
+        "rating": 3.9
+    },
+    {
+        "isbn": "978-987-3501-47-4",
+        "titulo": "Libro de Prueba 204",
+        "autor": "John Katzenbach",
+        "genero": "Suspenso",
+        "rating": 3.6
+    },
+    {
+        "isbn": "978-987-7022-41-7",
+        "titulo": "Libro de Prueba 205",
+        "autor": "Shari Lapena",
+        "genero": "Misterio",
+        "rating": 4.8
+    },
+    {
+        "isbn": "978-987-7421-27-3",
+        "titulo": "Libro de Prueba 206",
+        "autor": "Gillian Flynn",
+        "genero": "Terror",
+        "rating": 3.1
+    },
+    {
+        "isbn": "978-987-5395-22-5",
+        "titulo": "Libro de Prueba 207",
+        "autor": "Stephen King",
+        "genero": "Thriller psicológico",
+        "rating": 3.4
+    },
+    {
+        "isbn": "978-987-5286-69-2",
+        "titulo": "Libro de Prueba 208",
+        "autor": "Alex Michaelides",
+        "genero": "Misterio",
+        "rating": 3.5
+    },
+    {
+        "isbn": "978-987-8654-14-7",
+        "titulo": "Libro de Prueba 209",
+        "autor": "Gillian Flynn",
+        "genero": "Misterio",
+        "rating": 4.9
+    },
+    {
+        "isbn": "978-987-2266-57-3",
+        "titulo": "Libro de Prueba 210",
+        "autor": "Freida McFadden",
+        "genero": "Terror",
+        "rating": 4.9
+    },
+    {
+        "isbn": "978-987-4215-97-7",
+        "titulo": "Libro de Prueba 211",
+        "autor": "Freida McFadden",
+        "genero": "Misterio",
+        "rating": 4.7
+    },
+    {
+        "isbn": "978-987-6072-68-3",
+        "titulo": "Libro de Prueba 212",
+        "autor": "Gillian Flynn",
+        "genero": "Novela negra",
+        "rating": 4.5
+    },
+    {
+        "isbn": "978-987-9244-61-6",
+        "titulo": "Libro de Prueba 213",
+        "autor": "Harlan Coben",
+        "genero": "Thriller psicológico",
+        "rating": 4.2
+    },
+    {
+        "isbn": "978-987-2808-93-7",
+        "titulo": "Libro de Prueba 214",
+        "autor": "Shari Lapena",
+        "genero": "Misterio",
+        "rating": 3.2
+    },
+    {
+        "isbn": "978-987-7791-76-7",
+        "titulo": "Libro de Prueba 215",
+        "autor": "Freida McFadden",
+        "genero": "Novela negra",
+        "rating": 3.4
+    },
+    {
+        "isbn": "978-987-4614-59-2",
+        "titulo": "Libro de Prueba 216",
+        "autor": "Shari Lapena",
+        "genero": "Suspenso",
+        "rating": 4.8
+    },
+    {
+        "isbn": "978-987-8104-30-2",
+        "titulo": "Libro de Prueba 217",
+        "autor": "Gillian Flynn",
+        "genero": "Novela negra",
+        "rating": 4.7
+    },
+    {
+        "isbn": "978-987-1031-24-0",
+        "titulo": "Libro de Prueba 218",
+        "autor": "Shari Lapena",
+        "genero": "Suspenso",
+        "rating": 4.1
+    },
+    {
+        "isbn": "978-987-7968-85-1",
+        "titulo": "Libro de Prueba 219",
+        "autor": "Alex Michaelides",
+        "genero": "Misterio",
+        "rating": 4.8
+    },
+    {
+        "isbn": "978-987-5960-75-8",
+        "titulo": "Libro de Prueba 220",
+        "autor": "Gillian Flynn",
+        "genero": "Thriller psicológico",
+        "rating": 3.0
+    },
+    {
+        "isbn": "978-987-8803-57-2",
+        "titulo": "Libro de Prueba 221",
+        "autor": "Stephen King",
+        "genero": "Terror",
+        "rating": 3.7
+    },
+    {
+        "isbn": "978-987-9781-93-9",
+        "titulo": "Libro de Prueba 222",
+        "autor": "John Katzenbach",
+        "genero": "Suspenso",
+        "rating": 3.7
+    },
+    {
+        "isbn": "978-987-3853-71-4",
+        "titulo": "Libro de Prueba 223",
+        "autor": "Alex Michaelides",
+        "genero": "Misterio",
+        "rating": 4.7
+    },
+    {
+        "isbn": "978-987-1024-47-0",
+        "titulo": "Libro de Prueba 224",
+        "autor": "Harlan Coben",
+        "genero": "Terror",
+        "rating": 3.5
+    },
+    {
+        "isbn": "978-987-8126-70-3",
+        "titulo": "Libro de Prueba 225",
+        "autor": "Paula Hawkins",
+        "genero": "Thriller psicológico",
+        "rating": 3.1
+    },
+    {
+        "isbn": "978-987-2212-57-1",
+        "titulo": "Libro de Prueba 226",
+        "autor": "Alex Michaelides",
+        "genero": "Novela negra",
+        "rating": 3.9
+    },
+    {
+        "isbn": "978-987-5699-10-0",
+        "titulo": "Libro de Prueba 227",
+        "autor": "Alex Michaelides",
+        "genero": "Thriller psicológico",
+        "rating": 3.1
+    },
+    {
+        "isbn": "978-987-9730-67-8",
+        "titulo": "Libro de Prueba 228",
+        "autor": "Gillian Flynn",
+        "genero": "Terror",
+        "rating": 4.7
+    },
+    {
+        "isbn": "978-987-2365-13-9",
+        "titulo": "Libro de Prueba 229",
+        "autor": "Shari Lapena",
+        "genero": "Thriller psicológico",
+        "rating": 4.6
+    },
+    {
+        "isbn": "978-987-1805-93-9",
+        "titulo": "Libro de Prueba 230",
+        "autor": "John Katzenbach",
+        "genero": "Novela negra",
+        "rating": 4.4
+    },
+    {
+        "isbn": "978-987-2213-72-1",
+        "titulo": "Libro de Prueba 231",
+        "autor": "Freida McFadden",
+        "genero": "Terror",
+        "rating": 4.6
+    },
+    {
+        "isbn": "978-987-6848-89-5",
+        "titulo": "Libro de Prueba 232",
+        "autor": "John Katzenbach",
+        "genero": "Thriller psicológico",
+        "rating": 4.7
+    },
+    {
+        "isbn": "978-987-8166-42-7",
+        "titulo": "Libro de Prueba 233",
+        "autor": "John Katzenbach",
+        "genero": "Suspenso",
+        "rating": 4.1
+    },
+    {
+        "isbn": "978-987-8631-54-0",
+        "titulo": "Libro de Prueba 234",
+        "autor": "John Katzenbach",
+        "genero": "Terror",
+        "rating": 3.1
+    },
+    {
+        "isbn": "978-987-8955-15-5",
+        "titulo": "Libro de Prueba 235",
+        "autor": "Gillian Flynn",
+        "genero": "Suspenso",
+        "rating": 4.5
+    },
+    {
+        "isbn": "978-987-6411-61-8",
+        "titulo": "Libro de Prueba 236",
+        "autor": "John Katzenbach",
+        "genero": "Terror",
+        "rating": 3.8
+    },
+    {
+        "isbn": "978-987-8620-86-9",
+        "titulo": "Libro de Prueba 237",
+        "autor": "Paula Hawkins",
+        "genero": "Terror",
+        "rating": 4.1
+    },
+    {
+        "isbn": "978-987-4587-58-1",
+        "titulo": "Libro de Prueba 238",
+        "autor": "Stephen King",
+        "genero": "Misterio",
+        "rating": 3.3
+    },
+    {
+        "isbn": "978-987-1975-12-0",
+        "titulo": "Libro de Prueba 239",
+        "autor": "John Katzenbach",
+        "genero": "Misterio",
+        "rating": 4.3
+    },
+    {
+        "isbn": "978-987-2772-83-8",
+        "titulo": "Libro de Prueba 240",
+        "autor": "Paula Hawkins",
+        "genero": "Terror",
+        "rating": 3.8
+    },
+    {
+        "isbn": "978-987-4418-35-2",
+        "titulo": "Libro de Prueba 241",
+        "autor": "Freida McFadden",
+        "genero": "Thriller psicológico",
+        "rating": 4.0
+    },
+    {
+        "isbn": "978-987-8938-10-7",
+        "titulo": "Libro de Prueba 242",
+        "autor": "Gillian Flynn",
+        "genero": "Terror",
+        "rating": 3.6
+    },
+    {
+        "isbn": "978-987-2389-60-8",
+        "titulo": "Libro de Prueba 243",
+        "autor": "Freida McFadden",
+        "genero": "Terror",
+        "rating": 3.4
+    },
+    {
+        "isbn": "978-987-2122-42-6",
+        "titulo": "Libro de Prueba 244",
+        "autor": "Shari Lapena",
+        "genero": "Misterio",
+        "rating": 4.0
+    },
+    {
+        "isbn": "978-987-7057-63-2",
+        "titulo": "Libro de Prueba 245",
+        "autor": "Paula Hawkins",
+        "genero": "Novela negra",
+        "rating": 3.5
+    },
+    {
+        "isbn": "978-987-8700-39-4",
+        "titulo": "Libro de Prueba 246",
+        "autor": "Freida McFadden",
+        "genero": "Novela negra",
+        "rating": 3.5
+    },
+    {
+        "isbn": "978-987-1997-43-9",
+        "titulo": "Libro de Prueba 247",
+        "autor": "Freida McFadden",
+        "genero": "Terror",
+        "rating": 3.7
+    },
+    {
+        "isbn": "978-987-4356-44-3",
+        "titulo": "Libro de Prueba 248",
+        "autor": "Freida McFadden",
+        "genero": "Thriller psicológico",
+        "rating": 3.9
+    },
+    {
+        "isbn": "978-987-4084-75-6",
+        "titulo": "Libro de Prueba 249",
+        "autor": "Paula Hawkins",
+        "genero": "Misterio",
+        "rating": 4.1
+    },
+    {
+        "isbn": "978-987-3463-77-6",
+        "titulo": "Libro de Prueba 250",
+        "autor": "Stephen King",
+        "genero": "Misterio",
+        "rating": 3.2
+    },
+    {
+        "isbn": "978-987-2683-86-7",
+        "titulo": "Libro de Prueba 251",
+        "autor": "Freida McFadden",
+        "genero": "Thriller psicológico",
+        "rating": 4.1
+    },
+    {
+        "isbn": "978-987-5178-89-1",
+        "titulo": "Libro de Prueba 252",
+        "autor": "Shari Lapena",
+        "genero": "Terror",
+        "rating": 4.5
+    },
+    {
+        "isbn": "978-987-4141-34-9",
+        "titulo": "Libro de Prueba 253",
+        "autor": "Freida McFadden",
+        "genero": "Suspenso",
+        "rating": 3.3
+    },
+    {
+        "isbn": "978-987-1677-22-7",
+        "titulo": "Libro de Prueba 254",
+        "autor": "Freida McFadden",
+        "genero": "Thriller psicológico",
+        "rating": 3.6
+    },
+    {
+        "isbn": "978-987-5762-20-6",
+        "titulo": "Libro de Prueba 255",
+        "autor": "Stephen King",
+        "genero": "Thriller psicológico",
+        "rating": 3.9
+    },
+    {
+        "isbn": "978-987-7628-43-7",
+        "titulo": "Libro de Prueba 256",
+        "autor": "Shari Lapena",
+        "genero": "Misterio",
+        "rating": 4.2
+    },
+    {
+        "isbn": "978-987-3738-45-1",
+        "titulo": "Libro de Prueba 257",
+        "autor": "John Katzenbach",
+        "genero": "Novela negra",
+        "rating": 3.7
+    },
+    {
+        "isbn": "978-987-8062-20-4",
+        "titulo": "Libro de Prueba 258",
+        "autor": "Alex Michaelides",
+        "genero": "Thriller psicológico",
+        "rating": 3.2
+    },
+    {
+        "isbn": "978-987-4231-65-6",
+        "titulo": "Libro de Prueba 259",
+        "autor": "Stephen King",
+        "genero": "Novela negra",
+        "rating": 4.5
+    },
+    {
+        "isbn": "978-987-7941-18-5",
+        "titulo": "Libro de Prueba 260",
+        "autor": "Freida McFadden",
+        "genero": "Terror",
+        "rating": 3.9
+    },
+    {
+        "isbn": "978-987-5845-53-1",
+        "titulo": "Libro de Prueba 261",
+        "autor": "Harlan Coben",
+        "genero": "Novela negra",
+        "rating": 4.3
+    },
+    {
+        "isbn": "978-987-2335-57-0",
+        "titulo": "Libro de Prueba 262",
+        "autor": "Harlan Coben",
+        "genero": "Thriller psicológico",
+        "rating": 4.2
+    },
+    {
+        "isbn": "978-987-2262-92-5",
+        "titulo": "Libro de Prueba 263",
+        "autor": "Freida McFadden",
+        "genero": "Terror",
+        "rating": 5.0
+    },
+    {
+        "isbn": "978-987-4499-53-2",
+        "titulo": "Libro de Prueba 264",
+        "autor": "Paula Hawkins",
+        "genero": "Terror",
+        "rating": 3.8
+    },
+    {
+        "isbn": "978-987-1333-43-3",
+        "titulo": "Libro de Prueba 265",
+        "autor": "Alex Michaelides",
+        "genero": "Misterio",
+        "rating": 4.1
+    },
+    {
+        "isbn": "978-987-4680-64-8",
+        "titulo": "Libro de Prueba 266",
+        "autor": "Alex Michaelides",
+        "genero": "Thriller psicológico",
+        "rating": 3.3
+    },
+    {
+        "isbn": "978-987-7103-37-3",
+        "titulo": "Libro de Prueba 267",
+        "autor": "Alex Michaelides",
+        "genero": "Terror",
+        "rating": 4.9
+    },
+    {
+        "isbn": "978-987-1897-54-6",
+        "titulo": "Libro de Prueba 268",
+        "autor": "Paula Hawkins",
+        "genero": "Misterio",
+        "rating": 4.0
+    },
+    {
+        "isbn": "978-987-6522-46-3",
+        "titulo": "Libro de Prueba 269",
+        "autor": "Harlan Coben",
+        "genero": "Thriller psicológico",
+        "rating": 4.1
+    },
+    {
+        "isbn": "978-987-8226-53-6",
+        "titulo": "Libro de Prueba 270",
+        "autor": "Stephen King",
+        "genero": "Misterio",
+        "rating": 3.4
+    },
+    {
+        "isbn": "978-987-5943-80-2",
+        "titulo": "Libro de Prueba 271",
+        "autor": "Paula Hawkins",
+        "genero": "Misterio",
+        "rating": 3.1
+    },
+    {
+        "isbn": "978-987-9969-81-4",
+        "titulo": "Libro de Prueba 272",
+        "autor": "John Katzenbach",
+        "genero": "Thriller psicológico",
+        "rating": 4.5
+    },
+    {
+        "isbn": "978-987-1234-93-0",
+        "titulo": "Libro de Prueba 273",
+        "autor": "Stephen King",
+        "genero": "Terror",
+        "rating": 4.5
+    },
+    {
+        "isbn": "978-987-5285-65-6",
+        "titulo": "Libro de Prueba 274",
+        "autor": "Stephen King",
+        "genero": "Novela negra",
+        "rating": 3.9
+    },
+    {
+        "isbn": "978-987-5553-99-8",
+        "titulo": "Libro de Prueba 275",
+        "autor": "Paula Hawkins",
+        "genero": "Misterio",
+        "rating": 3.1
+    },
+    {
+        "isbn": "978-987-8843-17-5",
+        "titulo": "Libro de Prueba 276",
+        "autor": "Shari Lapena",
+        "genero": "Misterio",
+        "rating": 3.1
+    },
+    {
+        "isbn": "978-987-4189-55-3",
+        "titulo": "Libro de Prueba 277",
+        "autor": "John Katzenbach",
+        "genero": "Thriller psicológico",
+        "rating": 3.1
+    },
+    {
+        "isbn": "978-987-2436-89-3",
+        "titulo": "Libro de Prueba 278",
+        "autor": "Gillian Flynn",
+        "genero": "Terror",
+        "rating": 4.3
+    },
+    {
+        "isbn": "978-987-7373-78-1",
+        "titulo": "Libro de Prueba 279",
+        "autor": "John Katzenbach",
+        "genero": "Terror",
+        "rating": 3.5
+    },
+    {
+        "isbn": "978-987-3090-35-1",
+        "titulo": "Libro de Prueba 280",
+        "autor": "Paula Hawkins",
+        "genero": "Terror",
+        "rating": 3.3
+    },
+    {
+        "isbn": "978-987-7692-55-1",
+        "titulo": "Libro de Prueba 281",
+        "autor": "Stephen King",
+        "genero": "Novela negra",
+        "rating": 3.5
+    },
+    {
+        "isbn": "978-987-3162-44-7",
+        "titulo": "Libro de Prueba 282",
+        "autor": "Stephen King",
+        "genero": "Suspenso",
+        "rating": 3.8
+    },
+    {
+        "isbn": "978-987-4646-26-5",
+        "titulo": "Libro de Prueba 283",
+        "autor": "Paula Hawkins",
+        "genero": "Suspenso",
+        "rating": 4.3
+    },
+    {
+        "isbn": "978-987-3425-12-7",
+        "titulo": "Libro de Prueba 284",
+        "autor": "Gillian Flynn",
+        "genero": "Misterio",
+        "rating": 4.6
+    },
+    {
+        "isbn": "978-987-8671-23-1",
+        "titulo": "Libro de Prueba 285",
+        "autor": "Harlan Coben",
+        "genero": "Suspenso",
+        "rating": 3.2
+    },
+    {
+        "isbn": "978-987-2146-40-8",
+        "titulo": "Libro de Prueba 286",
+        "autor": "Harlan Coben",
+        "genero": "Suspenso",
+        "rating": 4.1
+    },
+    {
+        "isbn": "978-987-8218-91-4",
+        "titulo": "Libro de Prueba 287",
+        "autor": "Alex Michaelides",
+        "genero": "Thriller psicológico",
+        "rating": 5.0
+    },
+    {
+        "isbn": "978-987-3940-26-6",
+        "titulo": "Libro de Prueba 288",
+        "autor": "Shari Lapena",
+        "genero": "Terror",
+        "rating": 3.6
+    },
+    {
+        "isbn": "978-987-7716-70-4",
+        "titulo": "Libro de Prueba 289",
+        "autor": "Shari Lapena",
+        "genero": "Suspenso",
+        "rating": 3.5
+    },
+    {
+        "isbn": "978-987-6198-11-2",
+        "titulo": "Libro de Prueba 290",
+        "autor": "Stephen King",
+        "genero": "Novela negra",
+        "rating": 4.2
+    },
+    {
+        "isbn": "978-987-1984-32-6",
+        "titulo": "Libro de Prueba 291",
+        "autor": "Stephen King",
+        "genero": "Thriller psicológico",
+        "rating": 4.7
+    },
+    {
+        "isbn": "978-987-8925-15-8",
+        "titulo": "Libro de Prueba 292",
+        "autor": "Alex Michaelides",
+        "genero": "Terror",
+        "rating": 3.2
+    },
+    {
+        "isbn": "978-987-8928-89-0",
+        "titulo": "Libro de Prueba 293",
+        "autor": "John Katzenbach",
+        "genero": "Misterio",
+        "rating": 4.4
+    },
+    {
+        "isbn": "978-987-1690-98-0",
+        "titulo": "Libro de Prueba 294",
+        "autor": "John Katzenbach",
+        "genero": "Misterio",
+        "rating": 3.9
+    },
+    {
+        "isbn": "978-987-1940-25-4",
+        "titulo": "Libro de Prueba 295",
+        "autor": "Alex Michaelides",
+        "genero": "Suspenso",
+        "rating": 4.4
+    },
+    {
+        "isbn": "978-987-7876-84-7",
+        "titulo": "Libro de Prueba 296",
+        "autor": "Harlan Coben",
+        "genero": "Terror",
+        "rating": 4.6
+    },
+    {
+        "isbn": "978-987-6698-71-9",
+        "titulo": "Libro de Prueba 297",
+        "autor": "Harlan Coben",
+        "genero": "Suspenso",
+        "rating": 4.5
+    },
+    {
+        "isbn": "978-987-6521-47-0",
+        "titulo": "Libro de Prueba 298",
+        "autor": "Gillian Flynn",
+        "genero": "Thriller psicológico",
+        "rating": 3.5
+    },
+    {
+        "isbn": "978-987-8587-85-1",
+        "titulo": "Libro de Prueba 299",
+        "autor": "Alex Michaelides",
+        "genero": "Novela negra",
+        "rating": 4.5
+    },
+    {
+        "isbn": "978-987-1917-89-2",
+        "titulo": "Libro de Prueba 300",
+        "autor": "John Katzenbach",
+        "genero": "Misterio",
+        "rating": 3.6
+    },
+    {
+        "isbn": "978-987-3645-76-1",
+        "titulo": "Libro de Prueba 301",
+        "autor": "Paula Hawkins",
+        "genero": "Terror",
+        "rating": 3.3
+    },
+    {
+        "isbn": "978-987-1963-24-1",
+        "titulo": "Libro de Prueba 302",
+        "autor": "John Katzenbach",
+        "genero": "Suspenso",
+        "rating": 4.5
+    },
+    {
+        "isbn": "978-987-8143-13-7",
+        "titulo": "Libro de Prueba 303",
+        "autor": "Freida McFadden",
+        "genero": "Thriller psicológico",
+        "rating": 4.3
+    },
+    {
+        "isbn": "978-987-5531-35-3",
+        "titulo": "Libro de Prueba 304",
+        "autor": "Shari Lapena",
+        "genero": "Novela negra",
+        "rating": 3.7
+    },
+    {
+        "isbn": "978-987-6695-96-2",
+        "titulo": "Libro de Prueba 305",
+        "autor": "Shari Lapena",
+        "genero": "Thriller psicológico",
+        "rating": 3.8
+    },
+    {
+        "isbn": "978-987-7789-61-1",
+        "titulo": "Libro de Prueba 306",
+        "autor": "Harlan Coben",
+        "genero": "Suspenso",
+        "rating": 3.5
+    },
+    {
+        "isbn": "978-987-3328-22-1",
+        "titulo": "Libro de Prueba 307",
+        "autor": "Freida McFadden",
+        "genero": "Terror",
+        "rating": 3.3
+    },
+    {
+        "isbn": "978-987-4379-10-0",
+        "titulo": "Libro de Prueba 308",
+        "autor": "John Katzenbach",
+        "genero": "Suspenso",
+        "rating": 4.1
+    },
+    {
+        "isbn": "978-987-5813-52-9",
+        "titulo": "Libro de Prueba 309",
+        "autor": "Freida McFadden",
+        "genero": "Thriller psicológico",
+        "rating": 4.5
+    },
+    {
+        "isbn": "978-987-6092-71-0",
+        "titulo": "Libro de Prueba 310",
+        "autor": "Paula Hawkins",
+        "genero": "Novela negra",
+        "rating": 3.1
+    },
+    {
+        "isbn": "978-987-1738-47-0",
+        "titulo": "Libro de Prueba 311",
+        "autor": "Gillian Flynn",
+        "genero": "Terror",
+        "rating": 4.5
+    },
+    {
+        "isbn": "978-987-6754-66-3",
+        "titulo": "Libro de Prueba 312",
+        "autor": "Gillian Flynn",
+        "genero": "Misterio",
+        "rating": 3.8
+    },
+    {
+        "isbn": "978-987-3817-16-3",
+        "titulo": "Libro de Prueba 313",
+        "autor": "Freida McFadden",
+        "genero": "Suspenso",
+        "rating": 3.5
+    },
+    {
+        "isbn": "978-987-3395-93-0",
+        "titulo": "Libro de Prueba 314",
+        "autor": "Shari Lapena",
+        "genero": "Thriller psicológico",
+        "rating": 4.2
+    },
+    {
+        "isbn": "978-987-9778-83-6",
+        "titulo": "Libro de Prueba 315",
+        "autor": "Paula Hawkins",
+        "genero": "Misterio",
+        "rating": 3.3
+    },
+    {
+        "isbn": "978-987-3967-32-0",
+        "titulo": "Libro de Prueba 316",
+        "autor": "John Katzenbach",
+        "genero": "Suspenso",
+        "rating": 3.4
+    },
+    {
+        "isbn": "978-987-9537-44-7",
+        "titulo": "Libro de Prueba 317",
+        "autor": "Harlan Coben",
+        "genero": "Novela negra",
+        "rating": 4.4
+    },
+    {
+        "isbn": "978-987-1327-14-3",
+        "titulo": "Libro de Prueba 318",
+        "autor": "John Katzenbach",
+        "genero": "Thriller psicológico",
+        "rating": 4.0
+    },
+    {
+        "isbn": "978-987-6792-82-8",
+        "titulo": "Libro de Prueba 319",
+        "autor": "John Katzenbach",
+        "genero": "Terror",
+        "rating": 4.6
+    },
+    {
+        "isbn": "978-987-5519-47-1",
+        "titulo": "Libro de Prueba 320",
+        "autor": "Shari Lapena",
+        "genero": "Terror",
+        "rating": 4.2
+    },
+    {
+        "isbn": "978-987-5916-26-5",
+        "titulo": "Libro de Prueba 321",
+        "autor": "Alex Michaelides",
+        "genero": "Suspenso",
+        "rating": 3.7
+    },
+    {
+        "isbn": "978-987-8435-17-1",
+        "titulo": "Libro de Prueba 322",
+        "autor": "Alex Michaelides",
+        "genero": "Suspenso",
+        "rating": 3.5
+    },
+    {
+        "isbn": "978-987-3671-55-0",
+        "titulo": "Libro de Prueba 323",
+        "autor": "Shari Lapena",
+        "genero": "Suspenso",
+        "rating": 3.7
+    },
+    {
+        "isbn": "978-987-6313-67-5",
+        "titulo": "Libro de Prueba 324",
+        "autor": "Gillian Flynn",
+        "genero": "Terror",
+        "rating": 3.1
+    },
+    {
+        "isbn": "978-987-7940-65-3",
+        "titulo": "Libro de Prueba 325",
+        "autor": "Stephen King",
+        "genero": "Thriller psicológico",
+        "rating": 3.5
+    },
+    {
+        "isbn": "978-987-2888-39-6",
+        "titulo": "Libro de Prueba 326",
+        "autor": "Alex Michaelides",
+        "genero": "Misterio",
+        "rating": 3.2
+    },
+    {
+        "isbn": "978-987-6881-76-9",
+        "titulo": "Libro de Prueba 327",
+        "autor": "Harlan Coben",
+        "genero": "Novela negra",
+        "rating": 3.2
+    },
+    {
+        "isbn": "978-987-6007-23-4",
+        "titulo": "Libro de Prueba 328",
+        "autor": "Harlan Coben",
+        "genero": "Suspenso",
+        "rating": 4.3
+    },
+    {
+        "isbn": "978-987-7033-17-1",
+        "titulo": "Libro de Prueba 329",
+        "autor": "Alex Michaelides",
+        "genero": "Novela negra",
+        "rating": 4.6
+    },
+    {
+        "isbn": "978-987-8723-67-8",
+        "titulo": "Libro de Prueba 330",
+        "autor": "Paula Hawkins",
+        "genero": "Thriller psicológico",
+        "rating": 3.7
+    },
+    {
+        "isbn": "978-987-9635-85-7",
+        "titulo": "Libro de Prueba 331",
+        "autor": "Gillian Flynn",
+        "genero": "Novela negra",
+        "rating": 3.3
+    },
+    {
+        "isbn": "978-987-4954-51-7",
+        "titulo": "Libro de Prueba 332",
+        "autor": "Freida McFadden",
+        "genero": "Misterio",
+        "rating": 4.2
+    },
+    {
+        "isbn": "978-987-2658-61-3",
+        "titulo": "Libro de Prueba 333",
+        "autor": "John Katzenbach",
+        "genero": "Thriller psicológico",
+        "rating": 3.4
+    },
+    {
+        "isbn": "978-987-4354-22-6",
+        "titulo": "Libro de Prueba 334",
+        "autor": "Harlan Coben",
+        "genero": "Terror",
+        "rating": 4.1
+    },
+    {
+        "isbn": "978-987-4370-29-2",
+        "titulo": "Libro de Prueba 335",
+        "autor": "Alex Michaelides",
+        "genero": "Terror",
+        "rating": 4.1
+    },
+    {
+        "isbn": "978-987-1263-10-4",
+        "titulo": "Libro de Prueba 336",
+        "autor": "Gillian Flynn",
+        "genero": "Terror",
+        "rating": 4.3
+    },
+    {
+        "isbn": "978-987-7043-53-7",
+        "titulo": "Libro de Prueba 337",
+        "autor": "Alex Michaelides",
+        "genero": "Misterio",
+        "rating": 4.9
+    },
+    {
+        "isbn": "978-987-4023-57-2",
+        "titulo": "Libro de Prueba 338",
+        "autor": "Gillian Flynn",
+        "genero": "Novela negra",
+        "rating": 4.7
+    },
+    {
+        "isbn": "978-987-2467-77-0",
+        "titulo": "Libro de Prueba 339",
+        "autor": "Paula Hawkins",
+        "genero": "Thriller psicológico",
+        "rating": 3.4
+    },
+    {
+        "isbn": "978-987-6669-69-0",
+        "titulo": "Libro de Prueba 340",
+        "autor": "Gillian Flynn",
+        "genero": "Terror",
+        "rating": 3.0
+    },
+    {
+        "isbn": "978-987-3451-50-4",
+        "titulo": "Libro de Prueba 341",
+        "autor": "Freida McFadden",
+        "genero": "Terror",
+        "rating": 5.0
+    },
+    {
+        "isbn": "978-987-1961-86-7",
+        "titulo": "Libro de Prueba 342",
+        "autor": "John Katzenbach",
+        "genero": "Misterio",
+        "rating": 3.2
+    },
+    {
+        "isbn": "978-987-6053-56-5",
+        "titulo": "Libro de Prueba 343",
+        "autor": "Freida McFadden",
+        "genero": "Terror",
+        "rating": 3.4
+    },
+    {
+        "isbn": "978-987-9358-76-4",
+        "titulo": "Libro de Prueba 344",
+        "autor": "Freida McFadden",
+        "genero": "Novela negra",
+        "rating": 4.1
+    },
+    {
+        "isbn": "978-987-6272-57-2",
+        "titulo": "Libro de Prueba 345",
+        "autor": "Stephen King",
+        "genero": "Suspenso",
+        "rating": 3.9
+    },
+    {
+        "isbn": "978-987-4720-33-9",
+        "titulo": "Libro de Prueba 346",
+        "autor": "Alex Michaelides",
+        "genero": "Thriller psicológico",
+        "rating": 4.9
+    },
+    {
+        "isbn": "978-987-3062-47-4",
+        "titulo": "Libro de Prueba 347",
+        "autor": "Freida McFadden",
+        "genero": "Terror",
+        "rating": 3.7
+    },
+    {
+        "isbn": "978-987-8930-20-4",
+        "titulo": "Libro de Prueba 348",
+        "autor": "Paula Hawkins",
+        "genero": "Suspenso",
+        "rating": 4.4
+    },
+    {
+        "isbn": "978-987-9688-67-4",
+        "titulo": "Libro de Prueba 349",
+        "autor": "Paula Hawkins",
+        "genero": "Misterio",
+        "rating": 4.5
+    },
+    {
+        "isbn": "978-987-2689-89-4",
+        "titulo": "Libro de Prueba 350",
+        "autor": "Gillian Flynn",
+        "genero": "Novela negra",
+        "rating": 3.5
+    },
+    {
+        "isbn": "978-987-7545-60-9",
+        "titulo": "Libro de Prueba 351",
+        "autor": "Stephen King",
+        "genero": "Terror",
+        "rating": 4.4
+    },
+    {
+        "isbn": "978-987-5949-66-1",
+        "titulo": "Libro de Prueba 352",
+        "autor": "Shari Lapena",
+        "genero": "Terror",
+        "rating": 4.1
+    },
+    {
+        "isbn": "978-987-2254-75-2",
+        "titulo": "Libro de Prueba 353",
+        "autor": "Shari Lapena",
+        "genero": "Novela negra",
+        "rating": 4.1
+    },
+    {
+        "isbn": "978-987-3856-80-7",
+        "titulo": "Libro de Prueba 354",
+        "autor": "Gillian Flynn",
+        "genero": "Terror",
+        "rating": 5.0
+    },
+    {
+        "isbn": "978-987-1819-63-1",
+        "titulo": "Libro de Prueba 355",
+        "autor": "Gillian Flynn",
+        "genero": "Novela negra",
+        "rating": 3.2
+    },
+    {
+        "isbn": "978-987-8498-14-1",
+        "titulo": "Libro de Prueba 356",
+        "autor": "Stephen King",
+        "genero": "Terror",
+        "rating": 4.4
+    },
+    {
+        "isbn": "978-987-1592-31-7",
+        "titulo": "Libro de Prueba 357",
+        "autor": "Freida McFadden",
+        "genero": "Thriller psicológico",
+        "rating": 3.4
+    },
+    {
+        "isbn": "978-987-5472-90-3",
+        "titulo": "Libro de Prueba 358",
+        "autor": "Paula Hawkins",
+        "genero": "Suspenso",
+        "rating": 4.8
+    },
+    {
+        "isbn": "978-987-7671-10-4",
+        "titulo": "Libro de Prueba 359",
+        "autor": "Alex Michaelides",
+        "genero": "Terror",
+        "rating": 3.6
+    },
+    {
+        "isbn": "978-987-9992-68-2",
+        "titulo": "Libro de Prueba 360",
+        "autor": "Freida McFadden",
+        "genero": "Misterio",
+        "rating": 3.9
+    },
+    {
+        "isbn": "978-987-1532-60-2",
+        "titulo": "Libro de Prueba 361",
+        "autor": "Freida McFadden",
+        "genero": "Novela negra",
+        "rating": 4.3
+    },
+    {
+        "isbn": "978-987-6583-19-8",
+        "titulo": "Libro de Prueba 362",
+        "autor": "John Katzenbach",
+        "genero": "Suspenso",
+        "rating": 4.1
+    },
+    {
+        "isbn": "978-987-1463-32-1",
+        "titulo": "Libro de Prueba 363",
+        "autor": "Shari Lapena",
+        "genero": "Terror",
+        "rating": 4.5
+    },
+    {
+        "isbn": "978-987-5207-63-2",
+        "titulo": "Libro de Prueba 364",
+        "autor": "John Katzenbach",
+        "genero": "Terror",
+        "rating": 3.9
+    },
+    {
+        "isbn": "978-987-1704-45-2",
+        "titulo": "Libro de Prueba 365",
+        "autor": "Alex Michaelides",
+        "genero": "Novela negra",
+        "rating": 3.2
+    },
+    {
+        "isbn": "978-987-9772-41-3",
+        "titulo": "Libro de Prueba 366",
+        "autor": "Harlan Coben",
+        "genero": "Novela negra",
+        "rating": 3.6
+    },
+    {
+        "isbn": "978-987-5481-88-8",
+        "titulo": "Libro de Prueba 367",
+        "autor": "Paula Hawkins",
+        "genero": "Terror",
+        "rating": 3.0
+    },
+    {
+        "isbn": "978-987-6667-54-0",
+        "titulo": "Libro de Prueba 368",
+        "autor": "Freida McFadden",
+        "genero": "Suspenso",
+        "rating": 4.3
+    },
+    {
+        "isbn": "978-987-2129-42-5",
+        "titulo": "Libro de Prueba 369",
+        "autor": "Freida McFadden",
+        "genero": "Novela negra",
+        "rating": 4.4
+    },
+    {
+        "isbn": "978-987-4942-97-0",
+        "titulo": "Libro de Prueba 370",
+        "autor": "John Katzenbach",
+        "genero": "Thriller psicológico",
+        "rating": 4.1
+    },
+    {
+        "isbn": "978-987-4258-73-2",
+        "titulo": "Libro de Prueba 371",
+        "autor": "Shari Lapena",
+        "genero": "Misterio",
+        "rating": 4.4
+    },
+    {
+        "isbn": "978-987-9066-81-9",
+        "titulo": "Libro de Prueba 372",
+        "autor": "Freida McFadden",
+        "genero": "Thriller psicológico",
+        "rating": 3.9
+    },
+    {
+        "isbn": "978-987-5989-81-7",
+        "titulo": "Libro de Prueba 373",
+        "autor": "Gillian Flynn",
+        "genero": "Misterio",
+        "rating": 4.6
+    },
+    {
+        "isbn": "978-987-4800-23-7",
+        "titulo": "Libro de Prueba 374",
+        "autor": "Paula Hawkins",
+        "genero": "Thriller psicológico",
+        "rating": 4.1
+    },
+    {
+        "isbn": "978-987-1623-50-2",
+        "titulo": "Libro de Prueba 375",
+        "autor": "Alex Michaelides",
+        "genero": "Terror",
+        "rating": 3.4
+    },
+    {
+        "isbn": "978-987-7407-95-5",
+        "titulo": "Libro de Prueba 376",
+        "autor": "John Katzenbach",
+        "genero": "Novela negra",
+        "rating": 3.0
+    },
+    {
+        "isbn": "978-987-2331-83-4",
+        "titulo": "Libro de Prueba 377",
+        "autor": "Shari Lapena",
+        "genero": "Thriller psicológico",
+        "rating": 4.6
+    },
+    {
+        "isbn": "978-987-3239-36-2",
+        "titulo": "Libro de Prueba 378",
+        "autor": "Shari Lapena",
+        "genero": "Thriller psicológico",
+        "rating": 4.4
+    },
+    {
+        "isbn": "978-987-7520-17-2",
+        "titulo": "Libro de Prueba 379",
+        "autor": "Harlan Coben",
+        "genero": "Misterio",
+        "rating": 4.4
+    },
+    {
+        "isbn": "978-987-2286-89-0",
+        "titulo": "Libro de Prueba 380",
+        "autor": "Stephen King",
+        "genero": "Suspenso",
+        "rating": 3.7
+    },
+    {
+        "isbn": "978-987-9746-90-4",
+        "titulo": "Libro de Prueba 381",
+        "autor": "Gillian Flynn",
+        "genero": "Terror",
+        "rating": 3.2
+    },
+    {
+        "isbn": "978-987-9538-19-6",
+        "titulo": "Libro de Prueba 382",
+        "autor": "Gillian Flynn",
+        "genero": "Thriller psicológico",
+        "rating": 3.3
+    },
+    {
+        "isbn": "978-987-6187-85-0",
+        "titulo": "Libro de Prueba 383",
+        "autor": "Shari Lapena",
+        "genero": "Terror",
+        "rating": 4.1
+    },
+    {
+        "isbn": "978-987-1379-41-9",
+        "titulo": "Libro de Prueba 384",
+        "autor": "Alex Michaelides",
+        "genero": "Thriller psicológico",
+        "rating": 3.4
+    },
+    {
+        "isbn": "978-987-9905-50-9",
+        "titulo": "Libro de Prueba 385",
+        "autor": "Harlan Coben",
+        "genero": "Novela negra",
+        "rating": 4.0
+    },
+    {
+        "isbn": "978-987-8927-88-8",
+        "titulo": "Libro de Prueba 386",
+        "autor": "Harlan Coben",
+        "genero": "Terror",
+        "rating": 4.5
+    },
+    {
+        "isbn": "978-987-8616-67-1",
+        "titulo": "Libro de Prueba 387",
+        "autor": "Alex Michaelides",
+        "genero": "Misterio",
+        "rating": 3.4
+    },
+    {
+        "isbn": "978-987-6149-78-7",
+        "titulo": "Libro de Prueba 388",
+        "autor": "Stephen King",
+        "genero": "Terror",
+        "rating": 4.2
+    },
+    {
+        "isbn": "978-987-6384-62-3",
+        "titulo": "Libro de Prueba 389",
+        "autor": "Shari Lapena",
+        "genero": "Novela negra",
+        "rating": 3.2
+    },
+    {
+        "isbn": "978-987-5712-67-1",
+        "titulo": "Libro de Prueba 390",
+        "autor": "Paula Hawkins",
+        "genero": "Thriller psicológico",
+        "rating": 4.4
+    },
+    {
+        "isbn": "978-987-3414-69-2",
+        "titulo": "Libro de Prueba 391",
+        "autor": "Stephen King",
+        "genero": "Novela negra",
+        "rating": 4.2
+    },
+    {
+        "isbn": "978-987-3611-31-2",
+        "titulo": "Libro de Prueba 392",
+        "autor": "Freida McFadden",
+        "genero": "Terror",
+        "rating": 4.6
+    },
+    {
+        "isbn": "978-987-9737-78-0",
+        "titulo": "Libro de Prueba 393",
+        "autor": "Stephen King",
+        "genero": "Terror",
+        "rating": 4.2
+    },
+    {
+        "isbn": "978-987-5390-65-8",
+        "titulo": "Libro de Prueba 394",
+        "autor": "Freida McFadden",
+        "genero": "Thriller psicológico",
+        "rating": 3.6
+    },
+    {
+        "isbn": "978-987-9117-97-2",
+        "titulo": "Libro de Prueba 395",
+        "autor": "Shari Lapena",
+        "genero": "Thriller psicológico",
+        "rating": 3.8
+    },
+    {
+        "isbn": "978-987-7397-59-0",
+        "titulo": "Libro de Prueba 396",
+        "autor": "Freida McFadden",
+        "genero": "Thriller psicológico",
+        "rating": 4.5
+    },
+    {
+        "isbn": "978-987-9474-55-7",
+        "titulo": "Libro de Prueba 397",
+        "autor": "Paula Hawkins",
+        "genero": "Misterio",
+        "rating": 4.8
+    },
+    {
+        "isbn": "978-987-5514-65-4",
+        "titulo": "Libro de Prueba 398",
+        "autor": "John Katzenbach",
+        "genero": "Misterio",
+        "rating": 5.0
+    },
+    {
+        "isbn": "978-987-8800-41-2",
+        "titulo": "Libro de Prueba 399",
+        "autor": "Gillian Flynn",
+        "genero": "Terror",
+        "rating": 3.5
+    },
+    {
+        "isbn": "978-987-3668-26-5",
+        "titulo": "Libro de Prueba 400",
+        "autor": "Freida McFadden",
+        "genero": "Misterio",
+        "rating": 4.7
+    },
+    {
+        "isbn": "978-987-1102-60-6",
+        "titulo": "Libro de Prueba 401",
+        "autor": "Gillian Flynn",
+        "genero": "Suspenso",
+        "rating": 4.5
+    },
+    {
+        "isbn": "978-987-3561-98-3",
+        "titulo": "Libro de Prueba 402",
+        "autor": "Gillian Flynn",
+        "genero": "Thriller psicológico",
+        "rating": 4.2
+    },
+    {
+        "isbn": "978-987-9642-64-1",
+        "titulo": "Libro de Prueba 403",
+        "autor": "Alex Michaelides",
+        "genero": "Suspenso",
+        "rating": 4.0
+    },
+    {
+        "isbn": "978-987-3429-27-4",
+        "titulo": "Libro de Prueba 404",
+        "autor": "Alex Michaelides",
+        "genero": "Suspenso",
+        "rating": 4.1
+    },
+    {
+        "isbn": "978-987-9699-96-8",
+        "titulo": "Libro de Prueba 405",
+        "autor": "Shari Lapena",
+        "genero": "Novela negra",
+        "rating": 4.9
+    },
+    {
+        "isbn": "978-987-6832-92-9",
+        "titulo": "Libro de Prueba 406",
+        "autor": "Paula Hawkins",
+        "genero": "Misterio",
+        "rating": 3.9
+    },
+    {
+        "isbn": "978-987-2984-59-4",
+        "titulo": "Libro de Prueba 407",
+        "autor": "Shari Lapena",
+        "genero": "Thriller psicológico",
+        "rating": 4.1
+    },
+    {
+        "isbn": "978-987-3018-50-9",
+        "titulo": "Libro de Prueba 408",
+        "autor": "Freida McFadden",
+        "genero": "Misterio",
+        "rating": 3.6
+    },
+    {
+        "isbn": "978-987-2135-74-5",
+        "titulo": "Libro de Prueba 409",
+        "autor": "Freida McFadden",
+        "genero": "Terror",
+        "rating": 3.1
+    },
+    {
+        "isbn": "978-987-2528-64-1",
+        "titulo": "Libro de Prueba 410",
+        "autor": "John Katzenbach",
+        "genero": "Suspenso",
+        "rating": 3.8
+    },
+    {
+        "isbn": "978-987-7139-82-8",
+        "titulo": "Libro de Prueba 411",
+        "autor": "Stephen King",
+        "genero": "Thriller psicológico",
+        "rating": 4.4
+    },
+    {
+        "isbn": "978-987-7751-20-4",
+        "titulo": "Libro de Prueba 412",
+        "autor": "Gillian Flynn",
+        "genero": "Novela negra",
+        "rating": 4.5
+    },
+    {
+        "isbn": "978-987-3120-13-1",
+        "titulo": "Libro de Prueba 413",
+        "autor": "Paula Hawkins",
+        "genero": "Suspenso",
+        "rating": 4.5
+    },
+    {
+        "isbn": "978-987-7829-90-0",
+        "titulo": "Libro de Prueba 414",
+        "autor": "Stephen King",
+        "genero": "Thriller psicológico",
+        "rating": 3.5
+    },
+    {
+        "isbn": "978-987-5425-51-5",
+        "titulo": "Libro de Prueba 415",
+        "autor": "Gillian Flynn",
+        "genero": "Suspenso",
+        "rating": 4.2
+    },
+    {
+        "isbn": "978-987-3592-90-2",
+        "titulo": "Libro de Prueba 416",
+        "autor": "Gillian Flynn",
+        "genero": "Terror",
+        "rating": 3.1
+    },
+    {
+        "isbn": "978-987-7275-90-8",
+        "titulo": "Libro de Prueba 417",
+        "autor": "Alex Michaelides",
+        "genero": "Thriller psicológico",
+        "rating": 3.2
+    },
+    {
+        "isbn": "978-987-8265-79-1",
+        "titulo": "Libro de Prueba 418",
+        "autor": "Alex Michaelides",
+        "genero": "Suspenso",
+        "rating": 4.1
+    },
+    {
+        "isbn": "978-987-2294-10-3",
+        "titulo": "Libro de Prueba 419",
+        "autor": "Gillian Flynn",
+        "genero": "Suspenso",
+        "rating": 3.1
+    },
+    {
+        "isbn": "978-987-5182-28-3",
+        "titulo": "Libro de Prueba 420",
+        "autor": "Gillian Flynn",
+        "genero": "Misterio",
+        "rating": 3.8
+    },
+    {
+        "isbn": "978-987-5231-14-8",
+        "titulo": "Libro de Prueba 421",
+        "autor": "Gillian Flynn",
+        "genero": "Suspenso",
+        "rating": 4.0
+    },
+    {
+        "isbn": "978-987-5001-33-6",
+        "titulo": "Libro de Prueba 422",
+        "autor": "Shari Lapena",
+        "genero": "Misterio",
+        "rating": 3.3
+    },
+    {
+        "isbn": "978-987-6434-45-4",
+        "titulo": "Libro de Prueba 423",
+        "autor": "Freida McFadden",
+        "genero": "Suspenso",
+        "rating": 4.4
+    },
+    {
+        "isbn": "978-987-4492-92-7",
+        "titulo": "Libro de Prueba 424",
+        "autor": "Stephen King",
+        "genero": "Misterio",
+        "rating": 3.4
+    },
+    {
+        "isbn": "978-987-2936-62-5",
+        "titulo": "Libro de Prueba 425",
+        "autor": "Stephen King",
+        "genero": "Suspenso",
+        "rating": 3.2
+    },
+    {
+        "isbn": "978-987-7475-50-0",
+        "titulo": "Libro de Prueba 426",
+        "autor": "Stephen King",
+        "genero": "Terror",
+        "rating": 4.6
+    },
+    {
+        "isbn": "978-987-3694-49-5",
+        "titulo": "Libro de Prueba 427",
+        "autor": "Paula Hawkins",
+        "genero": "Misterio",
+        "rating": 3.8
+    },
+    {
+        "isbn": "978-987-2614-92-1",
+        "titulo": "Libro de Prueba 428",
+        "autor": "Paula Hawkins",
+        "genero": "Terror",
+        "rating": 4.0
+    },
+    {
+        "isbn": "978-987-8717-76-0",
+        "titulo": "Libro de Prueba 429",
+        "autor": "Harlan Coben",
+        "genero": "Suspenso",
+        "rating": 4.6
+    },
+    {
+        "isbn": "978-987-7411-32-1",
+        "titulo": "Libro de Prueba 430",
+        "autor": "Paula Hawkins",
+        "genero": "Terror",
+        "rating": 4.3
+    },
+    {
+        "isbn": "978-987-3493-29-7",
+        "titulo": "Libro de Prueba 431",
+        "autor": "Paula Hawkins",
+        "genero": "Misterio",
+        "rating": 3.4
+    },
+    {
+        "isbn": "978-987-8690-89-9",
+        "titulo": "Libro de Prueba 432",
+        "autor": "John Katzenbach",
+        "genero": "Misterio",
+        "rating": 3.3
+    },
+    {
+        "isbn": "978-987-5678-32-7",
+        "titulo": "Libro de Prueba 433",
+        "autor": "John Katzenbach",
+        "genero": "Thriller psicológico",
+        "rating": 4.9
+    },
+    {
+        "isbn": "978-987-1440-79-6",
+        "titulo": "Libro de Prueba 434",
+        "autor": "Alex Michaelides",
+        "genero": "Novela negra",
+        "rating": 4.4
+    },
+    {
+        "isbn": "978-987-1137-65-8",
+        "titulo": "Libro de Prueba 435",
+        "autor": "Paula Hawkins",
+        "genero": "Misterio",
+        "rating": 3.4
+    },
+    {
+        "isbn": "978-987-5803-78-9",
+        "titulo": "Libro de Prueba 436",
+        "autor": "Shari Lapena",
+        "genero": "Misterio",
+        "rating": 3.9
+    },
+    {
+        "isbn": "978-987-5176-34-7",
+        "titulo": "Libro de Prueba 437",
+        "autor": "Gillian Flynn",
+        "genero": "Thriller psicológico",
+        "rating": 4.4
+    },
+    {
+        "isbn": "978-987-6328-95-3",
+        "titulo": "Libro de Prueba 438",
+        "autor": "Harlan Coben",
+        "genero": "Terror",
+        "rating": 3.8
+    },
+    {
+        "isbn": "978-987-2050-95-4",
+        "titulo": "Libro de Prueba 439",
+        "autor": "John Katzenbach",
+        "genero": "Novela negra",
+        "rating": 4.9
+    },
+    {
+        "isbn": "978-987-8495-88-4",
+        "titulo": "Libro de Prueba 440",
+        "autor": "Harlan Coben",
+        "genero": "Suspenso",
+        "rating": 4.1
+    },
+    {
+        "isbn": "978-987-3973-23-0",
+        "titulo": "Libro de Prueba 441",
+        "autor": "Stephen King",
+        "genero": "Thriller psicológico",
+        "rating": 4.4
+    },
+    {
+        "isbn": "978-987-6845-63-8",
+        "titulo": "Libro de Prueba 442",
+        "autor": "Stephen King",
+        "genero": "Thriller psicológico",
+        "rating": 3.9
+    },
+    {
+        "isbn": "978-987-7511-74-3",
+        "titulo": "Libro de Prueba 443",
+        "autor": "Alex Michaelides",
+        "genero": "Terror",
+        "rating": 3.3
+    },
+    {
+        "isbn": "978-987-5119-66-0",
+        "titulo": "Libro de Prueba 444",
+        "autor": "Shari Lapena",
+        "genero": "Suspenso",
+        "rating": 3.1
+    },
+    {
+        "isbn": "978-987-9932-83-7",
+        "titulo": "Libro de Prueba 445",
+        "autor": "Shari Lapena",
+        "genero": "Thriller psicológico",
+        "rating": 3.8
+    },
+    {
+        "isbn": "978-987-8442-23-0",
+        "titulo": "Libro de Prueba 446",
+        "autor": "Stephen King",
+        "genero": "Misterio",
+        "rating": 3.6
+    },
+    {
+        "isbn": "978-987-5242-53-4",
+        "titulo": "Libro de Prueba 447",
+        "autor": "Freida McFadden",
+        "genero": "Terror",
+        "rating": 4.1
+    },
+    {
+        "isbn": "978-987-2360-59-9",
+        "titulo": "Libro de Prueba 448",
+        "autor": "Shari Lapena",
+        "genero": "Thriller psicológico",
+        "rating": 4.6
+    },
+    {
+        "isbn": "978-987-9552-30-5",
+        "titulo": "Libro de Prueba 449",
+        "autor": "Gillian Flynn",
+        "genero": "Misterio",
+        "rating": 3.3
+    },
+    {
+        "isbn": "978-987-9437-63-2",
+        "titulo": "Libro de Prueba 450",
+        "autor": "Freida McFadden",
+        "genero": "Misterio",
+        "rating": 3.6
+    },
+    {
+        "isbn": "978-987-5824-30-4",
+        "titulo": "Libro de Prueba 451",
+        "autor": "Gillian Flynn",
+        "genero": "Misterio",
+        "rating": 3.1
+    },
+    {
+        "isbn": "978-987-9172-82-6",
+        "titulo": "Libro de Prueba 452",
+        "autor": "Harlan Coben",
+        "genero": "Suspenso",
+        "rating": 4.1
+    },
+    {
+        "isbn": "978-987-6718-68-7",
+        "titulo": "Libro de Prueba 453",
+        "autor": "Alex Michaelides",
+        "genero": "Suspenso",
+        "rating": 3.8
+    },
+    {
+        "isbn": "978-987-4845-31-8",
+        "titulo": "Libro de Prueba 454",
+        "autor": "Shari Lapena",
+        "genero": "Terror",
+        "rating": 4.7
+    },
+    {
+        "isbn": "978-987-1336-95-3",
+        "titulo": "Libro de Prueba 455",
+        "autor": "John Katzenbach",
+        "genero": "Thriller psicológico",
+        "rating": 4.0
+    },
+    {
+        "isbn": "978-987-7244-81-7",
+        "titulo": "Libro de Prueba 456",
+        "autor": "Gillian Flynn",
+        "genero": "Terror",
+        "rating": 4.2
+    },
+    {
+        "isbn": "978-987-4277-74-0",
+        "titulo": "Libro de Prueba 457",
+        "autor": "Harlan Coben",
+        "genero": "Misterio",
+        "rating": 4.5
+    },
+    {
+        "isbn": "978-987-2926-44-6",
+        "titulo": "Libro de Prueba 458",
+        "autor": "Gillian Flynn",
+        "genero": "Suspenso",
+        "rating": 4.0
+    },
+    {
+        "isbn": "978-987-2813-95-5",
+        "titulo": "Libro de Prueba 459",
+        "autor": "Gillian Flynn",
+        "genero": "Thriller psicológico",
+        "rating": 3.2
+    },
+    {
+        "isbn": "978-987-2094-42-1",
+        "titulo": "Libro de Prueba 460",
+        "autor": "Freida McFadden",
+        "genero": "Thriller psicológico",
+        "rating": 4.7
+    },
+    {
+        "isbn": "978-987-3441-13-4",
+        "titulo": "Libro de Prueba 461",
+        "autor": "Freida McFadden",
+        "genero": "Suspenso",
+        "rating": 3.9
+    },
+    {
+        "isbn": "978-987-9765-80-7",
+        "titulo": "Libro de Prueba 462",
+        "autor": "John Katzenbach",
+        "genero": "Terror",
+        "rating": 4.1
+    },
+    {
+        "isbn": "978-987-5020-48-4",
+        "titulo": "Libro de Prueba 463",
+        "autor": "Alex Michaelides",
+        "genero": "Misterio",
+        "rating": 4.6
+    },
+    {
+        "isbn": "978-987-6903-59-2",
+        "titulo": "Libro de Prueba 464",
+        "autor": "Gillian Flynn",
+        "genero": "Misterio",
+        "rating": 3.2
+    },
+    {
+        "isbn": "978-987-7945-64-2",
+        "titulo": "Libro de Prueba 465",
+        "autor": "Alex Michaelides",
+        "genero": "Terror",
+        "rating": 3.1
+    },
+    {
+        "isbn": "978-987-9325-55-4",
+        "titulo": "Libro de Prueba 466",
+        "autor": "Paula Hawkins",
+        "genero": "Misterio",
+        "rating": 4.2
+    },
+    {
+        "isbn": "978-987-8626-46-8",
+        "titulo": "Libro de Prueba 467",
+        "autor": "Stephen King",
+        "genero": "Thriller psicológico",
+        "rating": 3.0
+    },
+    {
+        "isbn": "978-987-4672-66-4",
+        "titulo": "Libro de Prueba 468",
+        "autor": "Paula Hawkins",
+        "genero": "Thriller psicológico",
+        "rating": 4.9
+    },
+    {
+        "isbn": "978-987-2354-23-3",
+        "titulo": "Libro de Prueba 469",
+        "autor": "John Katzenbach",
+        "genero": "Novela negra",
+        "rating": 3.3
+    },
+    {
+        "isbn": "978-987-4822-82-7",
+        "titulo": "Libro de Prueba 470",
+        "autor": "Shari Lapena",
+        "genero": "Novela negra",
+        "rating": 3.7
+    },
+    {
+        "isbn": "978-987-7269-87-7",
+        "titulo": "Libro de Prueba 471",
+        "autor": "John Katzenbach",
+        "genero": "Suspenso",
+        "rating": 3.9
+    },
+    {
+        "isbn": "978-987-2981-94-7",
+        "titulo": "Libro de Prueba 472",
+        "autor": "John Katzenbach",
+        "genero": "Thriller psicológico",
+        "rating": 3.9
+    },
+    {
+        "isbn": "978-987-4481-70-3",
+        "titulo": "Libro de Prueba 473",
+        "autor": "Harlan Coben",
+        "genero": "Terror",
+        "rating": 4.6
+    },
+    {
+        "isbn": "978-987-5651-35-0",
+        "titulo": "Libro de Prueba 474",
+        "autor": "Alex Michaelides",
+        "genero": "Misterio",
+        "rating": 4.4
+    },
+    {
+        "isbn": "978-987-4947-18-6",
+        "titulo": "Libro de Prueba 475",
+        "autor": "Gillian Flynn",
+        "genero": "Thriller psicológico",
+        "rating": 3.5
+    },
+    {
+        "isbn": "978-987-8435-79-1",
+        "titulo": "Libro de Prueba 476",
+        "autor": "Harlan Coben",
+        "genero": "Novela negra",
+        "rating": 4.1
+    },
+    {
+        "isbn": "978-987-2771-92-3",
+        "titulo": "Libro de Prueba 477",
+        "autor": "John Katzenbach",
+        "genero": "Novela negra",
+        "rating": 4.0
+    },
+    {
+        "isbn": "978-987-4179-82-6",
+        "titulo": "Libro de Prueba 478",
+        "autor": "Stephen King",
+        "genero": "Misterio",
+        "rating": 3.8
+    },
+    {
+        "isbn": "978-987-6403-28-2",
+        "titulo": "Libro de Prueba 479",
+        "autor": "John Katzenbach",
+        "genero": "Terror",
+        "rating": 4.6
+    },
+    {
+        "isbn": "978-987-5294-28-3",
+        "titulo": "Libro de Prueba 480",
+        "autor": "Harlan Coben",
+        "genero": "Suspenso",
+        "rating": 4.0
+    },
+    {
+        "isbn": "978-987-8205-94-3",
+        "titulo": "Libro de Prueba 481",
+        "autor": "Harlan Coben",
+        "genero": "Novela negra",
+        "rating": 4.4
+    },
+    {
+        "isbn": "978-987-3290-87-6",
+        "titulo": "Libro de Prueba 482",
+        "autor": "Paula Hawkins",
+        "genero": "Misterio",
+        "rating": 3.8
+    },
+    {
+        "isbn": "978-987-4289-37-2",
+        "titulo": "Libro de Prueba 483",
+        "autor": "Alex Michaelides",
+        "genero": "Misterio",
+        "rating": 4.0
+    },
+    {
+        "isbn": "978-987-5960-30-3",
+        "titulo": "Libro de Prueba 484",
+        "autor": "John Katzenbach",
+        "genero": "Thriller psicológico",
+        "rating": 4.6
+    },
+    {
+        "isbn": "978-987-2299-59-2",
+        "titulo": "Libro de Prueba 485",
+        "autor": "Harlan Coben",
+        "genero": "Suspenso",
+        "rating": 4.4
+    },
+    {
+        "isbn": "978-987-1470-45-7",
+        "titulo": "Libro de Prueba 486",
+        "autor": "Alex Michaelides",
+        "genero": "Suspenso",
+        "rating": 3.7
+    },
+    {
+        "isbn": "978-987-2967-15-4",
+        "titulo": "Libro de Prueba 487",
+        "autor": "Alex Michaelides",
+        "genero": "Novela negra",
+        "rating": 4.7
+    },
+    {
+        "isbn": "978-987-8564-77-2",
+        "titulo": "Libro de Prueba 488",
+        "autor": "Stephen King",
+        "genero": "Misterio",
+        "rating": 4.0
+    },
+    {
+        "isbn": "978-987-9056-47-2",
+        "titulo": "Libro de Prueba 489",
+        "autor": "Paula Hawkins",
+        "genero": "Thriller psicológico",
+        "rating": 4.1
+    },
+    {
+        "isbn": "978-987-4162-72-9",
+        "titulo": "Libro de Prueba 490",
+        "autor": "Paula Hawkins",
+        "genero": "Thriller psicológico",
+        "rating": 4.1
+    },
+    {
+        "isbn": "978-987-5547-70-8",
+        "titulo": "Libro de Prueba 491",
+        "autor": "Stephen King",
+        "genero": "Novela negra",
+        "rating": 3.5
+    },
+    {
+        "isbn": "978-987-8028-98-2",
+        "titulo": "Libro de Prueba 492",
+        "autor": "Shari Lapena",
+        "genero": "Suspenso",
+        "rating": 3.0
+    },
+    {
+        "isbn": "978-987-1278-30-5",
+        "titulo": "Libro de Prueba 493",
+        "autor": "Stephen King",
+        "genero": "Misterio",
+        "rating": 3.8
+    },
+    {
+        "isbn": "978-987-8091-83-5",
+        "titulo": "Libro de Prueba 494",
+        "autor": "Paula Hawkins",
+        "genero": "Suspenso",
+        "rating": 4.4
+    },
+    {
+        "isbn": "978-987-6318-85-8",
+        "titulo": "Libro de Prueba 495",
+        "autor": "Shari Lapena",
+        "genero": "Novela negra",
+        "rating": 4.5
+    },
+    {
+        "isbn": "978-987-8247-86-3",
+        "titulo": "Libro de Prueba 496",
+        "autor": "Stephen King",
+        "genero": "Misterio",
+        "rating": 3.3
+    },
+    {
+        "isbn": "978-987-4909-38-7",
+        "titulo": "Libro de Prueba 497",
+        "autor": "Stephen King",
+        "genero": "Misterio",
+        "rating": 4.5
+    },
+    {
+        "isbn": "978-987-3527-79-4",
+        "titulo": "Libro de Prueba 498",
+        "autor": "Freida McFadden",
+        "genero": "Novela negra",
+        "rating": 4.4
+    },
+    {
+        "isbn": "978-987-4141-96-6",
+        "titulo": "Libro de Prueba 499",
+        "autor": "Shari Lapena",
+        "genero": "Terror",
+        "rating": 4.0
+    },
+    {
+        "isbn": "978-987-1328-74-5",
+        "titulo": "Libro de Prueba 500",
+        "autor": "Paula Hawkins",
+        "genero": "Thriller psicológico",
+        "rating": 4.0
+    },
+    {
+        "isbn": "978-987-1623-90-7",
+        "titulo": "Libro de Prueba 501",
+        "autor": "Shari Lapena",
+        "genero": "Novela negra",
+        "rating": 3.6
+    },
+    {
+        "isbn": "978-987-2291-71-0",
+        "titulo": "Libro de Prueba 502",
+        "autor": "Gillian Flynn",
+        "genero": "Misterio",
+        "rating": 4.0
+    },
+    {
+        "isbn": "978-987-8671-16-1",
+        "titulo": "Libro de Prueba 503",
+        "autor": "Alex Michaelides",
+        "genero": "Terror",
+        "rating": 5.0
+    },
+    {
+        "isbn": "978-987-3243-22-9",
+        "titulo": "Libro de Prueba 504",
+        "autor": "Paula Hawkins",
+        "genero": "Misterio",
+        "rating": 3.8
+    },
+    {
+        "isbn": "978-987-4880-52-0",
+        "titulo": "Libro de Prueba 505",
+        "autor": "Gillian Flynn",
+        "genero": "Thriller psicológico",
+        "rating": 4.3
+    },
+    {
+        "isbn": "978-987-4613-10-9",
+        "titulo": "Libro de Prueba 506",
+        "autor": "Alex Michaelides",
+        "genero": "Novela negra",
+        "rating": 3.0
+    },
+    {
+        "isbn": "978-987-5178-32-7",
+        "titulo": "Libro de Prueba 507",
+        "autor": "Freida McFadden",
+        "genero": "Thriller psicológico",
+        "rating": 4.4
+    },
+    {
+        "isbn": "978-987-6925-36-2",
+        "titulo": "Libro de Prueba 508",
+        "autor": "Freida McFadden",
+        "genero": "Thriller psicológico",
+        "rating": 3.1
+    },
+    {
+        "isbn": "978-987-4226-10-1",
+        "titulo": "Libro de Prueba 509",
+        "autor": "Harlan Coben",
+        "genero": "Suspenso",
+        "rating": 3.9
+    },
+    {
+        "isbn": "978-987-2384-45-7",
+        "titulo": "Libro de Prueba 510",
+        "autor": "Freida McFadden",
+        "genero": "Novela negra",
+        "rating": 4.3
+    },
+    {
+        "isbn": "978-987-5884-72-0",
+        "titulo": "Libro de Prueba 511",
+        "autor": "Shari Lapena",
+        "genero": "Terror",
+        "rating": 3.2
+    },
+    {
+        "isbn": "978-987-9613-30-1",
+        "titulo": "Libro de Prueba 512",
+        "autor": "Freida McFadden",
+        "genero": "Misterio",
+        "rating": 3.6
+    },
+    {
+        "isbn": "978-987-9842-16-0",
+        "titulo": "Libro de Prueba 513",
+        "autor": "Paula Hawkins",
+        "genero": "Terror",
+        "rating": 3.6
+    },
+    {
+        "isbn": "978-987-7626-61-2",
+        "titulo": "Libro de Prueba 514",
+        "autor": "Stephen King",
+        "genero": "Suspenso",
+        "rating": 4.7
+    },
+    {
+        "isbn": "978-987-4612-65-2",
+        "titulo": "Libro de Prueba 515",
+        "autor": "Stephen King",
+        "genero": "Misterio",
+        "rating": 4.9
+    },
+    {
+        "isbn": "978-987-8949-80-5",
+        "titulo": "Libro de Prueba 516",
+        "autor": "Stephen King",
+        "genero": "Terror",
+        "rating": 3.7
+    },
+    {
+        "isbn": "978-987-1416-62-8",
+        "titulo": "Libro de Prueba 517",
+        "autor": "Alex Michaelides",
+        "genero": "Novela negra",
+        "rating": 3.5
+    },
+    {
+        "isbn": "978-987-7513-20-4",
+        "titulo": "Libro de Prueba 518",
+        "autor": "Stephen King",
+        "genero": "Suspenso",
+        "rating": 4.8
+    },
+    {
+        "isbn": "978-987-5958-92-8",
+        "titulo": "Libro de Prueba 519",
+        "autor": "Gillian Flynn",
+        "genero": "Novela negra",
+        "rating": 4.1
+    },
+    {
+        "isbn": "978-987-1458-63-4",
+        "titulo": "Libro de Prueba 520",
+        "autor": "Freida McFadden",
+        "genero": "Terror",
+        "rating": 3.4
+    },
+    {
+        "isbn": "978-987-6627-26-7",
+        "titulo": "Libro de Prueba 521",
+        "autor": "Paula Hawkins",
+        "genero": "Terror",
+        "rating": 3.6
+    },
+    {
+        "isbn": "978-987-5068-61-0",
+        "titulo": "Libro de Prueba 522",
+        "autor": "Alex Michaelides",
+        "genero": "Terror",
+        "rating": 3.8
+    },
+    {
+        "isbn": "978-987-2623-93-3",
+        "titulo": "Libro de Prueba 523",
+        "autor": "Gillian Flynn",
+        "genero": "Novela negra",
+        "rating": 4.3
+    },
+    {
+        "isbn": "978-987-5295-32-3",
+        "titulo": "Libro de Prueba 524",
+        "autor": "Alex Michaelides",
+        "genero": "Suspenso",
+        "rating": 4.5
+    },
+    {
+        "isbn": "978-987-4871-65-1",
+        "titulo": "Libro de Prueba 525",
+        "autor": "Freida McFadden",
+        "genero": "Suspenso",
+        "rating": 3.5
+    },
+    {
+        "isbn": "978-987-7597-36-9",
+        "titulo": "Libro de Prueba 526",
+        "autor": "John Katzenbach",
+        "genero": "Terror",
+        "rating": 4.5
+    },
+    {
+        "isbn": "978-987-4626-53-9",
+        "titulo": "Libro de Prueba 527",
+        "autor": "Stephen King",
+        "genero": "Novela negra",
+        "rating": 3.6
+    },
+    {
+        "isbn": "978-987-2082-33-1",
+        "titulo": "Libro de Prueba 528",
+        "autor": "Stephen King",
+        "genero": "Suspenso",
+        "rating": 3.9
+    },
+    {
+        "isbn": "978-987-6521-88-9",
+        "titulo": "Libro de Prueba 529",
+        "autor": "John Katzenbach",
+        "genero": "Terror",
+        "rating": 5.0
+    },
+    {
+        "isbn": "978-987-4139-22-5",
+        "titulo": "Libro de Prueba 530",
+        "autor": "Gillian Flynn",
+        "genero": "Thriller psicológico",
+        "rating": 4.7
+    },
+    {
+        "isbn": "978-987-8042-24-2",
+        "titulo": "Libro de Prueba 531",
+        "autor": "Alex Michaelides",
+        "genero": "Thriller psicológico",
+        "rating": 3.5
+    },
+    {
+        "isbn": "978-987-9724-72-5",
+        "titulo": "Libro de Prueba 532",
+        "autor": "Paula Hawkins",
+        "genero": "Novela negra",
+        "rating": 4.1
+    },
+    {
+        "isbn": "978-987-1437-78-6",
+        "titulo": "Libro de Prueba 533",
+        "autor": "John Katzenbach",
+        "genero": "Novela negra",
+        "rating": 4.5
+    },
+    {
+        "isbn": "978-987-3920-95-6",
+        "titulo": "Libro de Prueba 534",
+        "autor": "Stephen King",
+        "genero": "Thriller psicológico",
+        "rating": 4.3
+    },
+    {
+        "isbn": "978-987-6023-17-0",
+        "titulo": "Libro de Prueba 535",
+        "autor": "Gillian Flynn",
+        "genero": "Misterio",
+        "rating": 3.9
+    },
+    {
+        "isbn": "978-987-5701-42-0",
+        "titulo": "Libro de Prueba 536",
+        "autor": "Gillian Flynn",
+        "genero": "Misterio",
+        "rating": 3.2
+    },
+    {
+        "isbn": "978-987-6874-88-9",
+        "titulo": "Libro de Prueba 537",
+        "autor": "John Katzenbach",
+        "genero": "Novela negra",
+        "rating": 4.4
+    },
+    {
+        "isbn": "978-987-7540-62-2",
+        "titulo": "Libro de Prueba 538",
+        "autor": "Paula Hawkins",
+        "genero": "Novela negra",
+        "rating": 3.1
+    },
+    {
+        "isbn": "978-987-8936-67-0",
+        "titulo": "Libro de Prueba 539",
+        "autor": "Harlan Coben",
+        "genero": "Misterio",
+        "rating": 5.0
+    },
+    {
+        "isbn": "978-987-9697-20-0",
+        "titulo": "Libro de Prueba 540",
+        "autor": "Harlan Coben",
+        "genero": "Suspenso",
+        "rating": 4.3
+    },
+    {
+        "isbn": "978-987-1342-33-8",
+        "titulo": "Libro de Prueba 541",
+        "autor": "John Katzenbach",
+        "genero": "Thriller psicológico",
+        "rating": 3.3
+    },
+    {
+        "isbn": "978-987-1380-77-8",
+        "titulo": "Libro de Prueba 542",
+        "autor": "Harlan Coben",
+        "genero": "Thriller psicológico",
+        "rating": 4.8
+    },
+    {
+        "isbn": "978-987-1737-34-3",
+        "titulo": "Libro de Prueba 543",
+        "autor": "Shari Lapena",
+        "genero": "Terror",
+        "rating": 3.0
+    },
+    {
+        "isbn": "978-987-9576-34-5",
+        "titulo": "Libro de Prueba 544",
+        "autor": "Harlan Coben",
+        "genero": "Novela negra",
+        "rating": 3.5
+    },
+    {
+        "isbn": "978-987-4980-23-8",
+        "titulo": "Libro de Prueba 545",
+        "autor": "Stephen King",
+        "genero": "Novela negra",
+        "rating": 4.2
+    },
+    {
+        "isbn": "978-987-1297-51-1",
+        "titulo": "Libro de Prueba 546",
+        "autor": "Gillian Flynn",
+        "genero": "Thriller psicológico",
+        "rating": 4.0
+    },
+    {
+        "isbn": "978-987-7420-99-2",
+        "titulo": "Libro de Prueba 547",
+        "autor": "John Katzenbach",
+        "genero": "Novela negra",
+        "rating": 3.5
+    },
+    {
+        "isbn": "978-987-1954-89-2",
+        "titulo": "Libro de Prueba 548",
+        "autor": "Alex Michaelides",
+        "genero": "Suspenso",
+        "rating": 4.9
+    },
+    {
+        "isbn": "978-987-2173-88-9",
+        "titulo": "Libro de Prueba 549",
+        "autor": "Freida McFadden",
+        "genero": "Terror",
+        "rating": 5.0
+    },
+    {
+        "isbn": "978-987-7197-93-2",
+        "titulo": "Libro de Prueba 550",
+        "autor": "Stephen King",
+        "genero": "Suspenso",
+        "rating": 3.8
+    },
+    {
+        "isbn": "978-987-3872-15-0",
+        "titulo": "Libro de Prueba 551",
+        "autor": "Gillian Flynn",
+        "genero": "Terror",
+        "rating": 3.4
+    },
+    {
+        "isbn": "978-987-7311-94-2",
+        "titulo": "Libro de Prueba 552",
+        "autor": "John Katzenbach",
+        "genero": "Suspenso",
+        "rating": 3.2
+    },
+    {
+        "isbn": "978-987-4129-83-1",
+        "titulo": "Libro de Prueba 553",
+        "autor": "Paula Hawkins",
+        "genero": "Novela negra",
+        "rating": 4.6
+    },
+    {
+        "isbn": "978-987-9494-56-3",
+        "titulo": "Libro de Prueba 554",
+        "autor": "Gillian Flynn",
+        "genero": "Terror",
+        "rating": 4.0
+    },
+    {
+        "isbn": "978-987-2247-86-2",
+        "titulo": "Libro de Prueba 555",
+        "autor": "Freida McFadden",
+        "genero": "Suspenso",
+        "rating": 3.6
+    },
+    {
+        "isbn": "978-987-3051-86-8",
+        "titulo": "Libro de Prueba 556",
+        "autor": "Harlan Coben",
+        "genero": "Suspenso",
+        "rating": 4.6
+    },
+    {
+        "isbn": "978-987-4110-24-9",
+        "titulo": "Libro de Prueba 557",
+        "autor": "John Katzenbach",
+        "genero": "Novela negra",
+        "rating": 4.4
+    },
+    {
+        "isbn": "978-987-5372-78-5",
+        "titulo": "Libro de Prueba 558",
+        "autor": "Freida McFadden",
+        "genero": "Terror",
+        "rating": 4.6
+    },
+    {
+        "isbn": "978-987-1231-77-0",
+        "titulo": "Libro de Prueba 559",
+        "autor": "Paula Hawkins",
+        "genero": "Misterio",
+        "rating": 3.5
+    },
+    {
+        "isbn": "978-987-1043-40-1",
+        "titulo": "Libro de Prueba 560",
+        "autor": "Gillian Flynn",
+        "genero": "Terror",
+        "rating": 4.7
+    },
+    {
+        "isbn": "978-987-3544-16-3",
+        "titulo": "Libro de Prueba 561",
+        "autor": "Paula Hawkins",
+        "genero": "Thriller psicológico",
+        "rating": 3.2
+    },
+    {
+        "isbn": "978-987-5161-31-4",
+        "titulo": "Libro de Prueba 562",
+        "autor": "Harlan Coben",
+        "genero": "Terror",
+        "rating": 3.1
+    },
+    {
+        "isbn": "978-987-6148-68-7",
+        "titulo": "Libro de Prueba 563",
+        "autor": "Freida McFadden",
+        "genero": "Thriller psicológico",
+        "rating": 4.6
+    },
+    {
+        "isbn": "978-987-3571-25-6",
+        "titulo": "Libro de Prueba 564",
+        "autor": "Gillian Flynn",
+        "genero": "Thriller psicológico",
+        "rating": 3.7
+    },
+    {
+        "isbn": "978-987-5041-94-1",
+        "titulo": "Libro de Prueba 565",
+        "autor": "Stephen King",
+        "genero": "Suspenso",
+        "rating": 4.6
+    },
+    {
+        "isbn": "978-987-3794-12-6",
+        "titulo": "Libro de Prueba 566",
+        "autor": "Gillian Flynn",
+        "genero": "Novela negra",
+        "rating": 3.3
+    },
+    {
+        "isbn": "978-987-5208-51-0",
+        "titulo": "Libro de Prueba 567",
+        "autor": "Freida McFadden",
+        "genero": "Misterio",
+        "rating": 3.5
+    },
+    {
+        "isbn": "978-987-4873-66-0",
+        "titulo": "Libro de Prueba 568",
+        "autor": "Alex Michaelides",
+        "genero": "Terror",
+        "rating": 4.4
+    },
+    {
+        "isbn": "978-987-1338-25-3",
+        "titulo": "Libro de Prueba 569",
+        "autor": "Freida McFadden",
+        "genero": "Novela negra",
+        "rating": 4.5
+    },
+    {
+        "isbn": "978-987-1773-58-0",
+        "titulo": "Libro de Prueba 570",
+        "autor": "Alex Michaelides",
+        "genero": "Suspenso",
+        "rating": 4.8
+    },
+    {
+        "isbn": "978-987-8922-40-2",
+        "titulo": "Libro de Prueba 571",
+        "autor": "Stephen King",
+        "genero": "Misterio",
+        "rating": 3.1
+    },
+    {
+        "isbn": "978-987-8534-31-2",
+        "titulo": "Libro de Prueba 572",
+        "autor": "Alex Michaelides",
+        "genero": "Novela negra",
+        "rating": 4.3
+    },
+    {
+        "isbn": "978-987-8260-85-6",
+        "titulo": "Libro de Prueba 573",
+        "autor": "Shari Lapena",
+        "genero": "Misterio",
+        "rating": 3.4
+    },
+    {
+        "isbn": "978-987-7760-43-1",
+        "titulo": "Libro de Prueba 574",
+        "autor": "Alex Michaelides",
+        "genero": "Suspenso",
+        "rating": 4.9
+    },
+    {
+        "isbn": "978-987-2086-76-1",
+        "titulo": "Libro de Prueba 575",
+        "autor": "Shari Lapena",
+        "genero": "Novela negra",
+        "rating": 3.0
+    },
+    {
+        "isbn": "978-987-7715-36-6",
+        "titulo": "Libro de Prueba 576",
+        "autor": "Alex Michaelides",
+        "genero": "Terror",
+        "rating": 4.5
+    },
+    {
+        "isbn": "978-987-5931-15-3",
+        "titulo": "Libro de Prueba 577",
+        "autor": "Freida McFadden",
+        "genero": "Thriller psicológico",
+        "rating": 3.9
+    },
+    {
+        "isbn": "978-987-9099-91-7",
+        "titulo": "Libro de Prueba 578",
+        "autor": "John Katzenbach",
+        "genero": "Misterio",
+        "rating": 4.6
+    },
+    {
+        "isbn": "978-987-1062-89-8",
+        "titulo": "Libro de Prueba 579",
+        "autor": "Gillian Flynn",
+        "genero": "Terror",
+        "rating": 4.4
+    },
+    {
+        "isbn": "978-987-7257-28-0",
+        "titulo": "Libro de Prueba 580",
+        "autor": "Harlan Coben",
+        "genero": "Terror",
+        "rating": 3.9
+    },
+    {
+        "isbn": "978-987-2423-83-1",
+        "titulo": "Libro de Prueba 581",
+        "autor": "Stephen King",
+        "genero": "Suspenso",
+        "rating": 3.8
+    },
+    {
+        "isbn": "978-987-9731-37-5",
+        "titulo": "Libro de Prueba 582",
+        "autor": "Paula Hawkins",
+        "genero": "Terror",
+        "rating": 4.3
+    },
+    {
+        "isbn": "978-987-7146-92-2",
+        "titulo": "Libro de Prueba 583",
+        "autor": "Stephen King",
+        "genero": "Thriller psicológico",
+        "rating": 3.8
+    },
+    {
+        "isbn": "978-987-7100-22-4",
+        "titulo": "Libro de Prueba 584",
+        "autor": "Gillian Flynn",
+        "genero": "Novela negra",
+        "rating": 4.5
+    },
+    {
+        "isbn": "978-987-8280-16-0",
+        "titulo": "Libro de Prueba 585",
+        "autor": "John Katzenbach",
+        "genero": "Misterio",
+        "rating": 4.4
+    },
+    {
+        "isbn": "978-987-3842-93-3",
+        "titulo": "Libro de Prueba 586",
+        "autor": "Paula Hawkins",
+        "genero": "Misterio",
+        "rating": 3.2
+    },
+    {
+        "isbn": "978-987-9243-26-4",
+        "titulo": "Libro de Prueba 587",
+        "autor": "Gillian Flynn",
+        "genero": "Novela negra",
+        "rating": 3.0
+    },
+    {
+        "isbn": "978-987-7369-69-3",
+        "titulo": "Libro de Prueba 588",
+        "autor": "Alex Michaelides",
+        "genero": "Thriller psicológico",
+        "rating": 4.8
+    },
+    {
+        "isbn": "978-987-8092-48-0",
+        "titulo": "Libro de Prueba 589",
+        "autor": "Gillian Flynn",
+        "genero": "Thriller psicológico",
+        "rating": 4.4
+    },
+    {
+        "isbn": "978-987-9671-57-4",
+        "titulo": "Libro de Prueba 590",
+        "autor": "John Katzenbach",
+        "genero": "Suspenso",
+        "rating": 4.1
+    },
+    {
+        "isbn": "978-987-9760-62-6",
+        "titulo": "Libro de Prueba 591",
+        "autor": "Shari Lapena",
+        "genero": "Thriller psicológico",
+        "rating": 4.5
+    },
+    {
+        "isbn": "978-987-1681-91-7",
+        "titulo": "Libro de Prueba 592",
+        "autor": "Alex Michaelides",
+        "genero": "Novela negra",
+        "rating": 4.6
+    },
+    {
+        "isbn": "978-987-5116-20-8",
+        "titulo": "Libro de Prueba 593",
+        "autor": "Gillian Flynn",
+        "genero": "Terror",
+        "rating": 4.5
+    },
+    {
+        "isbn": "978-987-5623-34-0",
+        "titulo": "Libro de Prueba 594",
+        "autor": "Shari Lapena",
+        "genero": "Thriller psicológico",
+        "rating": 3.5
+    },
+    {
+        "isbn": "978-987-8679-31-0",
+        "titulo": "Libro de Prueba 595",
+        "autor": "Stephen King",
+        "genero": "Suspenso",
+        "rating": 4.5
+    },
+    {
+        "isbn": "978-987-2097-97-1",
+        "titulo": "Libro de Prueba 596",
+        "autor": "John Katzenbach",
+        "genero": "Thriller psicológico",
+        "rating": 3.6
+    },
+    {
+        "isbn": "978-987-8035-89-5",
+        "titulo": "Libro de Prueba 597",
+        "autor": "Alex Michaelides",
+        "genero": "Novela negra",
+        "rating": 4.9
+    },
+    {
+        "isbn": "978-987-4327-26-4",
+        "titulo": "Libro de Prueba 598",
+        "autor": "John Katzenbach",
+        "genero": "Novela negra",
+        "rating": 3.3
+    },
+    {
+        "isbn": "978-987-4094-75-9",
+        "titulo": "Libro de Prueba 599",
+        "autor": "Paula Hawkins",
+        "genero": "Thriller psicológico",
+        "rating": 3.4
+    },
+    {
+        "isbn": "978-987-4195-88-3",
+        "titulo": "Libro de Prueba 600",
+        "autor": "John Katzenbach",
+        "genero": "Thriller psicológico",
+        "rating": 4.3
+    },
+    {
+        "isbn": "978-987-4973-14-4",
+        "titulo": "Libro de Prueba 601",
+        "autor": "Stephen King",
+        "genero": "Thriller psicológico",
+        "rating": 4.6
+    },
+    {
+        "isbn": "978-987-7967-74-1",
+        "titulo": "Libro de Prueba 602",
+        "autor": "Gillian Flynn",
+        "genero": "Terror",
+        "rating": 3.3
+    },
+    {
+        "isbn": "978-987-7082-19-3",
+        "titulo": "Libro de Prueba 603",
+        "autor": "Shari Lapena",
+        "genero": "Terror",
+        "rating": 4.5
+    },
+    {
+        "isbn": "978-987-1465-87-8",
+        "titulo": "Libro de Prueba 604",
+        "autor": "Paula Hawkins",
+        "genero": "Novela negra",
+        "rating": 3.2
+    },
+    {
+        "isbn": "978-987-8309-89-9",
+        "titulo": "Libro de Prueba 605",
+        "autor": "Paula Hawkins",
+        "genero": "Novela negra",
+        "rating": 3.6
+    },
+    {
+        "isbn": "978-987-5795-70-0",
+        "titulo": "Libro de Prueba 606",
+        "autor": "Stephen King",
+        "genero": "Suspenso",
+        "rating": 3.6
+    },
+    {
+        "isbn": "978-987-7969-84-1",
+        "titulo": "Libro de Prueba 607",
+        "autor": "Harlan Coben",
+        "genero": "Novela negra",
+        "rating": 3.6
+    },
+    {
+        "isbn": "978-987-6486-31-3",
+        "titulo": "Libro de Prueba 608",
+        "autor": "Paula Hawkins",
+        "genero": "Suspenso",
+        "rating": 5.0
+    },
+    {
+        "isbn": "978-987-8693-15-7",
+        "titulo": "Libro de Prueba 609",
+        "autor": "Shari Lapena",
+        "genero": "Terror",
+        "rating": 4.6
+    },
+    {
+        "isbn": "978-987-2571-96-8",
+        "titulo": "Libro de Prueba 610",
+        "autor": "Alex Michaelides",
+        "genero": "Terror",
+        "rating": 4.3
+    },
+    {
+        "isbn": "978-987-1350-67-3",
+        "titulo": "Libro de Prueba 611",
+        "autor": "Freida McFadden",
+        "genero": "Thriller psicológico",
+        "rating": 4.4
+    },
+    {
+        "isbn": "978-987-3661-99-2",
+        "titulo": "Libro de Prueba 612",
+        "autor": "Gillian Flynn",
+        "genero": "Novela negra",
+        "rating": 4.8
+    },
+    {
+        "isbn": "978-987-8440-59-9",
+        "titulo": "Libro de Prueba 613",
+        "autor": "Gillian Flynn",
+        "genero": "Suspenso",
+        "rating": 4.9
+    },
+    {
+        "isbn": "978-987-4602-29-7",
+        "titulo": "Libro de Prueba 614",
+        "autor": "Paula Hawkins",
+        "genero": "Thriller psicológico",
+        "rating": 4.2
+    },
+    {
+        "isbn": "978-987-7057-61-0",
+        "titulo": "Libro de Prueba 615",
+        "autor": "Alex Michaelides",
+        "genero": "Terror",
+        "rating": 4.7
+    },
+    {
+        "isbn": "978-987-7269-25-0",
+        "titulo": "Libro de Prueba 616",
+        "autor": "Harlan Coben",
+        "genero": "Terror",
+        "rating": 4.8
+    },
+    {
+        "isbn": "978-987-7731-52-8",
+        "titulo": "Libro de Prueba 617",
+        "autor": "Alex Michaelides",
+        "genero": "Novela negra",
+        "rating": 3.3
+    },
+    {
+        "isbn": "978-987-2451-55-7",
+        "titulo": "Libro de Prueba 618",
+        "autor": "Gillian Flynn",
+        "genero": "Novela negra",
+        "rating": 4.0
+    },
+    {
+        "isbn": "978-987-6249-64-7",
+        "titulo": "Libro de Prueba 619",
+        "autor": "Shari Lapena",
+        "genero": "Thriller psicológico",
+        "rating": 3.5
+    },
+    {
+        "isbn": "978-987-6005-72-3",
+        "titulo": "Libro de Prueba 620",
+        "autor": "Shari Lapena",
+        "genero": "Thriller psicológico",
+        "rating": 4.3
+    },
+    {
+        "isbn": "978-987-4679-61-0",
+        "titulo": "Libro de Prueba 621",
+        "autor": "John Katzenbach",
+        "genero": "Novela negra",
+        "rating": 3.4
+    },
+    {
+        "isbn": "978-987-4558-56-4",
+        "titulo": "Libro de Prueba 622",
+        "autor": "Shari Lapena",
+        "genero": "Suspenso",
+        "rating": 4.0
+    },
+    {
+        "isbn": "978-987-7994-82-0",
+        "titulo": "Libro de Prueba 623",
+        "autor": "Gillian Flynn",
+        "genero": "Novela negra",
+        "rating": 3.0
+    },
+    {
+        "isbn": "978-987-5077-55-0",
+        "titulo": "Libro de Prueba 624",
+        "autor": "Alex Michaelides",
+        "genero": "Terror",
+        "rating": 4.0
+    },
+    {
+        "isbn": "978-987-9150-73-8",
+        "titulo": "Libro de Prueba 625",
+        "autor": "Stephen King",
+        "genero": "Misterio",
+        "rating": 4.1
+    },
+    {
+        "isbn": "978-987-6740-35-2",
+        "titulo": "Libro de Prueba 626",
+        "autor": "Freida McFadden",
+        "genero": "Terror",
+        "rating": 3.3
+    },
+    {
+        "isbn": "978-987-2387-88-2",
+        "titulo": "Libro de Prueba 627",
+        "autor": "Freida McFadden",
+        "genero": "Terror",
+        "rating": 4.2
+    },
+    {
+        "isbn": "978-987-2381-12-3",
+        "titulo": "Libro de Prueba 628",
+        "autor": "Stephen King",
+        "genero": "Suspenso",
+        "rating": 4.5
+    },
+    {
+        "isbn": "978-987-2350-71-9",
+        "titulo": "Libro de Prueba 629",
+        "autor": "Freida McFadden",
+        "genero": "Terror",
+        "rating": 3.6
+    },
+    {
+        "isbn": "978-987-4169-53-1",
+        "titulo": "Libro de Prueba 630",
+        "autor": "Harlan Coben",
+        "genero": "Terror",
+        "rating": 4.2
+    },
+    {
+        "isbn": "978-987-9305-44-9",
+        "titulo": "Libro de Prueba 631",
+        "autor": "Shari Lapena",
+        "genero": "Suspenso",
+        "rating": 3.5
+    },
+    {
+        "isbn": "978-987-2531-80-4",
+        "titulo": "Libro de Prueba 632",
+        "autor": "Alex Michaelides",
+        "genero": "Thriller psicológico",
+        "rating": 3.8
+    },
+    {
+        "isbn": "978-987-7209-43-6",
+        "titulo": "Libro de Prueba 633",
+        "autor": "Alex Michaelides",
+        "genero": "Suspenso",
+        "rating": 4.3
+    },
+    {
+        "isbn": "978-987-9462-12-2",
+        "titulo": "Libro de Prueba 634",
+        "autor": "Paula Hawkins",
+        "genero": "Suspenso",
+        "rating": 3.1
+    },
+    {
+        "isbn": "978-987-3059-46-6",
+        "titulo": "Libro de Prueba 635",
+        "autor": "Stephen King",
+        "genero": "Terror",
+        "rating": 4.1
+    },
+    {
+        "isbn": "978-987-5746-18-9",
+        "titulo": "Libro de Prueba 636",
+        "autor": "Paula Hawkins",
+        "genero": "Suspenso",
+        "rating": 3.4
+    },
+    {
+        "isbn": "978-987-9202-24-7",
+        "titulo": "Libro de Prueba 637",
+        "autor": "Freida McFadden",
+        "genero": "Thriller psicológico",
+        "rating": 3.3
+    },
+    {
+        "isbn": "978-987-6686-55-5",
+        "titulo": "Libro de Prueba 638",
+        "autor": "Harlan Coben",
+        "genero": "Misterio",
+        "rating": 3.6
+    },
+    {
+        "isbn": "978-987-7737-67-2",
+        "titulo": "Libro de Prueba 639",
+        "autor": "Paula Hawkins",
+        "genero": "Terror",
+        "rating": 3.9
+    },
+    {
+        "isbn": "978-987-6225-97-7",
+        "titulo": "Libro de Prueba 640",
+        "autor": "Gillian Flynn",
+        "genero": "Terror",
+        "rating": 3.4
+    },
+    {
+        "isbn": "978-987-7083-14-7",
+        "titulo": "Libro de Prueba 641",
+        "autor": "John Katzenbach",
+        "genero": "Thriller psicológico",
+        "rating": 3.0
+    },
+    {
+        "isbn": "978-987-8460-87-2",
+        "titulo": "Libro de Prueba 642",
+        "autor": "Gillian Flynn",
+        "genero": "Terror",
+        "rating": 3.4
+    },
+    {
+        "isbn": "978-987-9211-67-7",
+        "titulo": "Libro de Prueba 643",
+        "autor": "Gillian Flynn",
+        "genero": "Suspenso",
+        "rating": 3.4
+    },
+    {
+        "isbn": "978-987-9956-70-4",
+        "titulo": "Libro de Prueba 644",
+        "autor": "Freida McFadden",
+        "genero": "Misterio",
+        "rating": 3.1
+    },
+    {
+        "isbn": "978-987-6184-13-4",
+        "titulo": "Libro de Prueba 645",
+        "autor": "Harlan Coben",
+        "genero": "Novela negra",
+        "rating": 3.5
+    },
+    {
+        "isbn": "978-987-5411-78-5",
+        "titulo": "Libro de Prueba 646",
+        "autor": "Harlan Coben",
+        "genero": "Terror",
+        "rating": 4.2
+    },
+    {
+        "isbn": "978-987-7757-72-2",
+        "titulo": "Libro de Prueba 647",
+        "autor": "Stephen King",
+        "genero": "Suspenso",
+        "rating": 4.0
+    },
+    {
+        "isbn": "978-987-5993-86-5",
+        "titulo": "Libro de Prueba 648",
+        "autor": "Paula Hawkins",
+        "genero": "Novela negra",
+        "rating": 4.2
+    },
+    {
+        "isbn": "978-987-4452-14-2",
+        "titulo": "Libro de Prueba 649",
+        "autor": "John Katzenbach",
+        "genero": "Suspenso",
+        "rating": 4.4
+    },
+    {
+        "isbn": "978-987-3338-16-2",
+        "titulo": "Libro de Prueba 650",
+        "autor": "Harlan Coben",
+        "genero": "Thriller psicológico",
+        "rating": 3.4
+    },
+    {
+        "isbn": "978-987-2057-34-9",
+        "titulo": "Libro de Prueba 651",
+        "autor": "Freida McFadden",
+        "genero": "Thriller psicológico",
+        "rating": 3.7
+    },
+    {
+        "isbn": "978-987-4520-47-8",
+        "titulo": "Libro de Prueba 652",
+        "autor": "Alex Michaelides",
+        "genero": "Novela negra",
+        "rating": 4.6
+    },
+    {
+        "isbn": "978-987-3672-84-1",
+        "titulo": "Libro de Prueba 653",
+        "autor": "Gillian Flynn",
+        "genero": "Terror",
+        "rating": 3.5
+    },
+    {
+        "isbn": "978-987-2296-73-1",
+        "titulo": "Libro de Prueba 654",
+        "autor": "Stephen King",
+        "genero": "Suspenso",
+        "rating": 4.1
+    },
+    {
+        "isbn": "978-987-5706-68-9",
+        "titulo": "Libro de Prueba 655",
+        "autor": "Alex Michaelides",
+        "genero": "Thriller psicológico",
+        "rating": 4.0
+    },
+    {
+        "isbn": "978-987-4084-18-8",
+        "titulo": "Libro de Prueba 656",
+        "autor": "Freida McFadden",
+        "genero": "Suspenso",
+        "rating": 4.6
+    },
+    {
+        "isbn": "978-987-2307-50-8",
+        "titulo": "Libro de Prueba 657",
+        "autor": "Freida McFadden",
+        "genero": "Thriller psicológico",
+        "rating": 4.5
+    },
+    {
+        "isbn": "978-987-7501-98-4",
+        "titulo": "Libro de Prueba 658",
+        "autor": "Paula Hawkins",
+        "genero": "Thriller psicológico",
+        "rating": 4.8
+    },
+    {
+        "isbn": "978-987-5475-16-8",
+        "titulo": "Libro de Prueba 659",
+        "autor": "Paula Hawkins",
+        "genero": "Misterio",
+        "rating": 4.5
+    },
+    {
+        "isbn": "978-987-2575-75-1",
+        "titulo": "Libro de Prueba 660",
+        "autor": "Paula Hawkins",
+        "genero": "Terror",
+        "rating": 4.0
+    },
+    {
+        "isbn": "978-987-9339-26-6",
+        "titulo": "Libro de Prueba 661",
+        "autor": "Stephen King",
+        "genero": "Misterio",
+        "rating": 3.5
+    },
+    {
+        "isbn": "978-987-9437-36-3",
+        "titulo": "Libro de Prueba 662",
+        "autor": "John Katzenbach",
+        "genero": "Terror",
+        "rating": 4.5
+    },
+    {
+        "isbn": "978-987-3974-35-9",
+        "titulo": "Libro de Prueba 663",
+        "autor": "Freida McFadden",
+        "genero": "Misterio",
+        "rating": 3.4
+    },
+    {
+        "isbn": "978-987-4125-20-6",
+        "titulo": "Libro de Prueba 664",
+        "autor": "Alex Michaelides",
+        "genero": "Novela negra",
+        "rating": 4.0
+    },
+    {
+        "isbn": "978-987-4600-78-4",
+        "titulo": "Libro de Prueba 665",
+        "autor": "Stephen King",
+        "genero": "Terror",
+        "rating": 4.9
+    },
+    {
+        "isbn": "978-987-4771-38-7",
+        "titulo": "Libro de Prueba 666",
+        "autor": "Harlan Coben",
+        "genero": "Novela negra",
+        "rating": 4.9
+    },
+    {
+        "isbn": "978-987-8326-22-5",
+        "titulo": "Libro de Prueba 667",
+        "autor": "Paula Hawkins",
+        "genero": "Misterio",
+        "rating": 4.6
+    },
+    {
+        "isbn": "978-987-7555-52-6",
+        "titulo": "Libro de Prueba 668",
+        "autor": "Paula Hawkins",
+        "genero": "Terror",
+        "rating": 3.0
+    },
+    {
+        "isbn": "978-987-3797-37-8",
+        "titulo": "Libro de Prueba 669",
+        "autor": "Harlan Coben",
+        "genero": "Misterio",
+        "rating": 4.7
+    },
+    {
+        "isbn": "978-987-2341-38-6",
+        "titulo": "Libro de Prueba 670",
+        "autor": "Alex Michaelides",
+        "genero": "Novela negra",
+        "rating": 3.4
+    },
+    {
+        "isbn": "978-987-2604-80-7",
+        "titulo": "Libro de Prueba 671",
+        "autor": "Stephen King",
+        "genero": "Terror",
+        "rating": 4.8
+    },
+    {
+        "isbn": "978-987-2627-98-7",
+        "titulo": "Libro de Prueba 672",
+        "autor": "Freida McFadden",
+        "genero": "Terror",
+        "rating": 4.5
+    },
+    {
+        "isbn": "978-987-2773-63-9",
+        "titulo": "Libro de Prueba 673",
+        "autor": "Freida McFadden",
+        "genero": "Thriller psicológico",
+        "rating": 3.2
+    },
+    {
+        "isbn": "978-987-3412-71-4",
+        "titulo": "Libro de Prueba 674",
+        "autor": "Stephen King",
+        "genero": "Suspenso",
+        "rating": 3.2
+    },
+    {
+        "isbn": "978-987-6705-19-1",
+        "titulo": "Libro de Prueba 675",
+        "autor": "Freida McFadden",
+        "genero": "Thriller psicológico",
+        "rating": 4.3
+    },
+    {
+        "isbn": "978-987-2171-37-1",
+        "titulo": "Libro de Prueba 676",
+        "autor": "Stephen King",
+        "genero": "Misterio",
+        "rating": 4.9
+    },
+    {
+        "isbn": "978-987-7976-98-4",
+        "titulo": "Libro de Prueba 677",
+        "autor": "Harlan Coben",
+        "genero": "Novela negra",
+        "rating": 4.0
+    },
+    {
+        "isbn": "978-987-6616-71-2",
+        "titulo": "Libro de Prueba 678",
+        "autor": "Stephen King",
+        "genero": "Suspenso",
+        "rating": 3.1
+    },
+    {
+        "isbn": "978-987-3041-75-8",
+        "titulo": "Libro de Prueba 679",
+        "autor": "Stephen King",
+        "genero": "Misterio",
+        "rating": 3.7
+    },
+    {
+        "isbn": "978-987-1217-18-8",
+        "titulo": "Libro de Prueba 680",
+        "autor": "Shari Lapena",
+        "genero": "Misterio",
+        "rating": 3.5
+    },
+    {
+        "isbn": "978-987-7221-96-0",
+        "titulo": "Libro de Prueba 681",
+        "autor": "Stephen King",
+        "genero": "Suspenso",
+        "rating": 4.7
+    },
+    {
+        "isbn": "978-987-6162-19-1",
+        "titulo": "Libro de Prueba 682",
+        "autor": "Freida McFadden",
+        "genero": "Suspenso",
+        "rating": 4.0
+    },
+    {
+        "isbn": "978-987-3102-31-9",
+        "titulo": "Libro de Prueba 683",
+        "autor": "Harlan Coben",
+        "genero": "Suspenso",
+        "rating": 4.9
+    },
+    {
+        "isbn": "978-987-7696-11-6",
+        "titulo": "Libro de Prueba 684",
+        "autor": "Gillian Flynn",
+        "genero": "Misterio",
+        "rating": 4.0
+    },
+    {
+        "isbn": "978-987-5048-47-0",
+        "titulo": "Libro de Prueba 685",
+        "autor": "Freida McFadden",
+        "genero": "Terror",
+        "rating": 4.5
+    },
+    {
+        "isbn": "978-987-3161-33-8",
+        "titulo": "Libro de Prueba 686",
+        "autor": "Gillian Flynn",
+        "genero": "Misterio",
+        "rating": 4.4
+    },
+    {
+        "isbn": "978-987-6037-49-3",
+        "titulo": "Libro de Prueba 687",
+        "autor": "Freida McFadden",
+        "genero": "Terror",
+        "rating": 4.4
+    },
+    {
+        "isbn": "978-987-8624-15-0",
+        "titulo": "Libro de Prueba 688",
+        "autor": "Harlan Coben",
+        "genero": "Thriller psicológico",
+        "rating": 3.7
+    },
+    {
+        "isbn": "978-987-6475-74-2",
+        "titulo": "Libro de Prueba 689",
+        "autor": "Freida McFadden",
+        "genero": "Misterio",
+        "rating": 4.3
+    },
+    {
+        "isbn": "978-987-7057-12-1",
+        "titulo": "Libro de Prueba 690",
+        "autor": "Stephen King",
+        "genero": "Novela negra",
+        "rating": 4.4
+    },
+    {
+        "isbn": "978-987-7118-62-3",
+        "titulo": "Libro de Prueba 691",
+        "autor": "Gillian Flynn",
+        "genero": "Novela negra",
+        "rating": 4.2
+    },
+    {
+        "isbn": "978-987-2067-22-3",
+        "titulo": "Libro de Prueba 692",
+        "autor": "Freida McFadden",
+        "genero": "Suspenso",
+        "rating": 3.1
+    },
+    {
+        "isbn": "978-987-2135-99-7",
+        "titulo": "Libro de Prueba 693",
+        "autor": "John Katzenbach",
+        "genero": "Misterio",
+        "rating": 4.7
+    },
+    {
+        "isbn": "978-987-4709-81-1",
+        "titulo": "Libro de Prueba 694",
+        "autor": "John Katzenbach",
+        "genero": "Terror",
+        "rating": 3.5
+    },
+    {
+        "isbn": "978-987-2468-53-4",
+        "titulo": "Libro de Prueba 695",
+        "autor": "Alex Michaelides",
+        "genero": "Terror",
+        "rating": 3.6
+    },
+    {
+        "isbn": "978-987-3832-81-2",
+        "titulo": "Libro de Prueba 696",
+        "autor": "Paula Hawkins",
+        "genero": "Misterio",
+        "rating": 3.4
+    },
+    {
+        "isbn": "978-987-9118-89-3",
+        "titulo": "Libro de Prueba 697",
+        "autor": "Gillian Flynn",
+        "genero": "Terror",
+        "rating": 4.8
+    },
+    {
+        "isbn": "978-987-2394-40-4",
+        "titulo": "Libro de Prueba 698",
+        "autor": "Freida McFadden",
+        "genero": "Terror",
+        "rating": 4.7
+    },
+    {
+        "isbn": "978-987-6207-10-6",
+        "titulo": "Libro de Prueba 699",
+        "autor": "Shari Lapena",
+        "genero": "Thriller psicológico",
+        "rating": 3.4
+    },
+    {
+        "isbn": "978-987-4756-95-8",
+        "titulo": "Libro de Prueba 700",
+        "autor": "Shari Lapena",
+        "genero": "Terror",
+        "rating": 4.4
+    },
+    {
+        "isbn": "978-987-8398-55-3",
+        "titulo": "Libro de Prueba 701",
+        "autor": "Paula Hawkins",
+        "genero": "Novela negra",
+        "rating": 3.1
+    },
+    {
+        "isbn": "978-987-4458-15-5",
+        "titulo": "Libro de Prueba 702",
+        "autor": "Shari Lapena",
+        "genero": "Novela negra",
+        "rating": 4.0
+    },
+    {
+        "isbn": "978-987-5208-34-8",
+        "titulo": "Libro de Prueba 703",
+        "autor": "Paula Hawkins",
+        "genero": "Terror",
+        "rating": 3.3
+    },
+    {
+        "isbn": "978-987-7048-43-6",
+        "titulo": "Libro de Prueba 704",
+        "autor": "Shari Lapena",
+        "genero": "Novela negra",
+        "rating": 4.1
+    },
+    {
+        "isbn": "978-987-1227-51-8",
+        "titulo": "Libro de Prueba 705",
+        "autor": "Alex Michaelides",
+        "genero": "Terror",
+        "rating": 4.3
+    },
+    {
+        "isbn": "978-987-2569-21-2",
+        "titulo": "Libro de Prueba 706",
+        "autor": "Alex Michaelides",
+        "genero": "Misterio",
+        "rating": 4.9
+    },
+    {
+        "isbn": "978-987-2433-81-5",
+        "titulo": "Libro de Prueba 707",
+        "autor": "Shari Lapena",
+        "genero": "Novela negra",
+        "rating": 3.1
+    },
+    {
+        "isbn": "978-987-4138-39-6",
+        "titulo": "Libro de Prueba 708",
+        "autor": "Freida McFadden",
+        "genero": "Novela negra",
+        "rating": 4.9
+    },
+    {
+        "isbn": "978-987-3390-57-1",
+        "titulo": "Libro de Prueba 709",
+        "autor": "Freida McFadden",
+        "genero": "Novela negra",
+        "rating": 3.9
+    },
+    {
+        "isbn": "978-987-8943-88-1",
+        "titulo": "Libro de Prueba 710",
+        "autor": "Alex Michaelides",
+        "genero": "Novela negra",
+        "rating": 3.9
+    },
+    {
+        "isbn": "978-987-2504-99-1",
+        "titulo": "Libro de Prueba 711",
+        "autor": "John Katzenbach",
+        "genero": "Thriller psicológico",
+        "rating": 3.6
+    },
+    {
+        "isbn": "978-987-1358-30-4",
+        "titulo": "Libro de Prueba 712",
+        "autor": "Harlan Coben",
+        "genero": "Novela negra",
+        "rating": 4.6
+    },
+    {
+        "isbn": "978-987-7535-40-1",
+        "titulo": "Libro de Prueba 713",
+        "autor": "Paula Hawkins",
+        "genero": "Misterio",
+        "rating": 5.0
+    },
+    {
+        "isbn": "978-987-4147-14-8",
+        "titulo": "Libro de Prueba 714",
+        "autor": "Freida McFadden",
+        "genero": "Misterio",
+        "rating": 4.8
+    },
+    {
+        "isbn": "978-987-6680-98-9",
+        "titulo": "Libro de Prueba 715",
+        "autor": "Paula Hawkins",
+        "genero": "Terror",
+        "rating": 4.4
+    },
+    {
+        "isbn": "978-987-3412-46-3",
+        "titulo": "Libro de Prueba 716",
+        "autor": "Paula Hawkins",
+        "genero": "Thriller psicológico",
+        "rating": 4.4
+    },
+    {
+        "isbn": "978-987-3576-91-3",
+        "titulo": "Libro de Prueba 717",
+        "autor": "Freida McFadden",
+        "genero": "Suspenso",
+        "rating": 4.3
+    },
+    {
+        "isbn": "978-987-6381-64-0",
+        "titulo": "Libro de Prueba 718",
+        "autor": "Shari Lapena",
+        "genero": "Novela negra",
+        "rating": 4.0
+    },
+    {
+        "isbn": "978-987-5250-29-1",
+        "titulo": "Libro de Prueba 719",
+        "autor": "Shari Lapena",
+        "genero": "Thriller psicológico",
+        "rating": 3.9
+    },
+    {
+        "isbn": "978-987-4721-94-1",
+        "titulo": "Libro de Prueba 720",
+        "autor": "Alex Michaelides",
+        "genero": "Terror",
+        "rating": 3.2
+    },
+    {
+        "isbn": "978-987-5416-74-6",
+        "titulo": "Libro de Prueba 721",
+        "autor": "Paula Hawkins",
+        "genero": "Thriller psicológico",
+        "rating": 3.9
+    },
+    {
+        "isbn": "978-987-5119-66-5",
+        "titulo": "Libro de Prueba 722",
+        "autor": "Gillian Flynn",
+        "genero": "Suspenso",
+        "rating": 4.8
+    },
+    {
+        "isbn": "978-987-7838-31-8",
+        "titulo": "Libro de Prueba 723",
+        "autor": "Gillian Flynn",
+        "genero": "Misterio",
+        "rating": 4.5
+    },
+    {
+        "isbn": "978-987-7076-84-9",
+        "titulo": "Libro de Prueba 724",
+        "autor": "Shari Lapena",
+        "genero": "Terror",
+        "rating": 4.3
+    },
+    {
+        "isbn": "978-987-9787-90-8",
+        "titulo": "Libro de Prueba 725",
+        "autor": "Stephen King",
+        "genero": "Misterio",
+        "rating": 3.7
+    },
+    {
+        "isbn": "978-987-2375-12-6",
+        "titulo": "Libro de Prueba 726",
+        "autor": "Shari Lapena",
+        "genero": "Terror",
+        "rating": 4.8
+    },
+    {
+        "isbn": "978-987-7313-75-1",
+        "titulo": "Libro de Prueba 727",
+        "autor": "John Katzenbach",
+        "genero": "Thriller psicológico",
+        "rating": 3.0
+    },
+    {
+        "isbn": "978-987-5608-14-5",
+        "titulo": "Libro de Prueba 728",
+        "autor": "Alex Michaelides",
+        "genero": "Thriller psicológico",
+        "rating": 4.4
+    },
+    {
+        "isbn": "978-987-2867-19-9",
+        "titulo": "Libro de Prueba 729",
+        "autor": "Alex Michaelides",
+        "genero": "Novela negra",
+        "rating": 3.5
+    },
+    {
+        "isbn": "978-987-9328-78-5",
+        "titulo": "Libro de Prueba 730",
+        "autor": "Alex Michaelides",
+        "genero": "Thriller psicológico",
+        "rating": 3.7
+    },
+    {
+        "isbn": "978-987-3014-53-6",
+        "titulo": "Libro de Prueba 731",
+        "autor": "Paula Hawkins",
+        "genero": "Terror",
+        "rating": 4.0
+    },
+    {
+        "isbn": "978-987-1484-79-9",
+        "titulo": "Libro de Prueba 732",
+        "autor": "Gillian Flynn",
+        "genero": "Novela negra",
+        "rating": 4.0
+    },
+    {
+        "isbn": "978-987-5050-93-5",
+        "titulo": "Libro de Prueba 733",
+        "autor": "Freida McFadden",
+        "genero": "Suspenso",
+        "rating": 4.2
+    },
+    {
+        "isbn": "978-987-6699-55-2",
+        "titulo": "Libro de Prueba 734",
+        "autor": "John Katzenbach",
+        "genero": "Misterio",
+        "rating": 4.7
+    },
+    {
+        "isbn": "978-987-6476-86-7",
+        "titulo": "Libro de Prueba 735",
+        "autor": "Freida McFadden",
+        "genero": "Novela negra",
+        "rating": 4.2
+    },
+    {
+        "isbn": "978-987-7070-72-7",
+        "titulo": "Libro de Prueba 736",
+        "autor": "Gillian Flynn",
+        "genero": "Terror",
+        "rating": 5.0
+    },
+    {
+        "isbn": "978-987-7289-75-7",
+        "titulo": "Libro de Prueba 737",
+        "autor": "Stephen King",
+        "genero": "Novela negra",
+        "rating": 3.6
+    },
+    {
+        "isbn": "978-987-3211-69-6",
+        "titulo": "Libro de Prueba 738",
+        "autor": "Stephen King",
+        "genero": "Novela negra",
+        "rating": 4.4
+    },
+    {
+        "isbn": "978-987-5990-96-5",
+        "titulo": "Libro de Prueba 739",
+        "autor": "Paula Hawkins",
+        "genero": "Novela negra",
+        "rating": 5.0
+    },
+    {
+        "isbn": "978-987-5235-25-9",
+        "titulo": "Libro de Prueba 740",
+        "autor": "John Katzenbach",
+        "genero": "Misterio",
+        "rating": 3.2
+    },
+    {
+        "isbn": "978-987-7486-26-9",
+        "titulo": "Libro de Prueba 741",
+        "autor": "Gillian Flynn",
+        "genero": "Novela negra",
+        "rating": 4.1
+    },
+    {
+        "isbn": "978-987-6101-85-7",
+        "titulo": "Libro de Prueba 742",
+        "autor": "John Katzenbach",
+        "genero": "Novela negra",
+        "rating": 4.5
+    },
+    {
+        "isbn": "978-987-9604-54-2",
+        "titulo": "Libro de Prueba 743",
+        "autor": "Harlan Coben",
+        "genero": "Misterio",
+        "rating": 3.9
+    },
+    {
+        "isbn": "978-987-2152-17-6",
+        "titulo": "Libro de Prueba 744",
+        "autor": "Shari Lapena",
+        "genero": "Misterio",
+        "rating": 3.4
+    },
+    {
+        "isbn": "978-987-6387-65-6",
+        "titulo": "Libro de Prueba 745",
+        "autor": "Stephen King",
+        "genero": "Novela negra",
+        "rating": 4.0
+    },
+    {
+        "isbn": "978-987-8352-75-0",
+        "titulo": "Libro de Prueba 746",
+        "autor": "Harlan Coben",
+        "genero": "Terror",
+        "rating": 3.6
+    },
+    {
+        "isbn": "978-987-2943-36-6",
+        "titulo": "Libro de Prueba 747",
+        "autor": "Gillian Flynn",
+        "genero": "Terror",
+        "rating": 4.5
+    },
+    {
+        "isbn": "978-987-4203-50-4",
+        "titulo": "Libro de Prueba 748",
+        "autor": "Shari Lapena",
+        "genero": "Suspenso",
+        "rating": 3.9
+    },
+    {
+        "isbn": "978-987-5994-30-7",
+        "titulo": "Libro de Prueba 749",
+        "autor": "John Katzenbach",
+        "genero": "Novela negra",
+        "rating": 4.6
+    },
+    {
+        "isbn": "978-987-4778-88-2",
+        "titulo": "Libro de Prueba 750",
+        "autor": "Harlan Coben",
+        "genero": "Misterio",
+        "rating": 3.8
+    },
+    {
+        "isbn": "978-987-3779-96-2",
+        "titulo": "Libro de Prueba 751",
+        "autor": "John Katzenbach",
+        "genero": "Terror",
+        "rating": 4.7
+    },
+    {
+        "isbn": "978-987-5052-71-4",
+        "titulo": "Libro de Prueba 752",
+        "autor": "John Katzenbach",
+        "genero": "Thriller psicológico",
+        "rating": 4.2
+    },
+    {
+        "isbn": "978-987-5754-22-1",
+        "titulo": "Libro de Prueba 753",
+        "autor": "Shari Lapena",
+        "genero": "Terror",
+        "rating": 3.5
+    },
+    {
+        "isbn": "978-987-7695-13-5",
+        "titulo": "Libro de Prueba 754",
+        "autor": "Gillian Flynn",
+        "genero": "Suspenso",
+        "rating": 3.3
+    },
+    {
+        "isbn": "978-987-5299-24-7",
+        "titulo": "Libro de Prueba 755",
+        "autor": "Harlan Coben",
+        "genero": "Misterio",
+        "rating": 3.3
+    },
+    {
+        "isbn": "978-987-3600-16-7",
+        "titulo": "Libro de Prueba 756",
+        "autor": "Shari Lapena",
+        "genero": "Misterio",
+        "rating": 3.8
+    },
+    {
+        "isbn": "978-987-4194-97-4",
+        "titulo": "Libro de Prueba 757",
+        "autor": "Shari Lapena",
+        "genero": "Novela negra",
+        "rating": 3.2
+    },
+    {
+        "isbn": "978-987-4046-40-1",
+        "titulo": "Libro de Prueba 758",
+        "autor": "Freida McFadden",
+        "genero": "Suspenso",
+        "rating": 3.5
+    },
+    {
+        "isbn": "978-987-3839-26-0",
+        "titulo": "Libro de Prueba 759",
+        "autor": "Freida McFadden",
+        "genero": "Novela negra",
+        "rating": 4.1
+    },
+    {
+        "isbn": "978-987-3464-28-4",
+        "titulo": "Libro de Prueba 760",
+        "autor": "Shari Lapena",
+        "genero": "Misterio",
+        "rating": 4.7
+    },
+    {
+        "isbn": "978-987-9299-60-2",
+        "titulo": "Libro de Prueba 761",
+        "autor": "John Katzenbach",
+        "genero": "Suspenso",
+        "rating": 3.9
+    },
+    {
+        "isbn": "978-987-8751-76-8",
+        "titulo": "Libro de Prueba 762",
+        "autor": "Paula Hawkins",
+        "genero": "Novela negra",
+        "rating": 4.5
+    },
+    {
+        "isbn": "978-987-9044-46-2",
+        "titulo": "Libro de Prueba 763",
+        "autor": "Stephen King",
+        "genero": "Terror",
+        "rating": 4.2
+    },
+    {
+        "isbn": "978-987-9304-12-6",
+        "titulo": "Libro de Prueba 764",
+        "autor": "Paula Hawkins",
+        "genero": "Terror",
+        "rating": 4.2
+    },
+    {
+        "isbn": "978-987-8541-11-3",
+        "titulo": "Libro de Prueba 765",
+        "autor": "Shari Lapena",
+        "genero": "Misterio",
+        "rating": 3.8
+    },
+    {
+        "isbn": "978-987-6718-20-9",
+        "titulo": "Libro de Prueba 766",
+        "autor": "John Katzenbach",
+        "genero": "Novela negra",
+        "rating": 4.7
+    },
+    {
+        "isbn": "978-987-9053-23-6",
+        "titulo": "Libro de Prueba 767",
+        "autor": "Freida McFadden",
+        "genero": "Suspenso",
+        "rating": 3.9
+    },
+    {
+        "isbn": "978-987-2261-10-4",
+        "titulo": "Libro de Prueba 768",
+        "autor": "Gillian Flynn",
+        "genero": "Suspenso",
+        "rating": 4.4
+    },
+    {
+        "isbn": "978-987-6474-33-8",
+        "titulo": "Libro de Prueba 769",
+        "autor": "Shari Lapena",
+        "genero": "Misterio",
+        "rating": 4.6
+    },
+    {
+        "isbn": "978-987-9065-95-1",
+        "titulo": "Libro de Prueba 770",
+        "autor": "Gillian Flynn",
+        "genero": "Suspenso",
+        "rating": 3.4
+    },
+    {
+        "isbn": "978-987-2652-59-4",
+        "titulo": "Libro de Prueba 771",
+        "autor": "Shari Lapena",
+        "genero": "Novela negra",
+        "rating": 4.2
+    },
+    {
+        "isbn": "978-987-8329-44-0",
+        "titulo": "Libro de Prueba 772",
+        "autor": "Stephen King",
+        "genero": "Thriller psicológico",
+        "rating": 3.7
+    },
+    {
+        "isbn": "978-987-6006-57-5",
+        "titulo": "Libro de Prueba 773",
+        "autor": "Paula Hawkins",
+        "genero": "Novela negra",
+        "rating": 4.1
+    },
+    {
+        "isbn": "978-987-1920-34-9",
+        "titulo": "Libro de Prueba 774",
+        "autor": "Freida McFadden",
+        "genero": "Thriller psicológico",
+        "rating": 4.1
+    },
+    {
+        "isbn": "978-987-4401-93-3",
+        "titulo": "Libro de Prueba 775",
+        "autor": "Shari Lapena",
+        "genero": "Suspenso",
+        "rating": 4.1
+    },
+    {
+        "isbn": "978-987-4309-35-1",
+        "titulo": "Libro de Prueba 776",
+        "autor": "Stephen King",
+        "genero": "Novela negra",
+        "rating": 4.2
+    },
+    {
+        "isbn": "978-987-2412-13-1",
+        "titulo": "Libro de Prueba 777",
+        "autor": "Shari Lapena",
+        "genero": "Suspenso",
+        "rating": 4.9
+    },
+    {
+        "isbn": "978-987-7094-60-1",
+        "titulo": "Libro de Prueba 778",
+        "autor": "John Katzenbach",
+        "genero": "Terror",
+        "rating": 4.7
+    },
+    {
+        "isbn": "978-987-7836-47-3",
+        "titulo": "Libro de Prueba 779",
+        "autor": "John Katzenbach",
+        "genero": "Terror",
+        "rating": 3.5
+    },
+    {
+        "isbn": "978-987-8228-12-8",
+        "titulo": "Libro de Prueba 780",
+        "autor": "Alex Michaelides",
+        "genero": "Thriller psicológico",
+        "rating": 4.0
+    },
+    {
+        "isbn": "978-987-7650-75-4",
+        "titulo": "Libro de Prueba 781",
+        "autor": "Stephen King",
+        "genero": "Novela negra",
+        "rating": 3.7
+    },
+    {
+        "isbn": "978-987-3983-81-2",
+        "titulo": "Libro de Prueba 782",
+        "autor": "Harlan Coben",
+        "genero": "Misterio",
+        "rating": 3.1
+    },
+    {
+        "isbn": "978-987-9750-77-6",
+        "titulo": "Libro de Prueba 783",
+        "autor": "Harlan Coben",
+        "genero": "Misterio",
+        "rating": 4.0
+    },
+    {
+        "isbn": "978-987-5685-94-8",
+        "titulo": "Libro de Prueba 784",
+        "autor": "Stephen King",
+        "genero": "Novela negra",
+        "rating": 3.5
+    },
+    {
+        "isbn": "978-987-2447-90-6",
+        "titulo": "Libro de Prueba 785",
+        "autor": "John Katzenbach",
+        "genero": "Misterio",
+        "rating": 3.0
+    },
+    {
+        "isbn": "978-987-5415-66-8",
+        "titulo": "Libro de Prueba 786",
+        "autor": "John Katzenbach",
+        "genero": "Misterio",
+        "rating": 3.3
+    },
+    {
+        "isbn": "978-987-2312-10-0",
+        "titulo": "Libro de Prueba 787",
+        "autor": "Paula Hawkins",
+        "genero": "Suspenso",
+        "rating": 4.8
+    },
+    {
+        "isbn": "978-987-9987-47-0",
+        "titulo": "Libro de Prueba 788",
+        "autor": "John Katzenbach",
+        "genero": "Terror",
+        "rating": 3.4
+    },
+    {
+        "isbn": "978-987-4625-71-2",
+        "titulo": "Libro de Prueba 789",
+        "autor": "Stephen King",
+        "genero": "Terror",
+        "rating": 4.1
+    },
+    {
+        "isbn": "978-987-7721-15-6",
+        "titulo": "Libro de Prueba 790",
+        "autor": "Alex Michaelides",
+        "genero": "Suspenso",
+        "rating": 3.2
+    },
+    {
+        "isbn": "978-987-9193-64-2",
+        "titulo": "Libro de Prueba 791",
+        "autor": "Freida McFadden",
+        "genero": "Misterio",
+        "rating": 4.6
+    },
+    {
+        "isbn": "978-987-3620-45-9",
+        "titulo": "Libro de Prueba 792",
+        "autor": "Shari Lapena",
+        "genero": "Suspenso",
+        "rating": 3.1
+    },
+    {
+        "isbn": "978-987-5444-87-0",
+        "titulo": "Libro de Prueba 793",
+        "autor": "Stephen King",
+        "genero": "Terror",
+        "rating": 3.7
+    },
+    {
+        "isbn": "978-987-4805-41-6",
+        "titulo": "Libro de Prueba 794",
+        "autor": "Paula Hawkins",
+        "genero": "Novela negra",
+        "rating": 3.9
+    },
+    {
+        "isbn": "978-987-7049-15-2",
+        "titulo": "Libro de Prueba 795",
+        "autor": "Shari Lapena",
+        "genero": "Misterio",
+        "rating": 3.2
+    },
+    {
+        "isbn": "978-987-5019-65-0",
+        "titulo": "Libro de Prueba 796",
+        "autor": "John Katzenbach",
+        "genero": "Terror",
+        "rating": 3.9
+    },
+    {
+        "isbn": "978-987-3282-39-4",
+        "titulo": "Libro de Prueba 797",
+        "autor": "Harlan Coben",
+        "genero": "Terror",
+        "rating": 3.2
+    },
+    {
+        "isbn": "978-987-5706-25-7",
+        "titulo": "Libro de Prueba 798",
+        "autor": "Freida McFadden",
+        "genero": "Novela negra",
+        "rating": 4.3
+    },
+    {
+        "isbn": "978-987-1242-93-2",
+        "titulo": "Libro de Prueba 799",
+        "autor": "Stephen King",
+        "genero": "Terror",
+        "rating": 3.9
+    },
+    {
+        "isbn": "978-987-2910-16-5",
+        "titulo": "Libro de Prueba 800",
+        "autor": "Freida McFadden",
+        "genero": "Misterio",
+        "rating": 4.4
+    },
+    {
+        "isbn": "978-987-3351-29-3",
+        "titulo": "Libro de Prueba 801",
+        "autor": "Stephen King",
+        "genero": "Suspenso",
+        "rating": 3.4
+    },
+    {
+        "isbn": "978-987-5353-28-0",
+        "titulo": "Libro de Prueba 802",
+        "autor": "Harlan Coben",
+        "genero": "Thriller psicológico",
+        "rating": 3.9
+    },
+    {
+        "isbn": "978-987-4199-45-6",
+        "titulo": "Libro de Prueba 803",
+        "autor": "Paula Hawkins",
+        "genero": "Novela negra",
+        "rating": 4.1
+    },
+    {
+        "isbn": "978-987-4957-43-4",
+        "titulo": "Libro de Prueba 804",
+        "autor": "Stephen King",
+        "genero": "Thriller psicológico",
+        "rating": 4.8
+    },
+    {
+        "isbn": "978-987-2936-86-1",
+        "titulo": "Libro de Prueba 805",
+        "autor": "Stephen King",
+        "genero": "Misterio",
+        "rating": 4.9
+    },
+    {
+        "isbn": "978-987-4823-55-3",
+        "titulo": "Libro de Prueba 806",
+        "autor": "John Katzenbach",
+        "genero": "Novela negra",
+        "rating": 4.0
+    },
+    {
+        "isbn": "978-987-3500-25-9",
+        "titulo": "Libro de Prueba 807",
+        "autor": "Paula Hawkins",
+        "genero": "Misterio",
+        "rating": 3.9
+    },
+    {
+        "isbn": "978-987-5724-36-8",
+        "titulo": "Libro de Prueba 808",
+        "autor": "Gillian Flynn",
+        "genero": "Terror",
+        "rating": 3.1
+    },
+    {
+        "isbn": "978-987-9549-16-4",
+        "titulo": "Libro de Prueba 809",
+        "autor": "Shari Lapena",
+        "genero": "Suspenso",
+        "rating": 3.8
+    },
+    {
+        "isbn": "978-987-1528-66-4",
+        "titulo": "Libro de Prueba 810",
+        "autor": "Harlan Coben",
+        "genero": "Thriller psicológico",
+        "rating": 4.7
+    },
+    {
+        "isbn": "978-987-3898-35-7",
+        "titulo": "Libro de Prueba 811",
+        "autor": "Alex Michaelides",
+        "genero": "Novela negra",
+        "rating": 3.5
+    },
+    {
+        "isbn": "978-987-1379-23-3",
+        "titulo": "Libro de Prueba 812",
+        "autor": "Freida McFadden",
+        "genero": "Suspenso",
+        "rating": 4.9
+    },
+    {
+        "isbn": "978-987-9551-45-4",
+        "titulo": "Libro de Prueba 813",
+        "autor": "Gillian Flynn",
+        "genero": "Terror",
+        "rating": 4.0
+    },
+    {
+        "isbn": "978-987-8861-38-5",
+        "titulo": "Libro de Prueba 814",
+        "autor": "Gillian Flynn",
+        "genero": "Terror",
+        "rating": 3.8
+    },
+    {
+        "isbn": "978-987-5037-14-7",
+        "titulo": "Libro de Prueba 815",
+        "autor": "Alex Michaelides",
+        "genero": "Suspenso",
+        "rating": 4.5
+    },
+    {
+        "isbn": "978-987-7543-62-7",
+        "titulo": "Libro de Prueba 816",
+        "autor": "John Katzenbach",
+        "genero": "Thriller psicológico",
+        "rating": 4.8
+    },
+    {
+        "isbn": "978-987-8005-91-3",
+        "titulo": "Libro de Prueba 817",
+        "autor": "Harlan Coben",
+        "genero": "Novela negra",
+        "rating": 3.1
+    },
+    {
+        "isbn": "978-987-6757-75-3",
+        "titulo": "Libro de Prueba 818",
+        "autor": "Paula Hawkins",
+        "genero": "Thriller psicológico",
+        "rating": 4.0
+    },
+    {
+        "isbn": "978-987-7835-61-9",
+        "titulo": "Libro de Prueba 819",
+        "autor": "Paula Hawkins",
+        "genero": "Novela negra",
+        "rating": 3.2
+    },
+    {
+        "isbn": "978-987-5154-10-9",
+        "titulo": "Libro de Prueba 820",
+        "autor": "Stephen King",
+        "genero": "Thriller psicológico",
+        "rating": 3.4
+    },
+    {
+        "isbn": "978-987-8574-76-7",
+        "titulo": "Libro de Prueba 821",
+        "autor": "Alex Michaelides",
+        "genero": "Novela negra",
+        "rating": 3.4
+    },
+    {
+        "isbn": "978-987-6711-51-9",
+        "titulo": "Libro de Prueba 822",
+        "autor": "Freida McFadden",
+        "genero": "Misterio",
+        "rating": 4.2
+    },
+    {
+        "isbn": "978-987-5962-85-9",
+        "titulo": "Libro de Prueba 823",
+        "autor": "Shari Lapena",
+        "genero": "Terror",
+        "rating": 3.8
+    },
+    {
+        "isbn": "978-987-3670-34-2",
+        "titulo": "Libro de Prueba 824",
+        "autor": "Gillian Flynn",
+        "genero": "Thriller psicológico",
+        "rating": 3.8
+    },
+    {
+        "isbn": "978-987-9073-63-5",
+        "titulo": "Libro de Prueba 825",
+        "autor": "Gillian Flynn",
+        "genero": "Misterio",
+        "rating": 3.1
+    },
+    {
+        "isbn": "978-987-3905-30-3",
+        "titulo": "Libro de Prueba 826",
+        "autor": "Harlan Coben",
+        "genero": "Suspenso",
+        "rating": 3.5
+    },
+    {
+        "isbn": "978-987-6337-12-8",
+        "titulo": "Libro de Prueba 827",
+        "autor": "Shari Lapena",
+        "genero": "Thriller psicológico",
+        "rating": 3.5
+    },
+    {
+        "isbn": "978-987-6191-57-5",
+        "titulo": "Libro de Prueba 828",
+        "autor": "Gillian Flynn",
+        "genero": "Terror",
+        "rating": 4.7
+    },
+    {
+        "isbn": "978-987-9508-54-6",
+        "titulo": "Libro de Prueba 829",
+        "autor": "Freida McFadden",
+        "genero": "Misterio",
+        "rating": 3.5
+    },
+    {
+        "isbn": "978-987-4794-37-9",
+        "titulo": "Libro de Prueba 830",
+        "autor": "Stephen King",
+        "genero": "Suspenso",
+        "rating": 3.7
+    },
+    {
+        "isbn": "978-987-4638-24-6",
+        "titulo": "Libro de Prueba 831",
+        "autor": "Harlan Coben",
+        "genero": "Terror",
+        "rating": 4.8
+    },
+    {
+        "isbn": "978-987-8833-78-2",
+        "titulo": "Libro de Prueba 832",
+        "autor": "Gillian Flynn",
+        "genero": "Novela negra",
+        "rating": 4.1
+    },
+    {
+        "isbn": "978-987-9409-65-9",
+        "titulo": "Libro de Prueba 833",
+        "autor": "Freida McFadden",
+        "genero": "Misterio",
+        "rating": 4.4
+    },
+    {
+        "isbn": "978-987-6677-92-6",
+        "titulo": "Libro de Prueba 834",
+        "autor": "John Katzenbach",
+        "genero": "Misterio",
+        "rating": 3.2
+    },
+    {
+        "isbn": "978-987-8314-74-3",
+        "titulo": "Libro de Prueba 835",
+        "autor": "Harlan Coben",
+        "genero": "Thriller psicológico",
+        "rating": 3.5
+    },
+    {
+        "isbn": "978-987-4856-86-9",
+        "titulo": "Libro de Prueba 836",
+        "autor": "Harlan Coben",
+        "genero": "Terror",
+        "rating": 3.8
+    },
+    {
+        "isbn": "978-987-5003-71-2",
+        "titulo": "Libro de Prueba 837",
+        "autor": "Stephen King",
+        "genero": "Suspenso",
+        "rating": 4.2
+    },
+    {
+        "isbn": "978-987-8532-81-0",
+        "titulo": "Libro de Prueba 838",
+        "autor": "Gillian Flynn",
+        "genero": "Suspenso",
+        "rating": 3.8
+    },
+    {
+        "isbn": "978-987-8090-21-8",
+        "titulo": "Libro de Prueba 839",
+        "autor": "Alex Michaelides",
+        "genero": "Thriller psicológico",
+        "rating": 4.7
+    },
+    {
+        "isbn": "978-987-1448-44-2",
+        "titulo": "Libro de Prueba 840",
+        "autor": "Paula Hawkins",
+        "genero": "Novela negra",
+        "rating": 4.2
+    },
+    {
+        "isbn": "978-987-4027-50-7",
+        "titulo": "Libro de Prueba 841",
+        "autor": "Freida McFadden",
+        "genero": "Terror",
+        "rating": 4.2
+    },
+    {
+        "isbn": "978-987-8942-11-3",
+        "titulo": "Libro de Prueba 842",
+        "autor": "Harlan Coben",
+        "genero": "Terror",
+        "rating": 3.8
+    },
+    {
+        "isbn": "978-987-7180-16-5",
+        "titulo": "Libro de Prueba 843",
+        "autor": "John Katzenbach",
+        "genero": "Novela negra",
+        "rating": 3.6
+    },
+    {
+        "isbn": "978-987-8842-11-7",
+        "titulo": "Libro de Prueba 844",
+        "autor": "Gillian Flynn",
+        "genero": "Misterio",
+        "rating": 4.2
+    },
+    {
+        "isbn": "978-987-9839-75-0",
+        "titulo": "Libro de Prueba 845",
+        "autor": "Stephen King",
+        "genero": "Thriller psicológico",
+        "rating": 3.2
+    },
+    {
+        "isbn": "978-987-9977-79-2",
+        "titulo": "Libro de Prueba 846",
+        "autor": "Paula Hawkins",
+        "genero": "Terror",
+        "rating": 4.6
+    },
+    {
+        "isbn": "978-987-1910-74-5",
+        "titulo": "Libro de Prueba 847",
+        "autor": "Harlan Coben",
+        "genero": "Suspenso",
+        "rating": 4.9
+    },
+    {
+        "isbn": "978-987-2783-34-9",
+        "titulo": "Libro de Prueba 848",
+        "autor": "Stephen King",
+        "genero": "Misterio",
+        "rating": 4.6
+    },
+    {
+        "isbn": "978-987-7694-73-7",
+        "titulo": "Libro de Prueba 849",
+        "autor": "John Katzenbach",
+        "genero": "Novela negra",
+        "rating": 3.5
+    },
+    {
+        "isbn": "978-987-1861-67-1",
+        "titulo": "Libro de Prueba 850",
+        "autor": "Paula Hawkins",
+        "genero": "Novela negra",
+        "rating": 3.3
+    },
+    {
+        "isbn": "978-987-5834-97-5",
+        "titulo": "Libro de Prueba 851",
+        "autor": "Paula Hawkins",
+        "genero": "Terror",
+        "rating": 4.6
+    },
+    {
+        "isbn": "978-987-4713-17-9",
+        "titulo": "Libro de Prueba 852",
+        "autor": "Stephen King",
+        "genero": "Terror",
+        "rating": 4.2
+    },
+    {
+        "isbn": "978-987-1914-11-1",
+        "titulo": "Libro de Prueba 853",
+        "autor": "Stephen King",
+        "genero": "Terror",
+        "rating": 4.9
+    },
+    {
+        "isbn": "978-987-6866-62-8",
+        "titulo": "Libro de Prueba 854",
+        "autor": "Stephen King",
+        "genero": "Novela negra",
+        "rating": 3.6
+    },
+    {
+        "isbn": "978-987-5282-45-4",
+        "titulo": "Libro de Prueba 855",
+        "autor": "Harlan Coben",
+        "genero": "Terror",
+        "rating": 5.0
+    },
+    {
+        "isbn": "978-987-2529-81-4",
+        "titulo": "Libro de Prueba 856",
+        "autor": "Freida McFadden",
+        "genero": "Thriller psicológico",
+        "rating": 4.5
+    },
+    {
+        "isbn": "978-987-6568-52-8",
+        "titulo": "Libro de Prueba 857",
+        "autor": "Stephen King",
+        "genero": "Thriller psicológico",
+        "rating": 4.0
+    },
+    {
+        "isbn": "978-987-5127-47-5",
+        "titulo": "Libro de Prueba 858",
+        "autor": "Stephen King",
+        "genero": "Thriller psicológico",
+        "rating": 3.3
+    },
+    {
+        "isbn": "978-987-3811-66-7",
+        "titulo": "Libro de Prueba 859",
+        "autor": "Harlan Coben",
+        "genero": "Misterio",
+        "rating": 4.3
+    },
+    {
+        "isbn": "978-987-2276-63-1",
+        "titulo": "Libro de Prueba 860",
+        "autor": "Alex Michaelides",
+        "genero": "Novela negra",
+        "rating": 3.4
+    },
+    {
+        "isbn": "978-987-4886-37-8",
+        "titulo": "Libro de Prueba 861",
+        "autor": "Paula Hawkins",
+        "genero": "Terror",
+        "rating": 3.3
+    },
+    {
+        "isbn": "978-987-8992-41-8",
+        "titulo": "Libro de Prueba 862",
+        "autor": "Paula Hawkins",
+        "genero": "Misterio",
+        "rating": 4.7
+    },
+    {
+        "isbn": "978-987-8698-81-8",
+        "titulo": "Libro de Prueba 863",
+        "autor": "Harlan Coben",
+        "genero": "Terror",
+        "rating": 4.6
+    },
+    {
+        "isbn": "978-987-6029-69-4",
+        "titulo": "Libro de Prueba 864",
+        "autor": "Freida McFadden",
+        "genero": "Suspenso",
+        "rating": 4.8
+    },
+    {
+        "isbn": "978-987-8743-11-8",
+        "titulo": "Libro de Prueba 865",
+        "autor": "Stephen King",
+        "genero": "Terror",
+        "rating": 3.8
+    },
+    {
+        "isbn": "978-987-3850-54-2",
+        "titulo": "Libro de Prueba 866",
+        "autor": "Paula Hawkins",
+        "genero": "Misterio",
+        "rating": 4.1
+    },
+    {
+        "isbn": "978-987-5232-41-2",
+        "titulo": "Libro de Prueba 867",
+        "autor": "Paula Hawkins",
+        "genero": "Suspenso",
+        "rating": 3.8
+    },
+    {
+        "isbn": "978-987-2474-40-7",
+        "titulo": "Libro de Prueba 868",
+        "autor": "Alex Michaelides",
+        "genero": "Misterio",
+        "rating": 3.8
+    },
+    {
+        "isbn": "978-987-8210-94-3",
+        "titulo": "Libro de Prueba 869",
+        "autor": "Stephen King",
+        "genero": "Misterio",
+        "rating": 4.0
+    },
+    {
+        "isbn": "978-987-5850-53-3",
+        "titulo": "Libro de Prueba 870",
+        "autor": "Gillian Flynn",
+        "genero": "Suspenso",
+        "rating": 4.7
+    },
+    {
+        "isbn": "978-987-8833-87-4",
+        "titulo": "Libro de Prueba 871",
+        "autor": "Stephen King",
+        "genero": "Novela negra",
+        "rating": 3.0
+    },
+    {
+        "isbn": "978-987-2711-79-1",
+        "titulo": "Libro de Prueba 872",
+        "autor": "Gillian Flynn",
+        "genero": "Misterio",
+        "rating": 4.2
+    },
+    {
+        "isbn": "978-987-4126-35-1",
+        "titulo": "Libro de Prueba 873",
+        "autor": "Paula Hawkins",
+        "genero": "Misterio",
+        "rating": 4.0
+    },
+    {
+        "isbn": "978-987-8102-79-3",
+        "titulo": "Libro de Prueba 874",
+        "autor": "John Katzenbach",
+        "genero": "Terror",
+        "rating": 3.9
+    },
+    {
+        "isbn": "978-987-1583-17-9",
+        "titulo": "Libro de Prueba 875",
+        "autor": "John Katzenbach",
+        "genero": "Suspenso",
+        "rating": 5.0
+    },
+    {
+        "isbn": "978-987-5142-12-6",
+        "titulo": "Libro de Prueba 876",
+        "autor": "Paula Hawkins",
+        "genero": "Terror",
+        "rating": 4.4
+    },
+    {
+        "isbn": "978-987-9049-18-5",
+        "titulo": "Libro de Prueba 877",
+        "autor": "Freida McFadden",
+        "genero": "Novela negra",
+        "rating": 4.1
+    },
+    {
+        "isbn": "978-987-9918-31-8",
+        "titulo": "Libro de Prueba 878",
+        "autor": "Stephen King",
+        "genero": "Novela negra",
+        "rating": 3.4
+    },
+    {
+        "isbn": "978-987-4413-59-8",
+        "titulo": "Libro de Prueba 879",
+        "autor": "Alex Michaelides",
+        "genero": "Thriller psicológico",
+        "rating": 3.9
+    },
+    {
+        "isbn": "978-987-2992-87-8",
+        "titulo": "Libro de Prueba 880",
+        "autor": "Shari Lapena",
+        "genero": "Terror",
+        "rating": 4.3
+    },
+    {
+        "isbn": "978-987-7456-27-9",
+        "titulo": "Libro de Prueba 881",
+        "autor": "Harlan Coben",
+        "genero": "Misterio",
+        "rating": 4.6
+    },
+    {
+        "isbn": "978-987-4100-55-2",
+        "titulo": "Libro de Prueba 882",
+        "autor": "Shari Lapena",
+        "genero": "Terror",
+        "rating": 3.2
+    },
+    {
+        "isbn": "978-987-3048-27-2",
+        "titulo": "Libro de Prueba 883",
+        "autor": "Harlan Coben",
+        "genero": "Novela negra",
+        "rating": 3.2
+    },
+    {
+        "isbn": "978-987-8123-50-6",
+        "titulo": "Libro de Prueba 884",
+        "autor": "John Katzenbach",
+        "genero": "Suspenso",
+        "rating": 3.1
+    },
+    {
+        "isbn": "978-987-8993-69-0",
+        "titulo": "Libro de Prueba 885",
+        "autor": "Alex Michaelides",
+        "genero": "Terror",
+        "rating": 4.7
+    },
+    {
+        "isbn": "978-987-3683-42-1",
+        "titulo": "Libro de Prueba 886",
+        "autor": "Paula Hawkins",
+        "genero": "Suspenso",
+        "rating": 4.2
+    },
+    {
+        "isbn": "978-987-7205-50-2",
+        "titulo": "Libro de Prueba 887",
+        "autor": "John Katzenbach",
+        "genero": "Suspenso",
+        "rating": 3.1
+    },
+    {
+        "isbn": "978-987-5307-28-6",
+        "titulo": "Libro de Prueba 888",
+        "autor": "Stephen King",
+        "genero": "Misterio",
+        "rating": 4.0
+    },
+    {
+        "isbn": "978-987-2660-47-7",
+        "titulo": "Libro de Prueba 889",
+        "autor": "Shari Lapena",
+        "genero": "Thriller psicológico",
+        "rating": 4.2
+    },
+    {
+        "isbn": "978-987-6491-12-1",
+        "titulo": "Libro de Prueba 890",
+        "autor": "Stephen King",
+        "genero": "Thriller psicológico",
+        "rating": 3.3
+    },
+    {
+        "isbn": "978-987-1621-81-8",
+        "titulo": "Libro de Prueba 891",
+        "autor": "Harlan Coben",
+        "genero": "Thriller psicológico",
+        "rating": 3.3
+    },
+    {
+        "isbn": "978-987-5592-92-4",
+        "titulo": "Libro de Prueba 892",
+        "autor": "Harlan Coben",
+        "genero": "Misterio",
+        "rating": 3.5
+    },
+    {
+        "isbn": "978-987-4403-12-8",
+        "titulo": "Libro de Prueba 893",
+        "autor": "Stephen King",
+        "genero": "Suspenso",
+        "rating": 4.3
+    },
+    {
+        "isbn": "978-987-4298-35-0",
+        "titulo": "Libro de Prueba 894",
+        "autor": "Shari Lapena",
+        "genero": "Terror",
+        "rating": 4.7
+    },
+    {
+        "isbn": "978-987-5570-56-9",
+        "titulo": "Libro de Prueba 895",
+        "autor": "Freida McFadden",
+        "genero": "Suspenso",
+        "rating": 4.4
+    },
+    {
+        "isbn": "978-987-6375-44-6",
+        "titulo": "Libro de Prueba 896",
+        "autor": "Freida McFadden",
+        "genero": "Suspenso",
+        "rating": 3.2
+    },
+    {
+        "isbn": "978-987-4663-39-5",
+        "titulo": "Libro de Prueba 897",
+        "autor": "Shari Lapena",
+        "genero": "Thriller psicológico",
+        "rating": 3.1
+    },
+    {
+        "isbn": "978-987-8018-87-9",
+        "titulo": "Libro de Prueba 898",
+        "autor": "Alex Michaelides",
+        "genero": "Suspenso",
+        "rating": 4.9
+    },
+    {
+        "isbn": "978-987-8446-40-6",
+        "titulo": "Libro de Prueba 899",
+        "autor": "Shari Lapena",
+        "genero": "Misterio",
+        "rating": 3.6
+    },
+    {
+        "isbn": "978-987-9196-73-3",
+        "titulo": "Libro de Prueba 900",
+        "autor": "Freida McFadden",
+        "genero": "Suspenso",
+        "rating": 3.8
+    },
+    {
+        "isbn": "978-987-4912-15-5",
+        "titulo": "Libro de Prueba 901",
+        "autor": "Freida McFadden",
+        "genero": "Misterio",
+        "rating": 4.8
+    },
+    {
+        "isbn": "978-987-1970-41-6",
+        "titulo": "Libro de Prueba 902",
+        "autor": "Paula Hawkins",
+        "genero": "Thriller psicológico",
+        "rating": 4.0
+    },
+    {
+        "isbn": "978-987-8168-66-1",
+        "titulo": "Libro de Prueba 903",
+        "autor": "Paula Hawkins",
+        "genero": "Misterio",
+        "rating": 4.2
+    },
+    {
+        "isbn": "978-987-7078-94-7",
+        "titulo": "Libro de Prueba 904",
+        "autor": "Gillian Flynn",
+        "genero": "Misterio",
+        "rating": 3.0
+    },
+    {
+        "isbn": "978-987-4185-42-1",
+        "titulo": "Libro de Prueba 905",
+        "autor": "Shari Lapena",
+        "genero": "Suspenso",
+        "rating": 3.8
+    },
+    {
+        "isbn": "978-987-5474-50-8",
+        "titulo": "Libro de Prueba 906",
+        "autor": "Shari Lapena",
+        "genero": "Misterio",
+        "rating": 4.6
+    },
+    {
+        "isbn": "978-987-9686-25-6",
+        "titulo": "Libro de Prueba 907",
+        "autor": "Harlan Coben",
+        "genero": "Novela negra",
+        "rating": 3.0
+    },
+    {
+        "isbn": "978-987-7078-25-8",
+        "titulo": "Libro de Prueba 908",
+        "autor": "Freida McFadden",
+        "genero": "Terror",
+        "rating": 3.6
+    },
+    {
+        "isbn": "978-987-5565-50-3",
+        "titulo": "Libro de Prueba 909",
+        "autor": "Gillian Flynn",
+        "genero": "Thriller psicológico",
+        "rating": 3.4
+    },
+    {
+        "isbn": "978-987-3578-36-2",
+        "titulo": "Libro de Prueba 910",
+        "autor": "Shari Lapena",
+        "genero": "Suspenso",
+        "rating": 3.4
+    },
+    {
+        "isbn": "978-987-7878-69-1",
+        "titulo": "Libro de Prueba 911",
+        "autor": "Alex Michaelides",
+        "genero": "Terror",
+        "rating": 3.0
+    },
+    {
+        "isbn": "978-987-3862-88-6",
+        "titulo": "Libro de Prueba 912",
+        "autor": "Stephen King",
+        "genero": "Thriller psicológico",
+        "rating": 4.3
+    },
+    {
+        "isbn": "978-987-5364-79-3",
+        "titulo": "Libro de Prueba 913",
+        "autor": "John Katzenbach",
+        "genero": "Novela negra",
+        "rating": 3.6
+    },
+    {
+        "isbn": "978-987-8477-72-5",
+        "titulo": "Libro de Prueba 914",
+        "autor": "Freida McFadden",
+        "genero": "Misterio",
+        "rating": 3.2
+    },
+    {
+        "isbn": "978-987-3283-40-6",
+        "titulo": "Libro de Prueba 915",
+        "autor": "Alex Michaelides",
+        "genero": "Suspenso",
+        "rating": 3.9
+    },
+    {
+        "isbn": "978-987-9637-80-0",
+        "titulo": "Libro de Prueba 916",
+        "autor": "John Katzenbach",
+        "genero": "Terror",
+        "rating": 3.4
+    },
+    {
+        "isbn": "978-987-2967-33-9",
+        "titulo": "Libro de Prueba 917",
+        "autor": "Alex Michaelides",
+        "genero": "Suspenso",
+        "rating": 4.4
+    },
+    {
+        "isbn": "978-987-4053-64-5",
+        "titulo": "Libro de Prueba 918",
+        "autor": "Gillian Flynn",
+        "genero": "Terror",
+        "rating": 3.6
+    },
+    {
+        "isbn": "978-987-7363-59-2",
+        "titulo": "Libro de Prueba 919",
+        "autor": "Shari Lapena",
+        "genero": "Terror",
+        "rating": 4.3
+    },
+    {
+        "isbn": "978-987-4262-89-6",
+        "titulo": "Libro de Prueba 920",
+        "autor": "Shari Lapena",
+        "genero": "Novela negra",
+        "rating": 4.5
+    },
+    {
+        "isbn": "978-987-8904-61-6",
+        "titulo": "Libro de Prueba 921",
+        "autor": "John Katzenbach",
+        "genero": "Suspenso",
+        "rating": 4.4
+    },
+    {
+        "isbn": "978-987-8196-92-5",
+        "titulo": "Libro de Prueba 922",
+        "autor": "John Katzenbach",
+        "genero": "Misterio",
+        "rating": 3.7
+    },
+    {
+        "isbn": "978-987-8302-97-1",
+        "titulo": "Libro de Prueba 923",
+        "autor": "Shari Lapena",
+        "genero": "Thriller psicológico",
+        "rating": 4.7
+    },
+    {
+        "isbn": "978-987-2136-64-7",
+        "titulo": "Libro de Prueba 924",
+        "autor": "Alex Michaelides",
+        "genero": "Novela negra",
+        "rating": 3.5
+    },
+    {
+        "isbn": "978-987-3490-74-9",
+        "titulo": "Libro de Prueba 925",
+        "autor": "Freida McFadden",
+        "genero": "Terror",
+        "rating": 4.4
+    },
+    {
+        "isbn": "978-987-6850-85-3",
+        "titulo": "Libro de Prueba 926",
+        "autor": "Shari Lapena",
+        "genero": "Suspenso",
+        "rating": 3.7
+    },
+    {
+        "isbn": "978-987-3135-63-3",
+        "titulo": "Libro de Prueba 927",
+        "autor": "Shari Lapena",
+        "genero": "Terror",
+        "rating": 3.5
+    },
+    {
+        "isbn": "978-987-5310-91-1",
+        "titulo": "Libro de Prueba 928",
+        "autor": "Shari Lapena",
+        "genero": "Terror",
+        "rating": 3.9
+    },
+    {
+        "isbn": "978-987-3993-47-6",
+        "titulo": "Libro de Prueba 929",
+        "autor": "Paula Hawkins",
+        "genero": "Suspenso",
+        "rating": 3.3
+    },
+    {
+        "isbn": "978-987-2604-34-0",
+        "titulo": "Libro de Prueba 930",
+        "autor": "Stephen King",
+        "genero": "Suspenso",
+        "rating": 3.7
+    },
+    {
+        "isbn": "978-987-4514-86-5",
+        "titulo": "Libro de Prueba 931",
+        "autor": "Shari Lapena",
+        "genero": "Suspenso",
+        "rating": 3.4
+    },
+    {
+        "isbn": "978-987-6746-87-6",
+        "titulo": "Libro de Prueba 932",
+        "autor": "John Katzenbach",
+        "genero": "Thriller psicológico",
+        "rating": 4.3
+    },
+    {
+        "isbn": "978-987-5151-17-8",
+        "titulo": "Libro de Prueba 933",
+        "autor": "Harlan Coben",
+        "genero": "Misterio",
+        "rating": 3.3
+    },
+    {
+        "isbn": "978-987-8646-86-0",
+        "titulo": "Libro de Prueba 934",
+        "autor": "Alex Michaelides",
+        "genero": "Thriller psicológico",
+        "rating": 4.4
+    },
+    {
+        "isbn": "978-987-6220-14-8",
+        "titulo": "Libro de Prueba 935",
+        "autor": "Harlan Coben",
+        "genero": "Thriller psicológico",
+        "rating": 4.2
+    },
+    {
+        "isbn": "978-987-7235-39-5",
+        "titulo": "Libro de Prueba 936",
+        "autor": "Paula Hawkins",
+        "genero": "Misterio",
+        "rating": 4.7
+    },
+    {
+        "isbn": "978-987-3439-57-0",
+        "titulo": "Libro de Prueba 937",
+        "autor": "Harlan Coben",
+        "genero": "Terror",
+        "rating": 4.0
+    },
+    {
+        "isbn": "978-987-3530-24-8",
+        "titulo": "Libro de Prueba 938",
+        "autor": "Gillian Flynn",
+        "genero": "Terror",
+        "rating": 4.8
+    },
+    {
+        "isbn": "978-987-4104-39-5",
+        "titulo": "Libro de Prueba 939",
+        "autor": "Shari Lapena",
+        "genero": "Thriller psicológico",
+        "rating": 3.5
+    },
+    {
+        "isbn": "978-987-3971-35-6",
+        "titulo": "Libro de Prueba 940",
+        "autor": "Stephen King",
+        "genero": "Suspenso",
+        "rating": 4.5
+    },
+    {
+        "isbn": "978-987-5224-91-1",
+        "titulo": "Libro de Prueba 941",
+        "autor": "Alex Michaelides",
+        "genero": "Novela negra",
+        "rating": 3.2
+    },
+    {
+        "isbn": "978-987-9543-16-3",
+        "titulo": "Libro de Prueba 942",
+        "autor": "John Katzenbach",
+        "genero": "Thriller psicológico",
+        "rating": 4.1
+    },
+    {
+        "isbn": "978-987-5606-12-4",
+        "titulo": "Libro de Prueba 943",
+        "autor": "Shari Lapena",
+        "genero": "Thriller psicológico",
+        "rating": 4.3
+    },
+    {
+        "isbn": "978-987-1005-64-2",
+        "titulo": "Libro de Prueba 944",
+        "autor": "Gillian Flynn",
+        "genero": "Novela negra",
+        "rating": 4.0
+    },
+    {
+        "isbn": "978-987-8075-21-4",
+        "titulo": "Libro de Prueba 945",
+        "autor": "Gillian Flynn",
+        "genero": "Terror",
+        "rating": 5.0
+    },
+    {
+        "isbn": "978-987-6866-10-2",
+        "titulo": "Libro de Prueba 946",
+        "autor": "Alex Michaelides",
+        "genero": "Misterio",
+        "rating": 4.0
+    },
+    {
+        "isbn": "978-987-6753-38-3",
+        "titulo": "Libro de Prueba 947",
+        "autor": "Harlan Coben",
+        "genero": "Terror",
+        "rating": 4.6
+    },
+    {
+        "isbn": "978-987-2571-44-8",
+        "titulo": "Libro de Prueba 948",
+        "autor": "Stephen King",
+        "genero": "Suspenso",
+        "rating": 4.9
+    },
+    {
+        "isbn": "978-987-4880-78-0",
+        "titulo": "Libro de Prueba 949",
+        "autor": "Stephen King",
+        "genero": "Suspenso",
+        "rating": 4.0
+    },
+    {
+        "isbn": "978-987-5483-82-5",
+        "titulo": "Libro de Prueba 950",
+        "autor": "John Katzenbach",
+        "genero": "Thriller psicológico",
+        "rating": 3.1
+    },
+    {
+        "isbn": "978-987-3677-52-8",
+        "titulo": "Libro de Prueba 951",
+        "autor": "John Katzenbach",
+        "genero": "Terror",
+        "rating": 4.9
+    },
+    {
+        "isbn": "978-987-1824-19-3",
+        "titulo": "Libro de Prueba 952",
+        "autor": "Paula Hawkins",
+        "genero": "Suspenso",
+        "rating": 4.9
+    },
+    {
+        "isbn": "978-987-9609-13-3",
+        "titulo": "Libro de Prueba 953",
+        "autor": "John Katzenbach",
+        "genero": "Misterio",
+        "rating": 4.4
+    },
+    {
+        "isbn": "978-987-8025-30-5",
+        "titulo": "Libro de Prueba 954",
+        "autor": "Shari Lapena",
+        "genero": "Novela negra",
+        "rating": 3.8
+    },
+    {
+        "isbn": "978-987-1551-88-9",
+        "titulo": "Libro de Prueba 955",
+        "autor": "Stephen King",
+        "genero": "Suspenso",
+        "rating": 3.5
+    },
+    {
+        "isbn": "978-987-9710-46-0",
+        "titulo": "Libro de Prueba 956",
+        "autor": "John Katzenbach",
+        "genero": "Terror",
+        "rating": 4.7
+    },
+    {
+        "isbn": "978-987-7251-73-6",
+        "titulo": "Libro de Prueba 957",
+        "autor": "Stephen King",
+        "genero": "Suspenso",
+        "rating": 3.3
+    },
+    {
+        "isbn": "978-987-2012-92-5",
+        "titulo": "Libro de Prueba 958",
+        "autor": "Gillian Flynn",
+        "genero": "Thriller psicológico",
+        "rating": 4.2
+    },
+    {
+        "isbn": "978-987-6564-44-7",
+        "titulo": "Libro de Prueba 959",
+        "autor": "Harlan Coben",
+        "genero": "Terror",
+        "rating": 3.1
+    },
+    {
+        "isbn": "978-987-4330-12-6",
+        "titulo": "Libro de Prueba 960",
+        "autor": "Stephen King",
+        "genero": "Terror",
+        "rating": 3.4
+    },
+    {
+        "isbn": "978-987-8345-33-0",
+        "titulo": "Libro de Prueba 961",
+        "autor": "Gillian Flynn",
+        "genero": "Suspenso",
+        "rating": 4.8
+    },
+    {
+        "isbn": "978-987-1400-57-0",
+        "titulo": "Libro de Prueba 962",
+        "autor": "Paula Hawkins",
+        "genero": "Suspenso",
+        "rating": 3.9
+    },
+    {
+        "isbn": "978-987-6332-45-3",
+        "titulo": "Libro de Prueba 963",
+        "autor": "Shari Lapena",
+        "genero": "Misterio",
+        "rating": 3.3
+    },
+    {
+        "isbn": "978-987-9841-55-3",
+        "titulo": "Libro de Prueba 964",
+        "autor": "Paula Hawkins",
+        "genero": "Terror",
+        "rating": 5.0
+    },
+    {
+        "isbn": "978-987-9141-12-8",
+        "titulo": "Libro de Prueba 965",
+        "autor": "Stephen King",
+        "genero": "Novela negra",
+        "rating": 4.9
+    },
+    {
+        "isbn": "978-987-6818-11-5",
+        "titulo": "Libro de Prueba 966",
+        "autor": "Stephen King",
+        "genero": "Terror",
+        "rating": 3.5
+    },
+    {
+        "isbn": "978-987-8597-94-7",
+        "titulo": "Libro de Prueba 967",
+        "autor": "John Katzenbach",
+        "genero": "Misterio",
+        "rating": 3.5
+    },
+    {
+        "isbn": "978-987-4895-82-5",
+        "titulo": "Libro de Prueba 968",
+        "autor": "Alex Michaelides",
+        "genero": "Misterio",
+        "rating": 3.4
+    },
+    {
+        "isbn": "978-987-4152-28-8",
+        "titulo": "Libro de Prueba 969",
+        "autor": "Alex Michaelides",
+        "genero": "Misterio",
+        "rating": 3.2
+    },
+    {
+        "isbn": "978-987-1043-35-9",
+        "titulo": "Libro de Prueba 970",
+        "autor": "Alex Michaelides",
+        "genero": "Suspenso",
+        "rating": 3.4
+    },
+    {
+        "isbn": "978-987-6608-53-5",
+        "titulo": "Libro de Prueba 971",
+        "autor": "Gillian Flynn",
+        "genero": "Misterio",
+        "rating": 4.3
+    },
+    {
+        "isbn": "978-987-1652-62-4",
+        "titulo": "Libro de Prueba 972",
+        "autor": "Alex Michaelides",
+        "genero": "Thriller psicológico",
+        "rating": 4.3
+    },
+    {
+        "isbn": "978-987-3651-61-3",
+        "titulo": "Libro de Prueba 973",
+        "autor": "Paula Hawkins",
+        "genero": "Suspenso",
+        "rating": 4.4
+    },
+    {
+        "isbn": "978-987-6198-55-2",
+        "titulo": "Libro de Prueba 974",
+        "autor": "Shari Lapena",
+        "genero": "Misterio",
+        "rating": 4.7
+    },
+    {
+        "isbn": "978-987-9355-57-8",
+        "titulo": "Libro de Prueba 975",
+        "autor": "Paula Hawkins",
+        "genero": "Suspenso",
+        "rating": 3.5
+    },
+    {
+        "isbn": "978-987-1867-90-0",
+        "titulo": "Libro de Prueba 976",
+        "autor": "John Katzenbach",
+        "genero": "Suspenso",
+        "rating": 3.1
+    },
+    {
+        "isbn": "978-987-5080-46-1",
+        "titulo": "Libro de Prueba 977",
+        "autor": "Freida McFadden",
+        "genero": "Suspenso",
+        "rating": 3.2
+    },
+    {
+        "isbn": "978-987-2723-81-0",
+        "titulo": "Libro de Prueba 978",
+        "autor": "Freida McFadden",
+        "genero": "Thriller psicológico",
+        "rating": 3.6
+    },
+    {
+        "isbn": "978-987-9463-53-8",
+        "titulo": "Libro de Prueba 979",
+        "autor": "Paula Hawkins",
+        "genero": "Thriller psicológico",
+        "rating": 5.0
+    },
+    {
+        "isbn": "978-987-1201-22-1",
+        "titulo": "Libro de Prueba 980",
+        "autor": "Freida McFadden",
+        "genero": "Suspenso",
+        "rating": 3.6
+    },
+    {
+        "isbn": "978-987-5993-66-5",
+        "titulo": "Libro de Prueba 981",
+        "autor": "John Katzenbach",
+        "genero": "Novela negra",
+        "rating": 4.2
+    },
+    {
+        "isbn": "978-987-6445-90-1",
+        "titulo": "Libro de Prueba 982",
+        "autor": "Paula Hawkins",
+        "genero": "Terror",
+        "rating": 4.1
+    },
+    {
+        "isbn": "978-987-3002-14-2",
+        "titulo": "Libro de Prueba 983",
+        "autor": "Shari Lapena",
+        "genero": "Suspenso",
+        "rating": 4.4
+    },
+    {
+        "isbn": "978-987-7308-92-4",
+        "titulo": "Libro de Prueba 984",
+        "autor": "Shari Lapena",
+        "genero": "Terror",
+        "rating": 4.8
+    },
+    {
+        "isbn": "978-987-5273-44-8",
+        "titulo": "Libro de Prueba 985",
+        "autor": "Alex Michaelides",
+        "genero": "Novela negra",
+        "rating": 5.0
+    },
+    {
+        "isbn": "978-987-3091-64-2",
+        "titulo": "Libro de Prueba 986",
+        "autor": "Freida McFadden",
+        "genero": "Novela negra",
+        "rating": 4.0
+    },
+    {
+        "isbn": "978-987-3779-40-0",
+        "titulo": "Libro de Prueba 987",
+        "autor": "John Katzenbach",
+        "genero": "Misterio",
+        "rating": 3.6
+    },
+    {
+        "isbn": "978-987-2581-95-0",
+        "titulo": "Libro de Prueba 988",
+        "autor": "John Katzenbach",
+        "genero": "Novela negra",
+        "rating": 3.0
+    },
+    {
+        "isbn": "978-987-9342-96-8",
+        "titulo": "Libro de Prueba 989",
+        "autor": "Stephen King",
+        "genero": "Terror",
+        "rating": 3.0
+    },
+    {
+        "isbn": "978-987-4908-10-1",
+        "titulo": "Libro de Prueba 990",
+        "autor": "Alex Michaelides",
+        "genero": "Terror",
+        "rating": 4.7
+    },
+    {
+        "isbn": "978-987-3263-83-1",
+        "titulo": "Libro de Prueba 991",
+        "autor": "John Katzenbach",
+        "genero": "Suspenso",
+        "rating": 4.3
+    },
+    {
+        "isbn": "978-987-1817-56-5",
+        "titulo": "Libro de Prueba 992",
+        "autor": "Stephen King",
+        "genero": "Misterio",
+        "rating": 4.0
+    },
+    {
+        "isbn": "978-987-3743-47-0",
+        "titulo": "Libro de Prueba 993",
+        "autor": "Gillian Flynn",
+        "genero": "Misterio",
+        "rating": 3.1
+    },
+    {
+        "isbn": "978-987-1181-74-1",
+        "titulo": "Libro de Prueba 994",
+        "autor": "Freida McFadden",
+        "genero": "Terror",
+        "rating": 3.0
+    },
+    {
+        "isbn": "978-987-1146-68-5",
+        "titulo": "Libro de Prueba 995",
+        "autor": "Freida McFadden",
+        "genero": "Misterio",
+        "rating": 3.5
+    },
+    {
+        "isbn": "978-987-5590-28-0",
+        "titulo": "Libro de Prueba 996",
+        "autor": "John Katzenbach",
+        "genero": "Terror",
+        "rating": 4.0
+    },
+    {
+        "isbn": "978-987-2207-65-7",
+        "titulo": "Libro de Prueba 997",
+        "autor": "Harlan Coben",
+        "genero": "Thriller psicológico",
+        "rating": 4.0
+    },
+    {
+        "isbn": "978-987-7353-38-2",
+        "titulo": "Libro de Prueba 998",
+        "autor": "Alex Michaelides",
+        "genero": "Terror",
+        "rating": 3.5
+    },
+    {
+        "isbn": "978-987-3384-62-5",
+        "titulo": "Libro de Prueba 999",
+        "autor": "Gillian Flynn",
+        "genero": "Terror",
+        "rating": 3.2
+    },
+    {
+        "isbn": "978-987-2355-84-3",
+        "titulo": "Libro de Prueba 1000",
+        "autor": "Gillian Flynn",
+        "genero": "Thriller psicológico",
+        "rating": 4.0
+    }
+]
