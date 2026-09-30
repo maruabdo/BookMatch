@@ -23,28 +23,29 @@ def cargar_catalogo_en_arbol(ruta_json):
     return arbol
 
 if __name__ == "__main__":
-    # Probamos con el archivo de 1000 libros para empezar
-    ruta_archivo = "libros_1000.json" 
-    print(f"Cargando {ruta_archivo} en el BST...")
+    archivos = ["libros_1000.json", "libros_10000.json", "libros_100000.json"]
     
-    inicio_carga = time.time()
-    arbol_libros = cargar_catalogo_en_arbol(ruta_archivo)
-    fin_carga = time.time()
+    print("=== INICIANDO EXPERIMENTOS DE RENDIMIENTO (BST) ===")
     
-    print(f"Tiempo de construcción del árbol: {fin_carga - inicio_carga:.6f} segundos.")
-    
-    # Probamos el tiempo de búsqueda en el árbol
-    if arbol_libros.raiz:
-        titulo_a_buscar = "Libro de Prueba 1"
-        print(f"\nBuscando el libro: '{titulo_a_buscar}'...")
+    for archivo in archivos:
+        print(f"\n--- Probando con: {archivo} ---")
         
-        inicio_busqueda = time.time()
-        resultado = arbol_libros.buscar(titulo_a_buscar)
-        fin_busqueda = time.time()
+        inicio_carga = time.time()
+        arbol = cargar_catalogo_en_arbol(archivo)
+        fin_carga = time.time()
         
-        if resultado:
-            print(f"¡Encontrado! Título: {resultado.titulo}")
-        else:
-            print("El libro no se encuentra en el árbol.")
+        tiempo_carga = fin_carga - inicio_carga
+        print(f"⏱️️ Tiempo de construcción: {tiempo_carga:.6f} segundos.")
+        
+        if arbol.raiz:
+            titulo_prueba = "Libro de Prueba 1" # O el título que sepas que está en esos JSON
             
-        print(f"Tiempo de búsqueda en BST: {fin_busqueda - inicio_busqueda:.6f} segundos.")
+            inicio_busq = time.time()
+            encontrado = arbol.buscar(titulo_prueba)
+            fin_busq = time.time()
+            
+            tiempo_busq = fin_busq - inicio_busq
+            estado = "Encontrado" if encontrado else "No encontrado"
+            print(f"🔍 Búsqueda: {estado} en {tiempo_busq:.8f} segundos.")
+
+    print("\n=== EXPERIMENTOS FINALIZADOS ===")
