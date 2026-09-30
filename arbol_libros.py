@@ -57,6 +57,25 @@ class ArbolBinarioBusqueda:
             self.inorder(nodo.derecho, resultado)
         return resultado
     
+    def preorder(self, nodo, resultado=None):
+        """Recorrido Pre-Order (Raíz, Izquierda, Derecha)."""
+        if resultado is None:
+            resultado = []
+        if nodo is not None:
+            resultado.append(nodo.titulo)
+            self.preorder(nodo.izquierdo, resultado)
+            self.preorder(nodo.derecho, resultado)
+        return resultado
+
+    def postorder(self, nodo, resultado=None):
+        """Recorrido Post-Order (Izquierda, Derecha, Raíz)."""
+        if resultado is None:
+            resultado = []
+        if nodo is not None:
+            self.postorder(nodo.izquierdo, resultado)
+            self.postorder(nodo.derecho, resultado)
+            resultado.append(nodo.titulo)
+        return resultado
 
 
 # Chequeo
